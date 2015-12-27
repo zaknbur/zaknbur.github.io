@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blue Badge Parking - Central London</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+      #info-box {
+        background-color: white;
+        border: 1px solid black;
+        bottom: 30px;
+        height: 20px;
+        padding: 10px;
+        position: absolute;
+        left: 30px;
+     }
+     #streetview {
+        background-color: white;
+        border: 2px solid blue;
+        bottom: 10px;
+        height: 20px;
+        padding: 20px;
+        position: relative;
+        left: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="info-box">?</div>
+        <div id="streetview"></div>
+    <script>
+
+var map;
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 14,
+      scaleControl: true,
+    streetViewControl: true,
+    center: {lat: 51.51, lng: -0.14}
+  });
+
+  // Load GeoJSON.
+ // map.data.loadGeoJson('geojson-io.json');
+ //  map.data.loadGeoJson('tester-bb.json');
+   map.data.loadGeoJson('b-b-tester-url.json');
+//  map.data.loadGeoJson('blue-badge-mar-20-kml.json');
+ 
+  // Add some style.
+  map.data.setStyle(function(feature) {
+    return /** @type {google.maps.Data.StyleOptions} */({
+      fillColor: feature.getProperty('color'),
+      strokeWeight: 1
+    });
+  });
+  
+ //[START streetview]
+  //cbll= Latitude,longitude for Street View
+//http://maps.google.com/maps?q=&layer=c&cbll=31.33519,-89.28720
+//      "coordinates": [	-0.09	,	51.5]
+// [END streetview]
+
+  // [START snippet]
+  // Set mouseover event for each feature.
+  map.data.addListener('mouseover', function(event) {
+    document.getElementById('info-box').textContent =
+        event.feature.getProperty('name')+'  '+event.feature.getProperty('postcode') +'<a href="'+ event.feature.getProperty('street-view')+'">'+ event.feature.getProperty('lat-long')+'</a>';
+   });
+  // [END snippet]
+//        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
+ //           document.getElementById("results").innerHTML=str;
+ 
+ 
+ //function myFunction(arr) {
+ //   var out = "";
+ //   var i;
+ //   for(i = 0; i<arr.length; i++) {
+  //      out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
+  //  }
+ //   document.getElementById("id01").innerHTML = out;
+ 
+ 
+  
+}
+    </script>
+    
+ <script>  
+ //lat long in a infowindow
+ google.maps.event.addListener(map, 'click', function(event) {
+  placeMarker(event.latLng);
+  });
+
+function placeMarker(location) {
+  var marker = new google.maps.Marker({
+    position: location,
+    map: map,
+  });
+  var infowindow = new google.maps.InfoWindow({
+    content: 'Latitude: ' + location.lat() +
+    '<br>Longitude: ' + location.lng()
+  });
+  infowindow.open(map,marker);
+}
+</script> 
+    
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCJ2KM9fPuRBp5MhDYMMQ8vgF8bU4VyXaw&signed_in=true&callback=initMap"></script>
+  </body>
+</html>
