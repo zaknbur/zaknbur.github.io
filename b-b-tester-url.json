@@ -1,0 +1,52 @@
+
+{
+ "type":"FeatureCollection",
+ "features": [
+     {
+     "type":"Feature",
+     "properties": {      
+                   "updated":"October 2015",
+                   "location":"Kensington",
+                 "street-view":"http://maps.google.com/maps?q=&layer=c&cbll=",
+                "postcode":"W10 5YG",
+               "lat-long":[51.5167,-0.1825],
+               "name":"Acklam Road - check"      
+               
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-0.1825	,	51.5167]
+      }
+    },
+    {
+     "type":"Feature",
+     "properties": {      
+                   "updated":"joe",
+                   "location":"joe",
+                 "street-view":"http://maps.google.com/maps?q=&layer=c&cbll=",
+                "postcode":"NULL",
+                              "lat-long":[51.5199,-0.1628],
+               "name":"York Street check it exists"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-0.1628	,	51.5199]
+      }
+    },
+    {
+     "type":"Feature",
+     "properties": {      
+                   "updated":"joe",
+                   "location":"Kensington",
+                 "street-view":"http://maps.google.com/maps?q=&layer=c&cbll=",
+                "postcode":"W8 5EH",
+                              "lat-long":[51.5018,-0.1900],
+               "name":"Young Street check if there are three"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-0.1900	,	51.5018]
+      }
+    }
+  ]
+}
