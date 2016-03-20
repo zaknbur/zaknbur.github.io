@@ -16,19 +16,19 @@
       #info-box {
         background-color: white;
         border: 1px solid black;
-        bottom: 30px;
+        bottom: 40px;
         height: 20px;
         padding: 10px;
         position: absolute;
-        left: 30px;
+        left: 40px;
      }
-     #streetview {
+      #streetview {
         background-color: white;
         border: 2px solid blue;
         bottom: 10px;
-        height: 20px;
-        padding: 20px;
-        position: relative;
+        height: 10px;
+        padding: 10px;
+        position: absolute;
         left: 10px;
       }
     </style>
@@ -43,16 +43,14 @@ var map;
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     zoom: 14,
-      scaleControl: true,
-    streetViewControl: true,
-    center: {lat: 51.51, lng: -0.14}
+    center: {lat: 51.51, lng: -0.19}
   });
 
   // Load GeoJSON.
  // map.data.loadGeoJson('geojson-io.json');
- //  map.data.loadGeoJson('tester-bb.json');
-   map.data.loadGeoJson('b-b-tester-url.json');
-//  map.data.loadGeoJson('blue-badge-mar-20-kml.json');
+ map.data.loadGeoJson('blue-badge-feb-16.json');
+ //  map.data.loadGeoJson('b-b-tester-url.json');
+ // map.data.loadGeoJson('blue-badge-mar-20-kml-1-feb.json');
  
   // Add some style.
   map.data.setStyle(function(feature) {
@@ -65,53 +63,28 @@ function initMap() {
  //[START streetview]
   //cbll= Latitude,longitude for Street View
 //http://maps.google.com/maps?q=&layer=c&cbll=31.33519,-89.28720
-//      "coordinates": [	-0.09	,	51.5]
+//      "coordinates": [	-0.194	,	51.51]
 // [END streetview]
 
   // [START snippet]
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent =
-        event.feature.getProperty('name')+'  '+event.feature.getProperty('postcode') +'<a href="'+ event.feature.getProperty('street-view')+'">'+ event.feature.getProperty('lat-long')+'</a>';
+        event.feature.getProperty('name')+' ,   postcode = '+event.feature.getProperty('postcode');
+    });       
+    map.data.addListener('mouseover', function(event) {
+    document.getElementById('streetview').innerHTML ='<a href="http://maps.google.com/maps?q=&layer=c&cbll='+event.feature.getProperty('street')+'"> Streetview image</a>';      
    });
+   
+   
   // [END snippet]
+   //<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
 //        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
  //           document.getElementById("results").innerHTML=str;
- 
- 
- //function myFunction(arr) {
- //   var out = "";
- //   var i;
- //   for(i = 0; i<arr.length; i++) {
-  //      out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
-  //  }
- //   document.getElementById("id01").innerHTML = out;
- 
- 
-  
 }
     </script>
-    
- <script>  
- //lat long in a infowindow
- google.maps.event.addListener(map, 'click', function(event) {
-  placeMarker(event.latLng);
-  });
-
-function placeMarker(location) {
-  var marker = new google.maps.Marker({
-    position: location,
-    map: map,
-  });
-  var infowindow = new google.maps.InfoWindow({
-    content: 'Latitude: ' + location.lat() +
-    '<br>Longitude: ' + location.lng()
-  });
-  infowindow.open(map,marker);
-}
-</script> 
-    
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCJ2KM9fPuRBp5MhDYMMQ8vgF8bU4VyXaw&signed_in=true&callback=initMap"></script>
   </body>
 </html>
+
