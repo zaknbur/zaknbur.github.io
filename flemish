@@ -2,7 +2,7 @@
   "type": "Feature",
   "properties": {
     "name": "Flemish Diamond",
-    "area": 2947
+    "area": "2947"
   },
   "geometry": {
     "type": "Polygon",
