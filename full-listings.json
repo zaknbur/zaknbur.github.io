@@ -1,4 +1,3 @@
-====
 {
   "type": "FeatureCollection",
   "features": [
@@ -10,24 +9,9 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "Flemish Diamond",
-        "area": "2947"
+        "name": "Bomlo -1",
+        "map ref": "11141"
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.11962890625,
-====
-
-
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {"Bomlo -1 - bbb,11141"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -41,28 +25,14 @@
         ]
       }
     },
-
-==============
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name ": "uuu"
+        "name": "Bomlo -2",
+        "map ref": "11141"
       },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.938110351562499,
-==============
-    {
-      "type": "Feature",
-      "properties": {"Bomlo -2"bbb,11141},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -79,7 +49,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -3",bbb,11141},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo 3",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -96,7 +71,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -4",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -4",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -113,7 +93,13 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -5",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -5",
+        "map ref": "11141"
+      },
+      "geometry": {
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -130,7 +116,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -1",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -6",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -147,7 +138,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -7",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -7",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -164,7 +160,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -8",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -8",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -181,7 +182,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -9",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -9",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -198,7 +204,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -10",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -10",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -215,7 +226,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -11",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -11",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -232,7 +248,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -12",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -12",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -249,7 +270,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -13",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -13",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -266,7 +292,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -14",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -14",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -283,7 +314,12 @@
     },
     {
       "type": "Feature",
-      "properties": {"Bomlo -15",bbb,11141,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Bomlo -15",
+        "map ref": "11141"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -300,19 +336,17 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-1",
+        "map ref": "18242"
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
+  "coordinates": [
           [
-   
-   {
-      "type": "Feature",
-      "properties": {Lillefjel-1,bbb,18242,},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [],aaa,
+ [
  [ 13.004076256248377   , 64.63249914059806 ] , 
  [ 13.047980460807217   , 64.63308564053249 ] , 
  [ 13.050166875121105   , 64.60259424891419 ] , 
@@ -324,7 +358,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-2,bbb,18242,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-2",
+        "map ref": "18242"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -341,7 +380,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-3,bbb,18242,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-3",
+        "map ref": "18242"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -358,7 +402,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-4,bbb,18242,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-4",
+        "map ref": "18242"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -375,7 +424,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-5,bbb,18242,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-5",
+        "map ref": "18242"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -392,7 +446,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-6,bbb,18242,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-6",
+        "map ref": "18242"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -401,11 +460,18 @@
  [ 13.037749901761893   , 64.67334461764769 ] , 
  [ 13.095331551809625   , 64.67409714714272 ] , 
  [ 13.097531673942218   , 64.64270825033714 ] , 
- [ 13.040016435311994   , 64.64195678153203 ] 
-,,,,,,,,,
-            [     {
+ [ 13.040016435311994   , 64.64195678153203 ]          ]
+        ]
+      }
+    },
+    {
       "type": "Feature",
-      "properties": {Lillefjel-7,bbb,18242,},
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-7",
+        "map ref": "18242"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -422,8 +488,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-8,bbb,18242,},
-      "geometry": {
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-8",
+        "map ref": "18242"
+      },
         "type": "Polygon",
         "coordinates": [
           [
@@ -439,8 +509,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-9,bbb,18242,},
-      "geometry": {
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-9",
+        "map ref": "18242"
+      },
         "type": "Polygon",
         "coordinates": [
           [
@@ -456,8 +530,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-10,bbb,18242,},
-      "geometry": {
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-10",
+        "map ref": "18242"
+      },
         "type": "Polygon",
         "coordinates": [
           [
@@ -473,8 +551,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-11,bbb,18242,},
-      "geometry": {
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-11",
+        "map ref": "18242"
+      },
         "type": "Polygon",
         "coordinates": [
           [
@@ -490,8 +572,12 @@
     },
     {
       "type": "Feature",
-      "properties": {Lillefjel-12,bbb,18242,},
-      "geometry": {
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-12",
+        "map ref": "18242"
+      },
         "type": "Polygon",
         "coordinates": [
           [
@@ -505,10 +591,14 @@
         ]
       }
     },
- {
+    {
       "type": "Feature",
-      "properties": {Blika-3,bbb,16143,},
-      "geometry": {
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Lillefjel-13",
+        "map ref": "18242"
+      },
         "type": "Polygon",
         "coordinates": [
           [
@@ -523,10 +613,14 @@
       }
     },
 
- {
+    {
       "type": "Feature",
-      "properties": {Tordal-3,bbb,16133,},
-      "geometry": {
+      "properties": {
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Tordal-3",
+        "map ref": "16133"
+      },
         "type": "Polygon",
         "coordinates": [
           [
@@ -535,7 +629,7 @@
  [ 8.719386669245127   , 59.21763579447705 ] , 
  [ 8.719533982840515   , 59.1996753002188 ] , 
  [ 8.63199961623845   , 59.19945704347034 ] , 
- [ 8.631806327815216   , 59.217417382903854            ]
+ [ 8.631806327815216   , 59.217417382903854 ]
           ]
         ]
       }
