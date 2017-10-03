@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Draggable Polygons</title>
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      } 
+    </style>
+ 
+    <script>
+// This example creates concession polygons on the map.
+
+function initBomlo() {
+
+  var mapOptions = {
+    zoom: 11,
+    center: new google.maps.LatLng(59.750,5.250),
+    mapTypeId: google.maps.MapTypeId.TERRAIN
+  };
+
+//info window
+
+var infoWindow;
+
+
+
+
+  var map = new google.maps.Map(document.getElementById('map-canvas'),
+      mapOptions);
+
+// [START Bomlo -1	11141]
+ var red1Coords  = [
+    new google.maps.LatLng(  59.7802749 , 5.2175072	),
+    new google.maps.LatLng(  59.7812938 , 5.2530516	),
+    new google.maps.LatLng(  59.7364917 , 5.2580726	),
+    new google.maps.LatLng(  59.7354746 , 5.2225756	),
+    new google.maps.LatLng(  59.7802749 , 5.2175072	)
+  ];
+
+
+// [START Bomlo -2	11141]
+  var redCoords = [
+    new google.maps.LatLng( 59.7787285 , 5.1641955	),
+    new google.maps.LatLng( 59.7802749 , 5.2175072	),
+    new google.maps.LatLng( 59.7504111 , 5.2208876	),
+    new google.maps.LatLng( 59.7488665 , 5.1676232	),
+    new google.maps.LatLng( 59.7787285 , 5.1641955	)
+];
+ // Get coords
+
+function initBomlo() {
+  var mapCanvas = document.getElementById("map");
+  var myCenter=new google.maps.LatLng(51.508742,-0.120850);
+  var mapOptions = {center: myCenter, zoom: 5};
+  var map = new google.maps.Map(mapCanvas, mapOptions);
+  google.maps.event.addListener(map, 'click', function(event) {
+    placeMarker(map, event.latLng);
+  });
+}
+
+function placeMarker(map, location) {
+  var marker = new google.maps.Marker({
+    position: location,
+    map: map
+  });
+  var infowindow = new google.maps.InfoWindow({
+    content: 'Latitude: ' + location.lat() + '<br>Longitude: ' + location.lng()
+  });
+  infowindow.open(map,marker);
+}
+</script>
+
+
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+</body>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&callback=initBomlo">
+    </script>
+
+
+</html>
+
+

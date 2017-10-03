@@ -1,0 +1,118 @@
+(function() {
+
+	window.onload = function() {
+
+		// Creating a new map
+		var map = new google.maps.Map(document.getElementById("map"), {
+          center: new google.maps.LatLng(64.7, 12.8),
+          zoom: 11,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
+
+
+		// Creating the JSON data
+		var json = [
+  { "type": "FeatureCollection",
+  "features": [
+ {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "name": "Lillefjel-9",
+        "map ref": "18242"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.87058600397004   , 64.70694120780647 ] , 
+ [ 12.922992344987069   , 64.70768556594194 ] , 
+ [ 12.925737836222002   , 64.67181643735911 ] , 
+ [ 12.873400642692037   , 64.6710732791111 ] , 
+ [ 12.87058600397004   , 64.70694120780647]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "name": "Lillefjel-10",
+        "map ref": "18242"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.922992344987069   , 64.70768556594194 ] , 
+ [ 12.975401846066525   , 64.70841138846619 ] , 
+ [ 12.978078176474721   , 64.6725410898114 ] , 
+ [ 12.925737836222002   , 64.67181643735911 ] , 
+ [ 12.922992344987069   , 64.70768556594194]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "yellow",
+        "fill-opacity": 0.25,
+        "name": "Lillefjel-11",
+        "map ref": "18242"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.975401846066525   , 64.70841138846619 ] , 
+ [ 13.027814427787389   , 64.70911867334087 ] , 
+ [ 13.030421584363369   , 64.67324723443777 ] , 
+ [ 12.978078176474721   , 64.6725410898114 ] , 
+ [ 12.975401846066525   , 64.70841138846619]
+          ]
+        ]
+      }
+    }
+  ]
+}
+]
+
+		// Creating a global infoWindow object that will be reused by all markers
+		var infoWindow = new google.maps.InfoWindow();
+
+		// Looping through the JSON data
+		for (var i = 0, length = json.length; i < length; i++) {
+			var data = json[i],
+				latLng = new google.maps.LatLng(data.lat, data.lng);
+
+			// Creating a marker and putting it on the map
+			var marker = new google.maps.Marker({
+				position: latLng,
+				map: map,
+				title: data.title
+			});
+
+			// Creating a closure to retain the correct data, notice how I pass the current data in the loop into the closure (marker, data)
+			(function(marker, data) {
+
+				// Attaching a click event to the current marker
+				google.maps.event.addListener(marker, "click", function(e) {
+					infoWindow.setContent(data.description);
+					infoWindow.open(map, marker);
+				});
+
+
+			})(marker, data);
+
+		}
+
+	}
+
+})();
