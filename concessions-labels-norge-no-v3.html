@@ -55,9 +55,12 @@ function initNorge() {
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent = 
-        event.feature.getProperty('concession-name').innerHTML ='</p>' +' map reference = '+event.feature.getProperty ('map-ref');
+        event.feature.getProperty('concession-name').innerHTML ='</p> + map reference = '+event.feature.getProperty ('map-ref');
   });
 }
+     //========
+   //    document.getElementById('myText').innerHTML = 'Hey <strong>Thanks!</strong>';
+   //======  
     // Set mouseover event for each feature.
 //  map.data.addListener('mouseover', function(event) {
  //   document.getElementById('info-box').textContent =
