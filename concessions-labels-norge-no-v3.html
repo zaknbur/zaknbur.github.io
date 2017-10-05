@@ -17,7 +17,7 @@
       background-color: white;
       border: 1px solid black;
       bottom: 10px;
-      height: 60px;
+      height: 20px;
       padding: 10px;
       position: absolute;
       left: 20px;
@@ -55,7 +55,7 @@ function initNorge() {
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent = 
-        event.feature.getProperty('concession-name')+ \ '    + map ref = '+event.feature.getProperty ('map-ref');
+        event.feature.getProperty('concession-name')+ ' \    + map ref = '+event.feature.getProperty ('map-ref');
   });
 }
      //========
