@@ -56,7 +56,7 @@ function initNorge() {
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent =
         event.feature.getProperty('concession-name' )
-     +         event.feature.getProperty('map ref' );
+     +         event.feature.getProperty('map-ref' );
   });
 }
 
