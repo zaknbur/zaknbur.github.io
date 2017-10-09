@@ -42,7 +42,7 @@ function initNorge() {
 
 
   // Load a GeoJSON from the same server as our demo.
-  map.data.loadGeoJson('norge-a.json');
+  map.data.loadGeoJson('norge-abc.json');
 
     // Add some style.
   map.data.setStyle(function(feature) {
@@ -55,7 +55,7 @@ function initNorge() {
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent =
-        event.feature.getProperty('concession-name' );
+        event.feature.getProperty('concession-name');
   });
 }
 
