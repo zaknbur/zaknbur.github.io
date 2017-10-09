@@ -6,9 +6,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -1",
-        "map-ref": "11141 - Bomlo",
-        "lat-long": "(59.781/5.220)(59.735/5.255)" 
+        "map ref": "11141 - Bomlo",
+        "lat long": "(59.781/5.220)(59.735/5.255)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -29,9 +30,10 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "fill-opacity": 0.5,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -2",
-        "map-ref": "11141 - Bomlo",
-        "lat-long": "(59.779/5.219)(59.749/5.166)" 
+        "map ref": "11141 - Bomlo",
+        "lat long": "(59.779/5.219)(59.749/5.166)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -52,9 +54,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo 3",
-        "map-ref": "11141 - Bomlo",
-        "lat-long": "(59.782/5.255)(59.737/5.291)" 
+        "map ref": "11141 - Bomlo",
+        "lat long": "(59.782/5.255)(59.737/5.291)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -75,9 +78,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -4",
-        "map-ref": "11141 - Bomlo",
-        "lat-long": "(59.782/5.291)(59.737/5.326)" 
+        "map ref": "11141 - Bomlo",
+        "lat long": "(59.782/5.291)(59.737/5.326)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -98,9 +102,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -5",
-        "map-ref": "11141 - Bomlo",
-        "lat-long": "(59.798/5.163)(59.780/5.252)" 
+        "map ref": "11141 - Bomlo",
+        "lat long": "(59.798/5.163)(59.780/5.252)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -121,9 +126,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -6",
-        "map-ref": "11141 - Bomlo",
-        "lat-long": "(59.804/5.252)(59.782/5.252)" 
+        "map ref": "11141 - Bomlo",
+        "lat long": "(59.804/5.252)(59.782/5.252)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -144,9 +150,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -7",
-        "map-ref": "11141 - Bomlo",
-        "lat-long": "(59.778/5.112)(59.748/5.166)" 
+        "map ref": "11141 - Bomlo",
+        "lat long": "(59.778/5.112)(59.748/5.166)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -167,9 +174,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -8",
-        "map-ref": "11141 - Bomlo",
-        "lat-long": "(59.808/5.109)(59.778/5.162)" 
+        "map ref": "11141 - Bomlo",
+        "lat long": "(59.808/5.109)(59.778/5.162)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -190,9 +198,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -9",
-        "map-ref": "11141 - Bomlo",
-        "lat-long": "(59.816/5.161)(59.798/5.250)" 
+        "map ref": "11141 - Bomlo",
+        "lat long": "(59.816/5.161)(59.798/5.250)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -213,9 +222,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -10",
-        "map-ref": "11142 - Bomlo",
-        "lat-long": "(59.657/5.167)(59.612/5.203)" 
+        "map ref": "11142 - Bomlo",
+        "lat long": "(59.657/5.167)(59.612/5.203)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -236,9 +246,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -11",
-        "map-ref": "11142 - Bomlo",
-        "lat-long": "(59.658/5.203)(59.613/5.238)" 
+        "map ref": "11142 - Bomlo",
+        "lat long": "(59.658/5.203)(59.613/5.238)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -259,9 +270,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -12",
-        "map-ref": "11142 - Bomlo",
-        "lat-long": "(59.700/5.232)(59.673/5.269)" 
+        "map ref": "11142 - Bomlo",
+        "lat long": "(59.700/5.232)(59.673/5.269)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -282,9 +294,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -13",
-        "map-ref": "11142 - Bomlo",
-        "lat-long": "(59.200/5.22)(59.659/5.271)" 
+        "map ref": "11142 - Bomlo",
+        "lat long": "(59.200/5.22)(59.659/5.271)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -305,9 +318,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -14",
-        "map-ref": "11142 - Bomlo",
-        "lat-long": "(59.612/5.181)(59.583/5.234)" 
+        "map ref": "11142 - Bomlo",
+        "lat long": "(59.612/5.181)(59.583/5.234)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -328,9 +342,10 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -15",
-        "map-ref": "11142 - Bomlo",
-        "lat-long": "(59.718/5.248)(59.701/5.266)" 
+        "map ref": "11142 - Bomlo",
+        "lat long": "(59.718/5.248)(59.701/5.266)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -351,9 +366,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-1",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.633/13.005)(64.602/13.049)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.633/13.005)(64.602/13.049)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -374,9 +390,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-2",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.632/12.961)(64.602/13.005)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.632/12.961)(64.602/13.005)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -397,9 +414,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-3",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.632/12.917)(64.601/12.961)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.632/12.917)(64.601/12.961)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -420,9 +438,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-4",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.659/12.097)(64.640/13.189)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.659/12.097)(64.640/13.189)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -443,9 +462,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-5",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.679/13.096)(64.659/13.188)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.679/13.096)(64.659/13.188)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -466,9 +486,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-6",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.674/13.039)(64.642/13.096)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.674/13.039)(64.642/13.096)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -489,9 +510,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-7",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.673/12.981)(64.641/13.039)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.673/12.981)(64.641/13.039)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -512,9 +534,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-8",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.672/12.924)(64.641/12.981)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.672/12.924)(64.641/12.981)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -535,9 +558,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-9",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.707/12.871)(64.671/13.924)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.707/12.871)(64.671/13.924)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -551,16 +575,17 @@
  [ 12.87058600397004   , 64.70694120780647]
           ]
         ]
-      }
+      } 
     },
     {
       "type": "Feature",
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-10",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.708/12.924)(64.672/12.977)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.708/12.924)(64.672/12.977)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -581,14 +606,15 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-11",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.709/12.977)(64.673/13.029)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.709/12.977)(64.673/13.029)" 
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
-          [ 
+          [
  
  [ 12.975401846066525   , 64.70841138846619 ] , 
  [ 13.027814427787389   , 64.70911867334087 ] , 
@@ -604,9 +630,10 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-12",
-        "map-ref": "18242 -  Namsskogan", 
-        "lat-long": "(64.709/13.029)(64.709/13.081)" 
+        "map ref": "18242 -  Namsskogan", 
+        "lat long": "(64.709/13.029)(64.709/13.081)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -628,9 +655,10 @@
       "properties": {
         "fill": "green",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 2004"   ,
         "concession-name": "Blika-3",
-        "map-ref": "16143 - Seljord ", 
-        "lat-long": "(59.674/8.490)(59.629/8.525)" 
+        "map ref": "15143 Froystaul ? as poss typo in 16143-Seljord ", 
+        "lat long": "(59.674/8.490)(59.629/8.525)" 
       },
       "geometry": {
         "type": "Polygon",
@@ -652,9 +680,10 @@
       "properties": {
         "fill": "yellow",
         "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1994"   ,
         "concession-name": "Tordal-3",
-        "map-ref": "16133  -  Drangedal", 
-        "lat-long": "(59.218/8.632)(59.200/8.719)" 
+        "map ref": "16123 Gjerstadt ? as typo in 16133-Drangedal", 
+        "lat long": "(59.218/8.632)(59.200/8.719)" 
       },
       "geometry": {
         "type": "Polygon",
