@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
   <head>    
@@ -8,20 +9,32 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
-      html, body, #map-canvas {
+      html, body {
         height: 100%;
-        margin: 0px;
-        padding: 0px
+        margin: 0;
+        padding: 0;
       }
-    #info-box {
-      background-color: white;
-      border: 1px solid black;
-      bottom: 30px;
-      height: 20px;
-      padding: 10px;
-      position: absolute;
-      left: 30px;
-    } 
+      #map {
+        height: 100%;
+      }
+      #info-box {
+        background-color: white;
+        border: 1px solid black;
+        bottom: 40px;
+        height: 20px;
+        padding: 10px;
+        position: absolute;
+        left: 40px;
+     }
+      #streetview {
+        background-color: white;
+        border: 2px solid blue;
+        bottom: 10px;
+        height: 10px;
+        padding: 10px;
+        position: absolute;
+        left: 10px;
+      }
     </style>
 
     <script async defer
@@ -51,14 +64,20 @@ function initNorge() {
       strokeWeight: 1
     });
   });
- 
+
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent =
-        event.feature.getProperty('concession-name');
-  });
-}
+        event.feature.getProperty('concession-name')+' ,   commodity = '+event.feature.getProperty('commodity');
+    });       
+    map.data.addListener('mouseover', function(event) {
+    document.getElementById('streetview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('web reference')+'"> web reference</a>';      
+   });
+   
+  
+  // [END snippet]
 
+====
 google.maps.event.addDomListener(window, 'load', initNorge);
 
     </script>
@@ -68,7 +87,7 @@ google.maps.event.addDomListener(window, 'load', initNorge);
   <body>
     <div id="map-canvas"></div>
     <div id="info-box">?</div>
-
+    <div id="streetview">??</div>
 
   </body>
 </html>
