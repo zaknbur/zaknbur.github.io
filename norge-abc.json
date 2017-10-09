@@ -7,8 +7,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -1",
-        "map ref": "11141 - Bomlo",
+        "concession-name": "Bomlo -1",
+        "map-ref": "11141 - Bomlo",
         "lat long": "(59.781/5.220)(59.735/5.255)" 
       },
       "geometry": {
@@ -31,8 +31,8 @@
         "fill-opacity": 0.25,
         "fill-opacity": 0.5,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -2",
-        "map ref": "11141 - Bomlo",
+        "concession-name": "Bomlo -2",
+        "map-ref": "11141 - Bomlo",
         "lat long": "(59.779/5.219)(59.749/5.166)" 
       },
       "geometry": {
@@ -55,8 +55,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo 3",
-        "map ref": "11141 - Bomlo",
+        "concession-name": "Bomlo 3",
+        "map-ref": "11141 - Bomlo",
         "lat long": "(59.782/5.255)(59.737/5.291)" 
       },
       "geometry": {
@@ -79,8 +79,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -4",
-        "map ref": "11141 - Bomlo",
+        "concession-name": "Bomlo -4",
+        "map-ref": "11141 - Bomlo",
         "lat long": "(59.782/5.291)(59.737/5.326)" 
       },
       "geometry": {
@@ -103,8 +103,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -5",
-        "map ref": "11141 - Bomlo",
+        "concession-name": "Bomlo -5",
+        "map-ref": "11141 - Bomlo",
         "lat long": "(59.798/5.163)(59.780/5.252)" 
       },
       "geometry": {
@@ -127,8 +127,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -6",
-        "map ref": "11141 - Bomlo",
+        "concession-name": "Bomlo -6",
+        "map-ref": "11141 - Bomlo",
         "lat long": "(59.804/5.252)(59.782/5.252)" 
       },
       "geometry": {
@@ -151,8 +151,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -7",
-        "map ref": "11141 - Bomlo",
+        "concession-name": "Bomlo -7",
+        "map-ref": "11141 - Bomlo",
         "lat long": "(59.778/5.112)(59.748/5.166)" 
       },
       "geometry": {
@@ -175,8 +175,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -8",
-        "map ref": "11141 - Bomlo",
+        "concession-name": "Bomlo -8",
+        "map-ref": "11141 - Bomlo",
         "lat long": "(59.808/5.109)(59.778/5.162)" 
       },
       "geometry": {
@@ -199,8 +199,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -9",
-        "map ref": "11141 - Bomlo",
+        "concession-name": "Bomlo -9",
+        "map-ref": "11141 - Bomlo",
         "lat long": "(59.816/5.161)(59.798/5.250)" 
       },
       "geometry": {
@@ -223,8 +223,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -10",
-        "map ref": "11142 - Bomlo",
+        "concession-name": "Bomlo -10",
+        "map-ref": "11142 - Bomlo",
         "lat long": "(59.657/5.167)(59.612/5.203)" 
       },
       "geometry": {
@@ -247,8 +247,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -11",
-        "map ref": "11142 - Bomlo",
+        "concession-name": "Bomlo -11",
+        "map-ref": "11142 - Bomlo",
         "lat long": "(59.658/5.203)(59.613/5.238)" 
       },
       "geometry": {
@@ -271,8 +271,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -12",
-        "map ref": "11142 - Bomlo",
+        "concession-name": "Bomlo -12",
+        "map-ref": "11142 - Bomlo",
         "lat long": "(59.700/5.232)(59.673/5.269)" 
       },
       "geometry": {
@@ -295,8 +295,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -13",
-        "map ref": "11142 - Bomlo",
+        "concession-name": "Bomlo -13",
+        "map-ref": "11142 - Bomlo",
         "lat long": "(59.200/5.22)(59.659/5.271)" 
       },
       "geometry": {
@@ -319,8 +319,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -14",
-        "map ref": "11142 - Bomlo",
+        "concession-name": "Bomlo -14",
+        "map-ref": "11142 - Bomlo",
         "lat long": "(59.612/5.181)(59.583/5.234)" 
       },
       "geometry": {
@@ -343,8 +343,8 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
-        "concession name": "Bomlo -15",
-        "map ref": "11142 - Bomlo",
+        "concession-name": "Bomlo -15",
+        "map-ref": "11142 - Bomlo",
         "lat long": "(59.718/5.248)(59.701/5.266)" 
       },
       "geometry": {
@@ -367,8 +367,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-1",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-1",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.633/13.005)(64.602/13.049)" 
       },
       "geometry": {
@@ -391,8 +391,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-2",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-2",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.632/12.961)(64.602/13.005)" 
       },
       "geometry": {
@@ -415,8 +415,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-3",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-3",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.632/12.917)(64.601/12.961)" 
       },
       "geometry": {
@@ -439,8 +439,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-4",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-4",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.659/12.097)(64.640/13.189)" 
       },
       "geometry": {
@@ -463,8 +463,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-5",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-5",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.679/13.096)(64.659/13.188)" 
       },
       "geometry": {
@@ -487,8 +487,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-6",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-6",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.674/13.039)(64.642/13.096)" 
       },
       "geometry": {
@@ -511,8 +511,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-7",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-7",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.673/12.981)(64.641/13.039)" 
       },
       "geometry": {
@@ -535,8 +535,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-8",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-8",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.672/12.924)(64.641/12.981)" 
       },
       "geometry": {
@@ -559,8 +559,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-9",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-9",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.707/12.871)(64.671/13.924)" 
       },
       "geometry": {
@@ -583,8 +583,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-10",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-10",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.708/12.924)(64.672/12.977)" 
       },
       "geometry": {
@@ -607,8 +607,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-11",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-11",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.709/12.977)(64.673/13.029)" 
       },
       "geometry": {
@@ -631,8 +631,8 @@
         "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1982"   ,
-        "concession name": "Lillefjel-12",
-        "map ref": "18242 -  Namsskogan", 
+        "concession-name": "Lillefjel-12",
+        "map-ref": "18242 -  Namsskogan", 
         "lat long": "(64.709/13.029)(64.709/13.081)" 
       },
       "geometry": {
@@ -656,8 +656,8 @@
         "fill": "green",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 2004"   ,
-        "concession name": "Blika-3",
-        "map ref": "15143 Froystaul ? as poss typo in 16143-Seljord ", 
+        "concession-name": "Blika-3",
+        "map-ref": "15143 Froystaul ? as poss typo in 16143-Seljord ", 
         "lat long": "(59.674/8.490)(59.629/8.525)" 
       },
       "geometry": {
@@ -681,8 +681,8 @@
         "fill": "yellow",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1994"   ,
-        "concession name": "Tordal-3",
-        "map ref": "16123 Gjerstadt ? as typo in 16133-Drangedal", 
+        "concession-name": "Tordal-3",
+        "map-ref": "16123 Gjerstadt ? as typo in 16133-Drangedal", 
         "lat long": "(59.218/8.632)(59.200/8.719)" 
       },
       "geometry": {
@@ -709,7 +709,7 @@
         "marker-color": "#FFFF00",
         "commodity": "Gold - Au Bi Cu",
         "map 50k": "Hjartdal (1614-3)",
-        "location name": "Bleka - 0828.001",
+        "location-name": "Bleka - 0828.001",
         "web reference": "5433&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-474920 Y-6606099"
       },
@@ -727,7 +727,7 @@
         "marker-color": "#00FF00",
         "commodity": "Copper - Cu",
         "map 50k": "Åmotsdal (1514-2)",
-        "location name": "Hyttebekk - 0828.017",
+        "location-name": "Hyttebekk - 0828.017",
         "web reference": "5479&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-468914 Y-6600320"
       },
@@ -745,7 +745,7 @@
         "marker-color": "#00FF00",
         "commodity": "Copper - Kis Cu",
         "map 50k": "Åmotsdal (1514-2)",
-        "location name": "Sundsbarm - 0828.014",
+        "location-name": "Sundsbarm - 0828.014",
         "web reference": "5759&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-469284 Y-6599517"
       },
@@ -763,7 +763,7 @@
         "marker-color": "#FFFF00",
         "commodity": "Bismuth - Bi Au",
         "map 50k": "Hjartdal (1614-3)",
-        "location name": "Blengsdalen - 0828.002",
+        "location-name": "Blengsdalen - 0828.002",
         "web reference": "5434&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-475318 Y-6605091"
       },
@@ -781,7 +781,7 @@
         "marker-color": "#00FF00",
         "commodity": "Copper - Cu",
         "map 50k": "Hjartdal (1614-3)",
-        "location name": "Eisand - 0828.006",
+        "location-name": "Eisand - 0828.006",
         "web reference": "5438&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-479018 Y-6597091"
       },
@@ -799,7 +799,7 @@
         "marker-color": "#00FF00",
         "commodity": "Copper - Pyrites Cu Ag",
         "map 50k": "Åmotsdal (1514-2)",
-        "location name": "Gullnes - 0828.005",
+        "location-name": "Gullnes - 0828.005",
         "web reference": "5437&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-468968 Y-6599391"
       },
@@ -817,7 +817,7 @@
         "marker-color": "#00FF00",
         "commodity": "Copper - Pyrites Cu Pb",
         "map 50k": "Seljord (1613-4)",
-        "location name": "Gåsdalen - 0828.010",
+        "location-name": "Gåsdalen - 0828.010",
         "web reference": "5719&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-482768 Y-6587441"
       },
@@ -835,7 +835,7 @@
         "marker-color": "#00FF00",
         "commodity": "Copper - Pyrites Cu Fe",
         "map 50k": "Åmotsdal (1514-2)",
-        "location name": "Habbarskvammen - 0828.015",
+        "location-name": "Habbarskvammen - 0828.015",
         "web reference": "5760&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-468868 Y-6604891"
       },
@@ -853,7 +853,7 @@
         "marker-color": "#FF0000",
         "commodity": "Sulphides - Pyrites Fe",
         "map 50k": "Seljord (1613-4)",
-        "location name": "Haugland - 0828.011",
+        "location-name": "Haugland - 0828.011",
         "web reference": "5720&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-481818 Y-6586841"
       },
@@ -871,7 +871,7 @@
         "marker-color": "#FF0000",
         "commodity": "Molybdenum - Mo",
         "map 50k": "Seljord (1613-4)",
-        "location name": "Koppartjern - 0828.009",
+        "location-name": "Koppartjern - 0828.009",
         "web reference": "5695&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-488468 Y-6583041"
       },
@@ -889,7 +889,7 @@
         "marker-color": "#00FF00",
         "commodity": "Copper - Cu",
         "map 50k": "Seljord (1613-4)",
-        "location name": "Murtedalen - 0828.008",
+        "location-name": "Murtedalen - 0828.008",
         "web reference": "5444&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-482118 Y-6586291"
       },
@@ -907,7 +907,7 @@
         "marker-color": "#FF0000",
         "commodity": "Manganese - Fe Mn",
         "map 50k": "Hjartdal (1614-3)",
-        "location name": "Nutheim - 0828.016",
+        "location-name": "Nutheim - 0828.016",
         "web reference": "5766&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-475168 Y-6603091"
       },
@@ -925,7 +925,7 @@
         "marker-color": "#00FF00",
         "commodity": "Copper - Cu",
         "map 50k": "Hjartdal (1614-3)",
-        "location name": "Prestårhus - 0828.007",
+        "location-name": "Prestårhus - 0828.007",
         "web reference": "5439&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-479718 Y-6596691"
       },
@@ -943,7 +943,7 @@
         "marker-color": "#0000FF",
         "commodity": "Sulphides - Pyrite",
         "map 50k": "Seljord (1613-4)",
-        "location name": "Sønsttveiten - 0828.012",
+        "location-name": "Sønsttveiten - 0828.012",
         "web reference": "5721&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-480368 Y-6588641"
       },
@@ -961,7 +961,7 @@
         "marker-color": "#FF0000",
         "commodity": "Iron - Fe",
         "map 50k": "Åmotsdal (1514-2)",
-        "location name": "Tjørnstaul - 0828.013",
+        "location-name": "Tjørnstaul - 0828.013",
         "web reference": "5758&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-462118 Y-6604791"
       },
@@ -979,7 +979,7 @@
         "marker-color": "#00FF00",
         "commodity": "Lead - Pb Cu",
         "map 50k": "Åmotsdal (1514-2)",
-        "location name": "Åmotsdal - 0828.004",
+        "location-name": "Åmotsdal - 0828.004",
         "web reference": "5436&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-465118 Y-6611341"
       },
@@ -997,7 +997,7 @@
         "marker-color": "#00FF00",
         "commodity": "Copper - Cu Sb As",
         "map 50k": "Bandak (1513-1)",
-        "location name": "Åmotsdal - 0828.018",
+        "location-name": "Åmotsdal - 0828.018",
         "web reference": "5480&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-465104 Y-6611737"
       },
