@@ -8,21 +8,33 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
-      html, body, #map-canvas {
+      html, body {
         height: 100%;
-        margin: 0px;
-        padding: 0px
+        margin: 0;
+        padding: 0;
       }
-    #info-box {
-      background-color: white;
-      border: 1px solid black;
-      bottom: 30px;
-      height: 20px;
-      padding: 10px;
-      position: absolute;
-      left: 30px;
-    } 
-    </style>  
+      #map {
+        height: 100%;
+      }
+      #info-box {
+        background-color: white;
+        border: 1px solid black;
+        bottom: 40px;
+        height: 20px;
+        padding: 10px;
+        position: absolute;
+        left: 40px;
+     }
+      #streetview {
+        background-color: white;
+        border: 2px solid blue;
+        bottom: 10px;
+        height: 10px;
+        padding: 10px;
+        position: absolute;
+        left: 30px;
+      }
+    </style> 
 
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&callback=initNorge">
@@ -56,8 +68,23 @@ function initNorge() {
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent =
         event.feature.getProperty('concession-name' )+'metals  '+event.feature.getProperty('commodity');
-  });
+    });       
+
+    map.data.addListener('mouseover', function(event) {
+    document.getElementById('streetview').innerHTML ='<a href="http://maps.google.com/maps?q=&layer=c&cbll='+event.feature.getProperty('street')+'"> Streetview image</a>';      
+   });
+   
+   
+  // [END snippet]
+   //<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
+//        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
+ //           document.getElementById("results").innerHTML=str;
 }
+    </script>
+
+
+
+
 
 
 
@@ -69,9 +96,11 @@ google.maps.event.addDomListener(window, 'load', initNorge);
 
 
   <body>
-    <div id="map-canvas"></div>
-    <div id="info-box">?</div>
 
+
+    <div id="map"></div>
+    <div id="info-box">?</div>
+    <div id="streetview">street</div>
 
   </body>
 </html>
