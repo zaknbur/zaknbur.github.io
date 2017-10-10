@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1993 "   ,
+        "concession-name": "Bomlo -1",
+        "map-ref": "11141 - Bomlo",
+        "lat long": "(59.781/5.220)(59.735/5.255)" 
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ [ 5.217507226820386   , 59.78027487136033 ] , 
+ [ 5.25305156794258   , 59.78129381524108 ] , 
+ [ 5.2580725697699755   , 59.73649173468837 ] , 
+ [ 5.2225755837086965   , 59.73547461099351 ] , 
+ [ 5.217507226820386   , 59.78027487136033]
+          ]
+        ]
+      }
+    },
+ 
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "green",
+        "fill-opacity": 0.25,
+        "mapped 1-50k" : " 2004"   ,
+        "concession-name": "Blika-3",
+        "map-ref": "15143 Froystaul ? as poss typo in 16143-Seljord ", 
+        "lat long": "(59.674/8.490)(59.629/8.525)" 
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 8.4895732182252   , 59.67384952653121 ] , 
+ [ 8.525079695766621   , 59.67398282274797 ] , 
+ [ 8.525713817040984   , 59.62908565704615 ] , 
+ [ 8.490254743490254   , 59.62895259894542 ] , 
+ [ 8.4895732182252   , 59.67384952653121]
+          ]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "yellow",
+        "fill-opacity": 0.25,
+        "mapped 1-50k" : " 1994"   ,
+        "concession-name": "Tordal-3",
+        "map-ref": "16123 Gjerstadt ? as typo in 16133-Drangedal", 
+        "lat long": "(59.218/8.632)(59.200/8.719)" 
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 8.631806327815216   , 59.217417382903854 ] , 
+ [ 8.719386669245127   , 59.21763579447705 ] , 
+ [ 8.719533982840515   , 59.1996753002188 ] , 
+ [ 8.63199961623845   , 59.19945704347034 ] , 
+ [ 8.631806327815216   , 59.217417382903854]
+          ]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "commodity": "Gold - Au Bi Cu",
+        "map 50k": "Hjartdal (1614-3)",
+        "concession-name": "Bleka - 0828.001",
+        "web reference": "5433&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-474920 Y-6606099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.555809,
+          59.592373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "commodity": "Copper - Cu",
+        "map 50k": "Åmotsdal (1514-2)",
+        "concession-name": "Hyttebekk - 0828.017",
+        "web reference": "5479&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-468914 Y-6600320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.450299,
+          59.540069
+        ] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "commodity": "Copper - Kis Cu",
+        "map 50k": "Åmotsdal (1514-2)",
+        "concession-name": "Sundsbarm - 0828.014",
+        "web reference": "5759&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-469284 Y-6599517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.456964,
+          59.532894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "commodity": "Bismuth - Bi Au",
+        "map 50k": "Hjartdal (1614-3)",
+        "concession-name": "Blengsdalen - 0828.002",
+        "web reference": "5434&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-475318 Y-6605091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.562983,
+          59.583344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "commodity": "Copper - Cu",
+        "map 50k": "Hjartdal (1614-3)",
+        "concession-name": "Eisand - 0828.006",
+        "web reference": "5438&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-479018 Y-6597091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.629284,
+          59.511709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "commodity": "Copper - Pyrites Cu Ag",
+        "map 50k": "Åmotsdal (1514-2)",
+        "concession-name": "Gullnes - 0828.005",
+        "web reference": "5437&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-468968 Y-6599391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.451387,
+          59.531737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "commodity": "Copper - Pyrites Cu Pb",
+        "map 50k": "Seljord (1613-4)",
+        "concession-name": "Gåsdalen - 0828.010",
+        "web reference": "5719&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-482768 Y-6587441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.696319,
+          59.425224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "commodity": "Copper - Pyrites Cu Fe",
+        "map 50k": "Åmotsdal (1514-2)",
+        "concession-name": "Habbarskvammen - 0828.015",
+        "web reference": "5760&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-468868 Y-6604891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.448812,
+          59.581116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "commodity": "Sulphides - Pyrites Fe",
+        "map 50k": "Seljord (1613-4)",
+        "concession-name": "Haugland - 0828.011",
+        "web reference": "5720&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-481818 Y-6586841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679627,
+          59.419795
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "commodity": "Lead - Pb Cu",
+        "map 50k": "Åmotsdal (1514-2)",
+        "concession-name": "Åmotsdal - 0828.004",
+        "web reference": "5436&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-465118 Y-6611341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.381358,
+          59.638736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "commodity": "Copper - Cu Sb As",
+        "map 50k": "Bandak (1513-1)",
+        "concession-name": "Åmotsdal - 0828.018",
+        "web reference": "5480&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-465104 Y-6611737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.381038,
+          59.642285
+        ]
+      }
+    }
+  ]
+}
+
+
+
