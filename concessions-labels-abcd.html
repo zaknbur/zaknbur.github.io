@@ -22,7 +22,7 @@
       position: absolute;
       left: 30px;
     } 
-    </style>  
+    </style> 
 
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&callback=initNorge">
@@ -42,7 +42,7 @@ function initNorge() {
 
 
   // Load a GeoJSON from the same server as our demo.
-  map.data.loadGeoJson('a-norge-abcd.json');
+  map.data.loadGeoJson('norge-ab.json');
 
     // Add some style.
   map.data.setStyle(function(feature) {
@@ -55,12 +55,9 @@ function initNorge() {
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent =
-        event.feature.getProperty('concession-name' )+'metals  '+event.feature.getProperty('commodity');
+        event.feature.getProperty('concession-name' );
   });
 }
-
-
-
 
 google.maps.event.addDomListener(window, 'load', initNorge);
 
