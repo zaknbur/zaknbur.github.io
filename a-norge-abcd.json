@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "red",
+        "fill": "blue",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -1",
@@ -28,7 +28,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "green",
+        "fill": "red",
         "fill-opacity": 0.25,
         "mapped 1-50k" : " 2004"   ,
         "concession-name": "Blika-3",
