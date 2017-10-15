@@ -52,9 +52,9 @@ function initMap() {
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent =
-        event.feature.getProperty('concession-name' )+'metals '+event.feature.getProperty('commodity');
-  });
-}
+        event.feature.getProperty('concession-name');
+        });
+      }
     </script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&callback=initMap">
