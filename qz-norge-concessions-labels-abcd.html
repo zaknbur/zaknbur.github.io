@@ -1,23 +1,29 @@
 <!DOCTYPE html>
 <html>
   <head>    
-<title> Concessions in Norway - St Barbara</title>
+	<title> Concessions in Norway - St Barbara</title>
 <b> Concessions in Norway - St Barbara</b>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
-      html, body, #map-canvas {
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
         height: 100%;
-        margin: 0px;
-        padding: 0px
       }
-    #info-box {
-      background-color: white;
-      border: 1px solid black;
-      bottom: 30px;
-      height: 20px;
-      padding: 10px;
-      position: absolute;
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #info-box {
+        background-color: white;
+        border: 1px solid black;
+        bottom: 30px;
+        height: 20px;
+        padding: 10px;
+        position: absolute;
         left: 30px;
       }
     </style>
@@ -30,12 +36,12 @@
       var map;
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 10,
+	  zoom: 10,
     center: {lat: 59.75, lng: 5.25 }
         });
 
   // Load a GeoJSON from the same server as our demo.
-  map.data.loadGeoJson('norge-abcd.json');
+  map.data.loadGeoJson('zaknbur.github.io/norge-abcd.json');
 
         // Add some style.
         map.data.setStyle(function(feature) {
