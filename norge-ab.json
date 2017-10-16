@@ -673,8 +673,7 @@
           ]
         ]
       }
-    },
-
+    } ,
     {
       "type": "Feature",
       "properties": {
@@ -701,6 +700,7 @@
     }, 
 
 
+
     {
       "type": "Feature",
       "properties": {"marker": "points"
@@ -712,10 +712,7 @@
           51.0000000
         ]
       }
-    },
-
-
-
+    } ,
     {
       "type": "Feature",
       "properties": {
@@ -732,7 +729,6 @@
         "coordinates": [8.5558090, 59.5923730]
       }
     } ,
-
     {
       "type": "Feature",
       "properties": {
@@ -749,10 +745,6 @@
         "coordinates": [8.4502990, 59.5400690]
       }
     } ,
-
-		
-
-
     {
       "type": "Feature",
       "properties": {
@@ -769,9 +761,6 @@
         "coordinates": [8.4569640, 59.5328940]
       }
     } ,
-
-
-
     {
       "type": "Feature",
       "properties": {
@@ -788,9 +777,6 @@
         "coordinates": [8.5629830, 59.5833440]
       }
     } ,
-
-
-
     {
       "type": "Feature",
       "properties": {
@@ -807,10 +793,6 @@
         "coordinates": [8.6292840, 59.5117090]
       }
     } ,
-
-
-
-
     {
       "type": "Feature",
       "properties": {
@@ -827,9 +809,6 @@
         "coordinates": [8.4513870, 59.5317370]
       }
     } ,
-
-
-
     {
       "type": "Feature",
       "properties": {
@@ -846,10 +825,6 @@
         "coordinates": [8.6963190, 59.4252240]
       }
     } ,
-
-			
-
-
     {
       "type": "Feature",
       "properties": {
@@ -866,9 +841,6 @@
         "coordinates": [8.4488120, 59.5811160]
       }
     } ,
-
-
-
     {
       "type": "Feature",
       "properties": {
@@ -885,9 +857,6 @@
         "coordinates": [8.6796270, 59.4197950]
       }
     } ,
-			
-
-
     {
       "type": "Feature",
       "properties": {
@@ -904,9 +873,6 @@
         "coordinates": [8.7970080, 59.3859060]
       }
     } ,
-
-
-
     {
       "type": "Feature",
       "properties": {
@@ -923,9 +889,6 @@
         "coordinates": [8.6849590, 59.4148690]
       }
     } ,
-			
-
-
     {
       "type": "Feature",
       "properties": {
@@ -942,9 +905,6 @@
         "coordinates": [8.5605610, 59.5653750]
       }
     } ,
-			
-
-
     {
       "type": "Feature",
       "properties": {
@@ -961,9 +921,6 @@
         "coordinates": [8.6416890, 59.5081510]
       }
     } ,
-			
-
-
     {
       "type": "Feature",
       "properties": {
@@ -980,9 +937,6 @@
         "coordinates": [8.6539130, 59.4358940]
       }
     } ,
-			
-
-
     {
       "type": "Feature",
       "properties": {
@@ -999,9 +953,6 @@
         "coordinates": [8.3293290, 59.5796610]
       }
     } ,
-
-
-
     {
       "type": "Feature",
       "properties": {
@@ -1018,7 +969,6 @@
         "coordinates": [8.3813580, 59.6387360]
       }
     } ,
-
     {
       "type": "Feature",
       "properties": {
@@ -1035,13 +985,6 @@
         "coordinates": [8.3810380, 59.6422850]
       }
     } ,
- 			
-
-
-
-
-
-
     {
       "type": "Feature",
       "properties": {
