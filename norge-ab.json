@@ -700,19 +700,6 @@
     }, 
 
 
-
-    {
-      "type": "Feature",
-      "properties": {"marker": "points"
- },
-      "geometry": {
-        "type": "Points listing",
-        "coordinates": [
-          1.00000000,
-          51.0000000
-        ]
-      }
-    } ,
     {
       "type": "Feature",
       "properties": {
