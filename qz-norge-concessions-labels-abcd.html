@@ -46,7 +46,7 @@
         // Add some style.
         map.data.setStyle(function(feature) {
           return /** @type {google.maps.Data.StyleOptions} */({
-            fillColor: feature.getProperty('color'),
+            fillColor: feature.getProperty('fill'),
             strokeWeight: 1
           });
         });
