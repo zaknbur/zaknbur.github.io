@@ -75,27 +75,23 @@
       }
     }, 
 
-{
-  "type": "FeatureCollection",
-  "features": [
+
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#FFFF00",
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
         "commodity": "Gold - Au Bi Cu",
         "map 50k": "Hjartdal (1614-3)",
-        "location-name": "Bleka - 0828.001",
-        "web reference": "5433&p_spraak=E",
-        "UTM coords": "EU89 Zone 32 X-474920 Y-6606099"
+        "location name": "Bleka - 0828.001",
+        "web reference": "5433&p_spraak=E", 
+        "UTM coords": "EU89 Zone 32 X-474920 Y-6606099" 
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          8.555809,
-          59.592373
-        ]
+        "coordinates": [8.5558090, 59.5923730]
       }
-    },
+    } ,
     {
       "type": "Feature",
       "properties": {
