@@ -1,0 +1,662 @@
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+  	 9.1564540,
+	  	58.9564210
+
+          p_objid=5588    aaa    > 0817.009    bbb    >Helldal</TD>    ccc    >Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)</TD>
+
+Map 1:50000:	Gjerstad (1612-1)   
+  	 9.1564540,
+	  58.9564210 EU89-UTM Zone 32  X-508999 Y-6535210 
+  Main Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Copper
+Element(s):	Kis Cu
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+
+          p_objid=5580    aaa    > 0817. 001    bbb    >Holmefjellhaugen</TD>    ccc    >Ferroalloys (Cr,Ni,Co,V,Mo,W)</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.6505870,
+	  59.2450550 EU89-UTM Zone 32	
+X- 480068 Y-6567391 
+  Main Main Type:	Ferroalloys (Cr,Ni,Co,V,Mo,W)	Sub Type:	Nickel
+Element(s):	Ni Cu
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5581    aaa    > 0817. 002    bbb    >Homleid</TD>    ccc    >Ferrous metals(Fe, Mn, Ti)</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.7925750,
+	  59.2467050 EU89-UTM Zone 32	
+X- 488168 Y-6567541 
+  Main Main Type:	Ferrous metals(Fe, Mn, Ti)	Sub Type:	Iron-Titanium
+Element(s):	Fe-Ti
+Importance
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+
+          p_objid=5586    aaa    > 0817. 007    bbb    >Lone</TD>    ccc    >Ferrous metals(Fe, Mn, Ti)</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.7911270,
+	  59.1968620 EU89-UTM Zone 32	
+X- 488068 Y-6561991 
+  Main Main Type:	Ferrous metals(Fe, Mn, Ti)	Sub Type:	Iron-Titanium
+Element(s):	Fe-Ti
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5716    aaa    > 0817. 011    bbb    >Søyldalen</TD>    ccc    >Ferroalloys (Cr,Ni,Co,V,Mo,W)</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.6936850,
+	  59.2285490 EU89-UTM Zone 32	
+X- 482518 Y-6565541 
+  Main Main Type:	Ferroalloys (Cr,Ni,Co,V,Mo,W)	Sub Type:	Nickel
+Element(s):	Ni Cu
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5583    aaa    > 0817. 004    bbb    >Flottane    ccc    ">Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.6728820,
+	  59.2051500 EU89-UTM Zone 32	
+X- 481318 Y-6562941 
+  Main Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Copper
+Element(s):	Cu
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5585    aaa    > 0817. 006    bbb    >Kleppe    ccc    ">Ferroalloys (Cr,Ni,Co,V,Mo,W)</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.7519240,
+	  59.1711990 EU89-UTM Zone 32	
+X- 485818 Y-6559141 
+  Main Main Type:	Ferroalloys (Cr,Ni,Co,V,Mo,W)	Sub Type:	Molybdenium
+Element(s):	Mo
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5584    aaa    > 0817. 005    bbb    >Kleppe    ccc    ">Ferroalloys (Cr,Ni,Co,V,Mo,W)</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.7493200,
+	  59.1685000 EU89-UTM Zone 32	
+X- 485668 Y-6558841 
+  Main Main Type:	Ferroalloys (Cr,Ni,Co,V,Mo,W)	Sub Type:	Molybdenium
+Element(s):	Mo
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5781    aaa    > 0817. 014    bbb    >Kleppsvatnet    ccc    ">Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.6932120,
+	  59.1836460 EU89-UTM Zone 32	
+X- 482468 Y-6560541 
+  Main Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Tin
+Element(s):	Sn
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5717    aaa    > 0817. 012    bbb    >Mørkvassheiane    ccc    ">Ferroalloys (Cr,Ni,Co,V,Mo,W)</TD>
+
+Map 1:50000:	Seljord (1613-4)   
+  	 8.6406110,
+	  59.2769080 EU89-UTM Zone 32	
+X- 479518 Y-6570941 
+  Main Main Type:	Ferroalloys (Cr,Ni,Co,V,Mo,W)	Sub Type:	Molybdenium
+Element(s):	Mo
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5718    aaa    > 0817. 013    bbb    >Mørkvassheiane    ccc    ">Ferroalloys (Cr,Ni,Co,V,Mo,W)</TD>
+
+Map 1:50000:	Seljord (1613-4)   
+  	 8.6433750,
+	  59.2643440 EU89-UTM Zone 32	
+X- 479668 Y-6569541 
+  Main Main Type:	Ferroalloys (Cr,Ni,Co,V,Mo,W)	Sub Type:	Molybdenium
+Element(s):	Mo
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5589    aaa    > 0817. 010    bbb    >Vefall    ccc    ">Ferrous metals(Fe, Mn, Ti)</TD>
+
+Map 1:50000:	Drangedal (1613-2)   
+  	 9.1926720,
+	  59.0029060 EU89-UTM Zone 32	
+X- 511068 Y-6540391 
+  Main Main Type:	Ferrous metals(Fe, Mn, Ti)	Sub Type:	Iron
+Element(s):	Fe
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+          p_objid=5587    aaa    > 0817. 008    bbb    >Vågsland    ccc    ">Ferrous metals(Fe, Mn, Ti)</TD>
+
+Map 1:50000:	Drangedal (1613-2)   
+  	 8.8474580,
+	  59.1264430 EU89-UTM Zone 32	
+X- 491268 Y-6554141 
+  Main Main Type:	Ferrous metals(Fe, Mn, Ti)	Sub Type:	Iron
+Element(s):	Fe
+Importance
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=5582    aaa    > 0817. 003    bbb    >Øverbø    ccc    ">Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.8074760,
+	  59.2467280 EU89-UTM Zone 32	
+X- 489018 Y-6567541 
+  Main Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+Importance
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+
+
+
+          p_objid=8492    aaa    > 0817. 302    bbb    >Høydalen   >Feldspar</TD>
+
+County :	Telemark (08)	Municipality :	Drangedal (0817)
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.7597420,
+	  59.1831420 EU89-UTM Zone 32  X- 486270 Y-6560469 
+  Main Main Type:	Feldspar	Sub Type:	Pegmatitic feldspar
+
+	Kristiansen, Roy , 1998
+Høydalen Li-pegmatitt, Tørdal, Telemark.
+;Norsk Bergverksmuseum;ARTIKKEL;Skrift; Kongsberg mineralsymposium 1998; No.14;17-28 pages
+Abstract:
+The Lithium-pegmatite at Høydalen, Tørdal in the county of Telemark, S. Norway, is presented with an historical review, additional data on recent findings, and comparison with other Li-pegmatites in Norway. The pegmatite is characterized by significant quantities of amazonite, lepidolite and cassiterite, besides a large diverrsity of yttrium- and fluorine minerals and others. Geochemically the pegmatite is rich in Li, Y, F, Sn, Ta and Be. An updated list of all known species is provided.
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+
+          p_objid=8480    aaa    > 0817. 301    bbb    >Brøsjø    ccc    ">Feldspar</TD>
+
+Map 1:50000:	Gjerstad (1612-1)   
+  	 9.1436630,
+	  58.9392070 EU89-UTM Zone 32  X- 508268 Y-6533291 
+  Main Main Type:	Feldspar	Sub Type:	Pegmatitic feldspar
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+
+
+          p_objid=18764    aaa    > 0817. 308    bbb    >Fosteråsen    ccc    ">Feldspar</TD>
+<
+Map 1:50000:	Gjerstad (1612-1)   
+  	 9.1681050,
+	  58.8905100 EU89-UTM Zone 32	
+X- 509688 Y-6527872 
+  Main Main Type:	Feldspar	Sub Type:	Pegmatitic feldspar
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=8494    aaa    > 0817. 304    bbb    >Høydalen    ccc    ">Feldspar</TD>
+	Map 1:50000:	Nissedal (1613-3)   
+  	 8.7570920,
+	  59.1824340 EU89-UTM Zone 32  X- 486118 Y-6560391 
+  Main Main Type:	Feldspar	Sub Type:	Pegmatitic feldspar
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=8495    aaa    > 0817. 305    bbb    >Høydalen    ccc    ">Feldspar</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.7641040,
+	  59.1806510 EU89-UTM Zone 32  X- 486518 Y-6560191 
+  Main Main Type:	Feldspar	Sub Type:	Pegmatitic feldspar
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=8493    aaa    > 0817. 303    bbb    >Høydalen    ccc    ">Feldspar</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.7658170,
+	  59.1860420 EU89-UTM Zone 32  X- 486618 Y-6560791 
+  Main Main Type:	Feldspar	Sub Type:	Pegmatitic feldspar
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=8496    aaa    > 0817. 306    bbb    >Kleppe    ccc    ">Feldspar</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.7344280,
+	  59.1716130 EU89-UTM Zone 32  X- 484818 Y-6559191 
+  Main Main Type:	Feldspar	Sub Type:	Pegmatitic feldspar
+    {
+      "type": "Feature",
+	        "properties": {
+        "marker-color": "#00FF00",
+	          "marker-size": "medium",
+	          "commodity": "Copper - Kis Cu",
+	          "map 50k": "Gjerstad (1612-1"),
+	          "location name": "Helldal - 0817.009",
+	          "web reference": "5588&p_spraak=E",
+	          "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+	        "geometry": {
+        "type": "Point",
+	          "coordinates": [
+          9.1564540,
+	 58.9564210
+        ]
+      }
+    },	
+=============
+
+
+          p_objid=8497    aaa    > 0817. 307    bbb    >Skardsfjellet    ccc    ">Feldspar</TD>
+
+Map 1:50000:	Nissedal (1613-3)   
+  	 8.7133090,
+	  59.1868360 EU89-UTM Zone 32  X- 483618 Y-6560891 
+  Main Main Type:	Feldspar	Sub Type:	Pegmatitic feldspar
+

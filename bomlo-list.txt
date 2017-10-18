@@ -1,0 +1,1410 @@
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+p_objid=4838 fffff          1219. 032  bbb    Folderøy fyr         Ferrous metals(Fe, Mn, Ti) </ eee     				
+yyy  
+	Map 1:50000:	Fitjar (1114-1)  
+	5.3049590,	
+	59.7984200 EU89-UTM Zone 32  X-292717  Y-6634741 
+  	 ,,,Ferrous metals(Fe, Mn, Ti)	Sub Type:	Iron
+Element(s):	Fe Cu
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+ ===========
+			
+xx  
+p_objid=4747 fffff          1219. 019  bbb    Alvsvåg          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+
+Map 1:50000:	Fitjar (1114-1)
+  	 ,,,5.1637690
+  	 ,,,59.7696500 EU89-UTM Zone 32  X-284617  Y-6631991 
+  	 ,,,Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Copper
+Element(s):	Kis Cu
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4748 fffff          1219. 020  bbb    Alvsvåg          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+	Map 1:50000:	Fitjar (1114-1)  	5.1601130	Latitude:	59.7704420 EU89-UTM Zone 32	
+X-284417  Y-6632091 
+  	 ,,,Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Copper
+Element(s):	Cu
+Importance
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+
+
+			
+xx  
+p_objid=4863 fffff          1219. 049  bbb    Bjørnavika          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+	Map 1:50000:	Bømlo (1114-2)  	5.2209170	Latitude:	59.7214160 EU89-UTM Zone 32  X-287517  Y-6626441 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4733 fffff          1219. 005  bbb    Bømlo          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+Map 1:50000:	Bømlo (1114-2)  	5.1678900	Latitude:	59.7104380 EU89-UTM Zone 32  X-284467  Y-6625391 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4735 fffff          1219. 007  bbb    Bømlo          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+	Map 1:50000:	Bømlo (1114-2)  	5.1678390	Latitude:	59.7108860 EU89-UTM Zone 32	
+X-284467  Y-6625441 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4738 fffff          1219. 010  bbb    Bømlo          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+	Map 1:50000:	Bømlo (1114-2)  	5.1770980	Latitude:	59.6999190 EU89-UTM Zone 32	
+X-284917  Y-6624191 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4737 fffff          1219. 009  bbb    Bømlo          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+	Map 1:50000:	Bømlo (1114-2)  	5.1686590	Latitude:	59.7037180 EU89-UTM Zone 32	
+X-284467  Y-6624641 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+Importance
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+
+			
+xx  
+p_objid=4736 fffff          1219. 008  bbb    Bømlo          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+Map 1:50000:	Bømlo (1114-2)  	5.1746760	Latitude:	59.7133330 EU89-UTM Zone 32	
+X-284867  Y-6625691 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4731 fffff          1219. 003  bbb    Bømlo          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)  	5.1766990	Latitude:	59.7127630 EU89-UTM Zone 32	
+X-284977  Y-6625621 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4732 fffff          1219. 004  bbb    Bømlo          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)  	5.1641240	Latitude:	59.7044840 EU89-UTM Zone 32	
+X-284217  Y-6624741 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+Production
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4734 fffff          1219. 006  bbb    Bømlo          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)  	5.1687020	Latitude:	59.7095630 EU89-UTM Zone 32  X-284507  Y-6625291 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au Cu
+
+	Wulff, P.; Stendal, H. , 1995
+Gold in Sunnhordland, the caledonides of southwestern Norway. [Abstract]
+;Grønlands geologiske undersøgelse;ARTIKKEL;Open file series; Gold mineralization in the Nordic countries and Greenland. Extended; abstracts; No.95/10;116-119 pages
+Abstract:
+Conclusion The Palaeozoic supracrustal rocks of the Sunnhordland area is an important metallogenic zone with gold-bearing quartz veins and massive sulfide mineralization especially Cu and Zn associated with Au and Ag. The gold mineralization in most of the quartz veins is of the mesothermal type. Wulff (1993) and Christensen (1994) concluded that most quartz veins on Bømlo are spatially related to the Sunnhordland Fault Zone (SFZ) or the Hardangerfjord Fault Zone (HFZ). The quartz veins at Vernøy and Hovdaneset is situated not far from SFZ or HFZ thus indicating a relationship. In summary this study has shown that far from all interesting mineralization has been found in the highly prospective Sunnhordland area. The most prospective areas is considered to be along SFZ and HFZ.
+
+	The Bømlo deposits are mesothermal gold-bearing quartz veins in shear zones in the Lykling ophiolite complex, frequently following the contacts of dolerite dykes. The veins and their chloritised and carbonatised wallrocks are characterized by the presence of coarse-grained native gold, giving spectacular hand specimens that are extracted today. Analyses of bulk samples are normally in the range of 2¿5 g/t Au. A few, minor Cu-Zn and Fe-sulphide (`vasskis¿) occurrences are related to metabasalts and felsic metavolcanic rocks overlying the ophiolite complex
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4861 fffff          1219. 047  bbb    Dyngebekken          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)  	5.1926050	Latitude:	59.7277880 EU89-UTM Zone 32  X-285967  Y-6627241 
+  	 ,,,Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4849 fffff          1219. 039  bbb    Ersland          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)  	5.2565060	Latitude:	59.7691810 EU89-UTM Zone 32  X-289817  Y-6631641 
+  	 ,,,Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4727 fffff          1219. 002  bbb    Espevær          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)  	5.1415150	Latitude:	59.5918930 EU89-UTM Zone 32	
+X-282217  Y-6612290 
+  	 ,,,Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis Fe
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4837 fffff          1219. 031  bbb    Finnåsvatnet          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+Map 1:50000:	Fitjar (1114-1)  	5.2745340	Latitude:	59.7593560 EU89-UTM Zone 32  X-290767  Y-6630491 
+  	 ,,,Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4850 fffff          1219. 040  bbb    Folderøy havn          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+	Map 1:50000:	Fitjar (1114-1)	    		5.3008560	Latitude:	59.8032480  EU89  -UTM Zone 32  X-292517  Y-6635291 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+Production
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4866 fffff          1219. 052  bbb    Furevatnet          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+	Map 1:50000:	Bømlo (1114-2)  	5.1925340	Latitude:	59.7205950 EU89-UTM Zone 32  X-285917  Y-6626441 
+  	 ,,,Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4746 fffff          1219. 018  bbb    Fylkesneset          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+	Map 1:50000:	Fitjar (1114-1)	    		5.1770770	Latitude:	59.7623970  EU89  -UTM Zone 32	
+X-285317  Y-6631141 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4847 fffff          1219. 037  bbb    Geitung          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.1265210	Latitude:	59.6912420  EU89  -UTM Zone 32  X-282017  Y-6623391 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Copper
+Element(s):	Cu Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4860 fffff          1219. 046  bbb    Gilje          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+	Map 1:50000:	Fitjar (1114-1)	    		5.2043750	Latitude:	59.7730780  EU89  -UTM Zone 32  X-286917  Y-6632241 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4749 fffff          1219. 021  bbb    Hallaråker          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Fitjar (1114-1)	    		5.1547950	Latitude:	59.7779290  EU89  -UTM Zone 32	
+X-284167  Y-6632941 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Copper
+Element(s):	Kis Cu
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4862 fffff          1219. 048  bbb    Hidle          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.2367420	Latitude:	59.7389510  EU89  -UTM Zone 32  X-288517  Y-6628341 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Copper
+Element(s):	Cu Zn Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4740 fffff          1219. 012  bbb    Hidleneset          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+	Map 1:50000:	Bømlo (1114-2)	    		5.2447600	Latitude:	59.7278090  EU89  -UTM Zone 32  X-288897  Y-6627076 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4699 fffff          1219. 001  bbb    Hidleren          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+	Map 1:50000:	Fitjar (1114-1)	    		5.2991270	Latitude:	59.8027500  EU89  -UTM Zone 32  X-292417  Y-6635241 m.
+          Main Type:	Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au?
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4751 fffff          1219. 023  bbb    Hiskjo          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.1282670	Latitude:	59.7299510  EU89  -UTM Zone 32	
+X-282367  Y-6627691 m.
+          Main Type:	Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4845 fffff          1219. 035  bbb    Hovdahalla          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+	Map 1:50000:	Bømlo (1114-2)	    		5.2210960	Latitude:	59.7277130  EU89  -UTM Zone 32  X-287567  Y-6627141 m.
+          Main Type:	Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au Cu
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4864 fffff          1219. 050  bbb    Håvardshaugen          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+	Map 1:50000:	Bømlo (1114-2)	    		5.2235780	Latitude:	59.7214920  EU89  -UTM Zone 32  X-287667  Y-6626441 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4741 fffff          1219. 013  bbb    Kuleseid          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+	Map 1:50000:	Bømlo (1114-2)	    		5.2277160	Latitude:	59.7400400  EU89  -UTM Zone 32	
+X-288017  Y-6628491 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4836 fffff          1219. 030  bbb    Langøya          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Fitjar (1114-1)	    		5.1655840	Latitude:	59.7616130  EU89  -UTM Zone 32	
+X-284667  Y-6631091 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Copper
+Element(s):	Kis Cu
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4743 fffff          1219. 015  bbb    Lindøya          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Fitjar (1114-1)	    		5.2223430	Latitude:	59.7560670  EU89  -UTM Zone 32	
+X-287817  Y-6630291 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4750 fffff          1219. 022  bbb    Meland          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+
+Map 1:50000:	Fitjar (1114-1)	    		5.1863530	Latitude:	59.7748030  EU89  -UTM Zone 32	
+X-285917  Y-6632491 m.
+          Main Type:	Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4843 fffff          1219. 033  bbb    Moane          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.2328810	Latitude:	59.7258040  EU89  -UTM Zone 32  X-288217  Y-6626891 m.
+          Main Type:	Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au As Pb Zn Cu
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4855 fffff          1219. 044  bbb    Mynteklubben          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.1813770	Latitude:	59.7013920  EU89  -UTM Zone 32  X-285167  Y-6624341 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+Production
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4848 fffff          1219. 038  bbb    Myntevika          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.2484380	Latitude:	59.7458030  EU89  -UTM Zone 32  X-289217  Y-6629066 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4745 fffff          1219. 017  bbb    Nordneset          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.2046400	Latitude:	59.7393740  EU89  -UTM Zone 32	
+X-286717  Y-6628491 m.
+          Main Type:	Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au Kis Cu
+Importance
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+
+			
+xx  
+p_objid=4856 fffff          1219. 045  bbb    Nordraneset          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.1757350	Latitude:	59.6962830  EU89  -UTM Zone 32  X-284817  Y-6623791 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 			
+xx  
+p_objid=4854 fffff          1219. 043  bbb    Oldereid          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.2571080	Latitude:	59.7638050  EU89  -UTM Zone 32  X-289817  Y-6631041 m.
+          Main Type:	Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au?
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4865 fffff          1219. 051  bbb    Risdal          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.2429920	Latitude:	59.7229480  EU89  -UTM Zone 32  X-288767  Y-6626541 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4742 fffff          1219. 014  bbb    Sakseid          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Fitjar (1114-1)	    		5.2594520	Latitude:	59.7508370  EU89  -UTM Zone 32	
+X-289867  Y-6629591 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+Importance
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+
+			
+xx  
+p_objid=4844 fffff          1219. 034  bbb    Sandgota          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.2286980	Latitude:	59.7234370  EU89  -UTM Zone 32  X-287967  Y-6626641 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4846 fffff          1219. 036  bbb    Sele          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.1792290	Latitude:	59.6968350  EU89  -UTM Zone 32  X-285017  Y-6623841 m.
+          Main Type:	Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4851 fffff          1219. 041  bbb    Stautland          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Fitjar (1114-1)	    		5.2545950	Latitude:	59.7623850  EU89  -UTM Zone 32  X-289667  Y-6630891 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4744 fffff          1219. 016  bbb    Steinvågen          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.2130850	Latitude:	59.7355730  EU89  -UTM Zone 32	
+X-287167  Y-6628041 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 
+			
+xx  
+p_objid=4853 fffff          1219. 042  bbb    Tjongevatnet          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+yyy  
+
+Map 1:50000:	Bømlo (1114-2)	    		5.1714130	Latitude:	59.6485090  EU89  -UTM Zone 32  X-284267  Y-6618490 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 			
+
+xx  
+p_objid=4867 fffff          1219. 053  bbb    T-krysset          ccc   Precious metals (Au,Ag,PGE) </ eee     				
+	Map 1:50000:	Fitjar (1114-1)	    		5.2444090	Latitude:	59.7499570  EU89  -UTM Zone 32  X-289017  Y-6629541 m.
+          Main Type:	Precious metals (Au,Ag,PGE)	Sub Type:	Gold
+Element(s):	Au
+yyy  
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 			
+xx  
+p_objid=4739 fffff          1219. 011  bbb    Våge          ccc   Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn) </ eee     				
+
+Map 1:50000:	Bømlo (1114-2)	    		5.2258850	Latitude:	59.7247050  EU89  -UTM Zone 32	
+X-287817  Y-6626791 m.
+          Main Type:	Base metals (Cu,Zn,Pb,Fe sulphides, As,Sb,Bi,Sn)	Sub Type:	Sulphides
+Element(s):	Kis
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+==========   				
+yyy  
+			
+xx  
+p_objid=7927 fffff          1219. 304  bbb    Meland           Silica </ eee     
+Map 1:50000:	Fitjar (1114-1)	    		5.1894220	Latitude:	59.7764070  EU89  -UTM Zone 32         X-286100  Y-6632660 m.
+          Main Type:	Silica	Sub Type:	Hydrothermal quartz				
+yyy  
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr - 1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717  Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590,	
+	59.7984200
+        ]
+      }
+    },	
+========== 			
+xx  
+p_objid=7923 fffff          1219. 302  bbb    Moster amfi        Carbonates </ eee     				
+yyy  
+			
+xx  
+p_objid=7922 fffff          1219. 301  bbb    Notlandsvågen          ccc   Carbonates </ eee     				
+
+			
