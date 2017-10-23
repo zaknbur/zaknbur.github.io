@@ -1,0 +1,927 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy fyr -  1219-032",
+        "web reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717 Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3049590, 59.7984200
+        ]
+      }
+    },	
+  
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu (Au 29.8ppm)",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Alvsvåg 1219-019",
+        "web reference": "4747&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284617 Y-6631991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1637690, 59.7696500
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Alvsvåg 1219-020",
+        "web reference": "4748&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284417 Y-6632091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1601130, 59.7704420
+        ]
+      }
+    },	
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Bjørnavika 1219-049",
+        "web reference": "4863&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287517 Y-6626441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2209170, 59.7214160
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Bømlo 1219-005",
+        "web reference": "4733&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 -284467 Y-6625391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1678900, 59.7104380
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Bømlo 1219-007",
+        "web reference": "4735&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284467 Y-6625441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1678390, 59.7108860
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Bømlo 1219-010",
+        "web reference": "4738&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284917 Y-6624191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1770980, 59.6999190
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Bømlo 1219-009",
+        "web reference": "4737&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284467 Y-6624641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1686590, 	59.7037180
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Bømlo 1219-008",
+        "web reference": "4736&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284867 Y-6625691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1746760, 59.7133330
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Bømlo 1219-003",
+        "web reference": "4731&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284977 Y-6625621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1766990, 59.7127630
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Bømlo 1219-004",
+        "web reference": "4732&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284217 Y-6624741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1641240, 59.7044840
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Bømlo 1219-006",
+        "web reference": "4734&p_spraak=E",
+	"description" :  "Wulff, P.; Stendal, H. , 1995 Gold in Sunnhordland, the caledonides of southwestern Norway. - Grønlands geologiske undersøgelse - Open file series; Gold mineralization in the Nordic countries and Greenland. Extended; abstracts; No.95/10;116-119 pages 			The Palaeozoic supracrustal rocks of the Sunnhordland area are an important metallogenic zone with gold-bearing quartz veins and massive sulfide mineralization especially Cu and Zn associated with Au and Ag. The gold mineralization in most of the quartz veins is of the mesothermal type. Wulff (1993) and Christensen (1994) concluded that most quartz veins on Bømlo are spatially related to the Sunnhordland Fault Zone (SFZ) or the Hardangerfjord Fault Zone (HFZ). The quartz veins at Vernøy and Hovdaneset is situated not far from SFZ or HFZ thus indicating a relationship. In summary this study has shown that far from all interesting mineralization has been found in the highly prospective Sunnhordland area. The most prospective areas is considered to be along SFZ and HFZ.		The Bømlo deposits are mesothermal gold-bearing quartz veins in shear zones in the Lykling ophiolite complex, frequently following the contacts of dolerite dykes. The veins and their chloritised and carbonatised wallrocks are characterized by the presence of coarse-grained native gold, giving spectacular hand specimens that are extracted today. Analyses of bulk samples are normally in the range of 2¿5 g/t Au. A few, minor Cu-Zn and Fe-sulphide (`vasskis¿) occurrences are related to metabasalts and felsic metavolcanic rocks overlying the ophiolite complex.",
+        "UTM coords" : "EU89 Zone 32 X-284507 Y-6625291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1687020, 59.7095630
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Dyngebekken 1219-047",
+        "web reference": "4861&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285967 Y-6627241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1926050, 59.7277880
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Ersland 1219-039",
+        "web reference": "4849&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289817 Y-6631641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2565060, 59.7691810
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Espevær 1219-002",
+        "web reference": "4727&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-282217 Y-6612290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1415150, 59.5918930
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Finnåsvatnet 1219-031",
+        "web reference": "4837&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-290767 Y-6630491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2745340, 59.7593560
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Folderøy havn 1219-040",
+        "web reference": "4850&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292517 Y-6635291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.3008560, 59.8032480
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Furevatnet 1219-052",
+        "web reference": "4866&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285917 Y-6626441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1925340, 59.7205950
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Fylkesneset 1219-018",
+        "web reference": "4746&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285317 Y-6631141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1770770, 59.7623970
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Geitung 1219-037",
+        "web reference": "4847&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-282017 Y-6623391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1265210, 59.6912420
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Gilje 1219-046",
+        "web reference": "4860&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-286917 Y-6632241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2043750, 59.7730780
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Hallaråker 1219-021",
+        "web reference": "4749&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284167 Y-6632941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1547950, 59.7779290
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Zn Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Hidle 1219-048",
+        "web reference": "4862&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288517 Y-6628341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2367420, 59.7389510
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Hidleneset 1219-012",
+        "web reference": "4740&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288897 Y-6627076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2447600, 59.7278090
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Hidleren 1219-001",
+        "web reference": "4699&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292417 Y-6635241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2991270, 59.8027500
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Hiskjo 1219-023",
+        "web reference": "4751&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-282367 Y-6627691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1282670, 59.7299510
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Hovdahalla 1219-035",
+        "web reference": "4845&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287567 Y-6627141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2210960, 59.7277130
+        ]
+      }
+    },	
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Håvardshaugen 1219-050",
+        "web reference": "4864&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287667 Y-6626441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2235780, 59.7214920
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Kuleseid 1219-013",
+        "web reference": "4741&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288017 Y-6628491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2277160, 59.7400400
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Langøya 1219-030",
+        "web reference": "4836&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284667 Y-6631091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1655840, 59.7616130
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Lindøya 1219-015",
+        "web reference": "4743&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287817 Y-6630291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	  5.2223430, 59.7560670
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Meland 1219-022",
+        "web reference": "4750&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285917 Y-6632491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1863530, 59.7748030
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au As Pb Zn Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Moane 1219-033",
+        "web reference": "4843&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288217 Y-6626891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2328810, 59.7258040
+        ]
+      }
+    },	 
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Mynteklubben 1219-044",
+        "web reference": "4855&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285167 Y-6624341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1813770, 
+	59.7013920
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Myntevika 1219-038",
+        "web reference": "4848&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289217 Y-6629066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2484380, 
+	59.7458030
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au Cu Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Nordneset 1219-017",
+        "web reference": "4745&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-286717 Y-6628491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2046400, 59.7393740
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Nordraneset 1219-045",
+        "web reference": "4856&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284817 Y-6623791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1757350, 59.6962830
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Oldereid 1219-043",
+        "web reference": "4854&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289817 Y-6631041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2571080, 59.7638050
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Risdal 1219-051",
+        "web reference": "4865&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288767 Y-6626541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+ 	 5.2429920, 59.7229480
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Sakseid 1219-014",
+        "web reference": "4742&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289867 Y-6629591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2594520, 59.7508370
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Sandgota 1219-034",
+        "web reference": "4844&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287967 Y-6626641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [	 
+ 	 5.2286980, 59.7234370
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Sele 1219-036",
+        "web reference": "4846&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285017 Y-6623841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1792290, 59.6968350
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Stautland 1219-041",
+        "web reference": "4851&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289667 Y-6630891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2545950, 59.7623850 
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Steinvågen 1219-016",
+        "web reference": "4744&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287167 Y-6628041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2130850, 59.7355730
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Tjongevatnet  1219-042",
+        "web reference": "4853&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284267 Y-6618490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1714130, 59.6485090
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "T-krysset -  1219-053",
+        "web reference": "4867&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289017 Y-6629541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2444090, 59.7499570
+        ]
+      }
+    },	
+
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "location name": "Våge -  1219-011",
+        "web reference": "4739&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287817 Y-6626791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.2258850, 59.7247050
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Silica - Hydrothermal Quartz",
+        "map 50k": "Fitjar (1114-1)",
+        "location name": "Meland -  1219-304",
+        "web reference": "7927&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-286100 Y-6632660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	 5.1894220, 59.7764070
+        ]
+      }
+    }
+  ]
+}

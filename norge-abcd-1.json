@@ -7,9 +7,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -1",
-        "map-ref": "11141 - Bomlo",
+        "map 50k": "Bomlo - (1114-1)",
         "lat long": "(59.781/5.220)(59.735/5.255)" 
       },
       "geometry": {
@@ -31,9 +31,9 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "fill-opacity": 0.5,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -2",
-        "map-ref": "11141 - Bomlo",
+        "map 50k": " Bomlo ( 1114-1 ) ",
         "lat long": "(59.779/5.219)(59.749/5.166)" 
       },
       "geometry": {
@@ -55,9 +55,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo 3",
-        "map-ref": "11141 - Bomlo",
+        "map 50k": "Bomlo  (1114-1) ",
         "lat long": "(59.782/5.255)(59.737/5.291)" 
       },
       "geometry": {
@@ -79,9 +79,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -4",
-        "map-ref": "11141 - Bomlo",
+        "map 50k": " Bomlo (1114-1)  - ",
         "lat long": "(59.782/5.291)(59.737/5.326)" 
       },
       "geometry": {
@@ -103,9 +103,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -5",
-        "map-ref": "11141 - Bomlo",
+        "map 50k": " Bomlo (1114-1)  - ",
         "lat long": "(59.798/5.163)(59.780/5.252)" 
       },
       "geometry": {
@@ -127,9 +127,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -6",
-        "map-ref": "11141 - Bomlo",
+        "map 50k": " Bomlo (1114-1)  - ",
         "lat long": "(59.804/5.252)(59.782/5.252)" 
       },
       "geometry": {
@@ -151,9 +151,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -7",
-        "map-ref": "11141 - Bomlo",
+        "map 50k": " Bomlo (1114-1)  - ",
         "lat long": "(59.778/5.112)(59.748/5.166)" 
       },
       "geometry": {
@@ -175,9 +175,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -8",
-        "map-ref": "11141 - Bomlo",
+        "map 50k": "Bomlo  (1114-1)",
         "lat long": "(59.808/5.109)(59.778/5.162)" 
       },
       "geometry": {
@@ -199,9 +199,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -9",
-        "map-ref": "11141 - Bomlo",
+        "map 50k": "Bomlo  (1114-1) ",
         "lat long": "(59.816/5.161)(59.798/5.250)" 
       },
       "geometry": {
@@ -223,9 +223,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -10",
-        "map-ref": "11142 - Bomlo",
+        "map 50k": " Bomlo (1114-2) ",
         "lat long": "(59.657/5.167)(59.612/5.203)" 
       },
       "geometry": {
@@ -247,9 +247,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -11",
-        "map-ref": "11142 - Bomlo",
+        "map 50k": "Bomlo  (1114-2) ",
         "lat long": "(59.658/5.203)(59.613/5.238)" 
       },
       "geometry": {
@@ -271,9 +271,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -12",
-        "map-ref": "11142 - Bomlo",
+        "map 50k": " Bomlo (1114-2) ",
         "lat long": "(59.700/5.232)(59.673/5.269)" 
       },
       "geometry": {
@@ -295,9 +295,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -13",
-        "map-ref": "11142 - Bomlo",
+        "map 50k": " Bomlo (1114-2) ",
         "lat long": "(59.200/5.22)(59.659/5.271)" 
       },
       "geometry": {
@@ -319,9 +319,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -14",
-        "map-ref": "11142 - Bomlo",
+        "map 50k": " Bomlo (1114-2) ",
         "lat long": "(59.612/5.181)(59.583/5.234)" 
       },
       "geometry": {
@@ -343,9 +343,9 @@
       "properties": {
         "fill": "red",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1993 "   ,
+        "year mapped 1-50k" : " 1993 "   ,
         "concession-name": "Bomlo -15",
-        "map-ref": "11142 - Bomlo",
+        "map 50k": "Bomlo  (1114-2) ",
         "lat long": "(59.718/5.248)(59.701/5.266)" 
       },
       "geometry": {
@@ -367,9 +367,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-1",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": " Namsskogan (1824-2)   ", 
         "lat long": "(64.633/13.005)(64.602/13.049)" 
       },
       "geometry": {
@@ -391,9 +391,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-2",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": "Namsskogan  (1824-2)   ", 
         "lat long": "(64.632/12.961)(64.602/13.005)" 
       },
       "geometry": {
@@ -415,9 +415,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-3",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": " Namsskogan (1824-2)   ", 
         "lat long": "(64.632/12.917)(64.601/12.961)" 
       },
       "geometry": {
@@ -439,9 +439,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-4",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": " Namsskogan (1824-2)   ", 
         "lat long": "(64.659/12.097)(64.640/13.189)" 
       },
       "geometry": {
@@ -463,9 +463,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-5",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": "Namsskogan  (1824-2)   ", 
         "lat long": "(64.679/13.096)(64.659/13.188)" 
       },
       "geometry": {
@@ -487,9 +487,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-6",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": "Namsskogan  (1824-2)   ", 
         "lat long": "(64.674/13.039)(64.642/13.096)" 
       },
       "geometry": {
@@ -511,9 +511,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-7",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": " Namsskogan (1824-2)   ", 
         "lat long": "(64.673/12.981)(64.641/13.039)" 
       },
       "geometry": {
@@ -535,9 +535,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-8",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": "Namsskogan  (1824-2)   ", 
         "lat long": "(64.672/12.924)(64.641/12.981)" 
       },
       "geometry": {
@@ -559,9 +559,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-9",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": "Namsskogan  (1824-2)   ", 
         "lat long": "(64.707/12.871)(64.671/13.924)" 
       },
       "geometry": {
@@ -583,9 +583,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-10",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": "Namsskogan  (1824-2)   ", 
         "lat long": "(64.708/12.924)(64.672/12.977)" 
       },
       "geometry": {
@@ -607,9 +607,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-11",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": "Namsskogan  (1824-2)   ", 
         "lat long": "(64.709/12.977)(64.673/13.029)" 
       },
       "geometry": {
@@ -631,9 +631,9 @@
       "properties": {
         "fill": "blue",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1982"   ,
+        "year mapped 1-50k" : " 1982"   ,
         "concession-name": "Lillefjel-12",
-        "map-ref": "18242 -  Namsskogan", 
+        "map 50k": "Namsskogan  (1824-2)   ", 
         "lat long": "(64.709/13.029)(64.709/13.081)" 
       },
       "geometry": {
@@ -657,9 +657,9 @@
       "properties": {
         "fill": "green",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 2004"   ,
+        "year mapped 1-50k" : " 2004"   ,
         "concession-name": "Blika-3",
-        "map-ref": "15143 Froystaul ? as poss typo in 16143-Seljord ", 
+        "map 50k": "Froystaul  (1514-3) ? as poss typo in (1614-3) Seljord ", 
         "lat long": "(59.674/8.490)(59.629/8.525)" 
       },
       "geometry": {
@@ -682,9 +682,9 @@
       "properties": {
         "fill": "yellow",
         "fill-opacity": 0.25,
-        "mapped 1-50k" : " 1994"   ,
+        "year mapped 1-50k" : " 1994"   ,
         "concession-name": "Tordal-3",
-        "map-ref": "16123 Gjerstadt ? as typo in 16133-Drangedal", 
+        "map 50k": "Gjerstadt  (1612-3  ? as typo in (1613-3) Drangedal", 
         "lat long": "(59.218/8.632)(59.200/8.719)" 
       },
       "geometry": {
@@ -724,7 +724,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "commodity": "Copper - Cu",
-        "map 50k": "Åmotsdal (1514-2)",
+        "map 50k": " Åmotsdal (1514-2)",
         "location-name": "Hyttebekk - 0828.017",
         "web reference": "5479&p_spraak=E",
         "UTM coords": "EU89 Zone 32 X-468914 Y-6600320"
@@ -732,8 +732,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.450299,
-          59.540069
+          8.450299, 59.540069
         ] 
       }
     },
@@ -750,8 +749,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.456964,
-          59.532894
+          8.456964, 59.532894
         ]
       }
     },
@@ -768,8 +766,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.562983,
-          59.583344
+          8.562983, 59.583344
         ]
       }
     },
@@ -786,8 +783,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.629284,
-          59.511709
+          8.629284, 59.511709
         ]
       }
     },
@@ -804,8 +800,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.451387,
-          59.531737
+          8.451387, 59.531737
         ]
       }
     },
@@ -822,8 +817,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.696319,
-          59.425224
+          8.696319, 59.425224
         ]
       }
     },
@@ -840,8 +834,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.448812,
-          59.581116
+          8.448812, 59.581116
         ]
       }
     },
@@ -858,8 +851,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.679627,
-          59.419795
+          8.679627, 59.419795
         ]
       }
     },
@@ -876,8 +868,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.797008,
-          59.385906
+          8.797008, 59.385906
         ]
       }
     },
@@ -894,8 +885,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.684959,
-          59.414869
+          8.684959, 59.414869
         ]
       }
     },
@@ -912,8 +902,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.560561,
-          59.565375
+          8.560561, 59.565375
         ]
       } 
     },
@@ -930,8 +919,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.641689,
-          59.508151
+          8.641689, 59.508151
         ]
       }
     },
@@ -948,8 +936,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.653913,
-          59.435894
+          8.653913, 59.435894
         ]
       }
     },
@@ -966,8 +953,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.329329,
-          59.579661
+          8.329329, 59.579661
         ]
       }
     },
@@ -984,8 +970,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.381358,
-          59.638736
+          8.381358, 59.638736
         ]
       }
     },
@@ -1002,8 +987,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.381038,
-          59.642285
+          8.381038, 59.642285
         ]
       }
     }

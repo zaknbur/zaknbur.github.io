@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Zinc - Zn Cu Kis",
+        "commodity": "Zinc - Zn Cu Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Skorovas - 1740.007",
         "web reference": "234&p_spraak=E",
@@ -15,8 +15,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1024980,
-          64.6261590
+          13.1024980, 64.6261590
         ]
       }
     },	
@@ -25,7 +24,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Kis",
+        "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Finnkrudomma - 1740.002",
         "web reference": "222&p_spraak=E",
@@ -34,8 +33,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0677490,
-          64.5763380
+          13.0677490, 64.5763380
         ]
       }
     },	
@@ -45,7 +43,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Kis",
+        "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Grøndalen - 1740.018",
         "web reference": "320&p_spraak=E",
@@ -54,8 +52,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.9630810,
-          64.6718790
+          12.9630810, 64.6718790
         ]
       }
     },		
@@ -64,7 +61,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Copper - Cu Kis",
+        "commodity": "Copper - Cu Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Grønndalselv - 1740.009",
         "web reference": "238&p_spraak=E",
@@ -73,8 +70,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.9182110,
-          64.6530310
+          12.9182110, 64.6530310
         ]
       }
     },	
@@ -83,7 +79,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Kis",
+        "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Murfjellet - 1740.022",
         "web reference": "323&p_spraak=E",
@@ -92,8 +88,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.9156540,
-          64.6314900
+          12.9156540, 64.6314900
         ]
       }
     },	
@@ -102,7 +97,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Kis",
+        "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Stor-skorovatn - 1740.006",
         "web reference": "231&p_spraak=E",
@@ -111,8 +106,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0563860,
-          64.6493020
+          13.0563860, 64.6493020
         ]
       }
     },		
@@ -121,7 +115,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Kis",
+        "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Tunnsjødalplassen - 1740.020",
         "web reference": "322&p_spraak=E",
@@ -130,8 +124,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0016080,
-          64.7378430
+          13.0016080, 64.7378430
         ]
       }
     },
@@ -140,7 +133,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Copper - Cu Kis",
+        "commodity": "Copper - Cu Pyrites",
         "map 50k": "Røyrvik (1924-4)",
         "location name": "Aktejaevrie - 1740.015",
         "web reference": "277&p_spraak=E",
@@ -149,8 +142,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.2575720,
-          64.8668210
+          13.2575720, 64.8668210
         ]
       }
     },
@@ -159,7 +151,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Kis",
+        "commodity": "Pyrites",
         "map 50k": "Namsskogan (1824-1)",
         "location name": "Brekka - 1740.017",
         "web reference": "319&p_spraak=E",
@@ -168,8 +160,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0579790,
-          64.8100440
+          13.0579790, 64.8100440
         ]
       }
     },
@@ -178,7 +169,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Kis",
+        "commodity": "Pyrites",
         "map 50k": "Namsskogan (1824-1)",
         "location name": "Josefmyrtjørna - 1740.016",
         "web reference": "318&p_spraak=E",
@@ -187,8 +178,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.9422930,
-          64.7802100
+          12.9422930, 64.7802100
         ]
       }
     },
@@ -197,7 +187,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Kis",
+        "commodity": "Pyrites",
         "map 50k": "Røyrvik (1924-4)",
         "location name": "Kjerådalen - 1740.021",
         "web reference": "369&p_spraak=E",
@@ -206,8 +196,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3051670,
-          64.9153900
+          13.3051670, 64.9153900
         ]
       }
     },
@@ -216,7 +205,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Copper - Cu Kis",
+        "commodity": "Copper - Cu Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Lassemoen - 1740.001",
         "web reference": "193&p_spraak=E",
@@ -225,8 +214,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7247350,
-          64.6899520
+          12.7247350, 64.6899520
         ]
       }
     },
@@ -235,7 +223,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Zinc - Zn Pb Cu Kis",
+        "commodity": "Zinc - Zn Pb Cu Pyrites",
         "map 50k": "Namsskogan (1824-1)",
         "location name": "Lille tromselv - 1740.013",
         "web reference": "248&p_spraak=E",
@@ -244,8 +232,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1502000,
-          64.7645460
+          13.1502000, 64.7645460
         ]
       }
     },
@@ -254,7 +241,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Kis",
+        "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Storveltberget - 1740.019",
         "web reference": "321&p_spraak=E",
@@ -263,8 +250,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8981690,
-          64.7388360
+          12.8981690, 64.7388360
         ]
       }
     },
@@ -273,7 +259,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Copper - Kis Cu",
+        "commodity": "Copper - Pyrites Cu",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Tunnsjøflyin - 1740.011",
         "web reference": "240&p_spraak=E",
@@ -282,8 +268,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0731270,
-          64.6863690
+          13.0731270, 64.6863690
         ]
       }
     },
@@ -292,7 +277,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-        "commodity": "Copper - Kis Cu",
+        "commodity": "Copper - Pyrites Cu",
         "map 50k": "Skorovatn (1824-2)",
         "location name": "Øverste nesåvatnet - 1740.005",
         "web reference": "230&p_spraak=E",
@@ -301,8 +286,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0920710,
-          64.6107640
+          13.0920710, 64.6107640
         ]
       }
     },
@@ -320,8 +304,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1630950,
-          64.8594020
+          13.1630950, 64.8594020
         ]
       }
     },
@@ -339,8 +322,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6103970,
-          65.0917660
+          13.6103970, 65.0917660
         ]
       }
     },
@@ -358,8 +340,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3592570,
-          64.9644610
+          13.3592570, 64.9644610
         ]
       }
     }
