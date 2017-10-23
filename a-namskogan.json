@@ -1,0 +1,349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Zinc - Zn Cu Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Skorovas - 1740.007",
+        "web reference": "234&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-409282 Y-7168149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1024980, 64.6261590
+        ]
+      }
+    },	
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Finnkrudomma - 1740.002",
+        "web reference": "222&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-407451 Y-7162649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0677490, 64.5763380
+        ]
+      }
+    },	
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Grøndalen - 1740.018",
+        "web reference": "320&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-402782 Y-7173449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9630810, 64.6718790
+        ]
+      }
+    },		
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Grønndalselv - 1740.009",
+        "web reference": "238&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-400572 Y-7171419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9182110, 64.6530310
+        ]
+      }
+    },	
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Murfjellet - 1740.022",
+        "web reference": "323&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-400371 Y-7169023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9156540, 64.6314900
+        ]
+      }
+    },	
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Stor-skorovatn - 1740.006",
+        "web reference": "231&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-407157 Y-7170794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0563860, 64.6493020
+        ]
+      }
+    },		
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Tunnsjødalplassen - 1740.020",
+        "web reference": "322&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-404852 Y-7180739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0016080, 64.7378430
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Pyrites",
+        "map 50k": "Røyrvik (1924-4)",
+        "location name": "Aktejaevrie - 1740.015",
+        "web reference": "277&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-417432 Y-7194748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2575720, 64.8668210
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Namsskogan (1824-1)",
+        "location name": "Brekka - 1740.017",
+        "web reference": "319&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-407782 Y-7188699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0579790, 64.8100440
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Namsskogan (1824-1)",
+        "location name": "Josefmyrtjørna - 1740.016",
+        "web reference": "318&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-402182 Y-7185549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9422930, 64.7802100
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Røyrvik (1924-4)",
+        "location name": "Kjerådalen - 1740.021",
+        "web reference": "369&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-419832 Y-7200098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3051670, 64.9153900
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Lassemoen - 1740.001",
+        "web reference": "193&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-391482 Y-7175849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7247350, 64.6899520
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Zinc - Zn Pb Cu Pyrites",
+        "map 50k": "Namsskogan (1824-1)",
+        "location name": "Lille tromselv - 1740.013",
+        "web reference": "248&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-412012 Y-7183499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1502000, 64.7645460
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Storveltberget - 1740.019",
+        "web reference": "321&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-399932 Y-7181009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8981690, 64.7388360
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Tunnsjøflyin - 1740.011",
+        "web reference": "240&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-408082 Y-7174899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0731270, 64.6863690
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu",
+        "map 50k": "Skorovatn (1824-2)",
+        "location name": "Øverste nesåvatnet - 1740.005",
+        "web reference": "230&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-408732 Y-7166449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0920710, 64.6107640
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Talc - Serpentine",
+        "map 50k": "Namsskogan (1824-1)",
+        "location name": "Finnhuslitjørnan - 1740.301",
+        "web reference": "14834&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-412932 Y-7194048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1630950, 64.8594020
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Olivine - Ultramafic",
+        "map 50k": "Majavatn (1925-3)",
+        "location name": "Jengelfjell - 1740.303",
+        "web reference": "15082&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-434699 Y-7219400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6103970, 65.0917660
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Olivine - Ultramafic",
+        "map 50k": "Røyrvik (1924-4)",
+        "location name": "Størje - 1740.302",
+        "web reference": "15081&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-422532 Y-7205498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3592570, 64.9644610
+        ]
+      }
+    }
+  ]
+}	
+
