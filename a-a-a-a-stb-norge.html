@@ -73,18 +73,12 @@ function initMap() {
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent =
         event.feature.getProperty('concession-name');
-    });   
-
-  map.data.addListener('mouseover', function(event) {
-    document.getElementById('fieldview').textContent =
-        event.feature.getProperty('commodity')+' ,   location = '+event.feature.getProperty('location-name');
-    });  
+    }); 
     
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('web reference').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('web reference')+'">Site factsheet</a>';      
+    document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('web reference')+'">Site factsheet</a>';      
    });
-   
-   
+
   // [END snippet]
    //<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
 //        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
