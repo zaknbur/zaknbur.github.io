@@ -55,7 +55,7 @@ function initMap() {
   // Add some style.
   map.data.setStyle(function(feature) {
     return /** @type {google.maps.Data.StyleOptions} */({
-      fillColor: feature.getProperty('color'),
+      fillColor: feature.getProperty('marker-color'),
       strokeWeight: 1
     });
   });
