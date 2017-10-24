@@ -4,7 +4,7 @@
      {
      "type":"Feature",
      "properties": {    
-       "marker-color":"#7e7e7e",
+       "marker-color":"#FF0000",
        "marker-size":"medium",
        "marker-symbol":"",   
                    "updated":"October 2015",
@@ -22,7 +22,8 @@
   {
      "type":"Feature",
      "properties": {      
-                    "updated":"Jan 2016",
+                    "updated":"Jan 2016",    
+       "marker-color":"#00FF00",
                    "location":"City",
                "postcode":"EC2V 7HH",
                 "street":[51.5154,-0.0932],
@@ -50,7 +51,8 @@
   {
      "type":"Feature",
      "properties": {      
-                    "updated":"Jan 2016",
+                    "updated":"Jan 2016",    
+       "marker-color":"#0000FF",
                    "location":"City",
                "postcode":"EC2V 7HP",
                 "street":[51.5169,-0.0923],
@@ -65,7 +67,8 @@
      "type":"Feature",
      "properties": {      
                     "updated":"Jan 2016",
-                   "location":"City",
+                   "location":"City",    
+       "marker-color":"#FF0000",
                "postcode":"EC2V 7HP",
                 "street":[51.5166,-0.0926],
                 "name":"Aldermanbury - check there are four"
@@ -78,7 +81,8 @@
   {
      "type":"Feature",
      "properties": {      
-                   "updated":"October 2015",
+                   "updated":"October 2015",    
+       "marker-color":"#FF0000",
                    "location":"Westminster",
                "postcode":"NULL",
                 "street":[51.5212,-0.1939],
@@ -92,7 +96,8 @@
   {
      "type":"Feature",
      "properties": {      
-                   "updated":"October 2015",
+                   "updated":"October 2015",    
+       "marker-color":"#FF0000",
                    "location":"Kensington",
                "postcode":"W8 6QY",
                 "street":[51.4972,-0.1944],
@@ -122,7 +127,8 @@
      "type":"Feature",
      "properties": {      
                    "updated":"Mar 2016",
-                   "location":"Westminster",
+                   "location":"Westminster",    
+       "marker-color":"#FF0000",
                "postcode":"NW1 5LQ",
                 "street":[51.5230,-0.1558],
                 "name":"Allsop Place"
