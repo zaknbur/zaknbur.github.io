@@ -22,8 +22,8 @@
   {
      "type":"Feature",
      "properties": {      
-                    "updated":"Jan 2016",        
-       "color":"#99FF33",
+                    "updated":"Jan 2016",     
+       "marker-color":"#0000FF",
                    "location":"City",
                "postcode":"EC2V 7HH",
                 "street":[51.5154,-0.0932],
@@ -197,7 +197,8 @@
   {
      "type":"Feature",
      "properties": {      
-                   "updated":"October 2015",
+                   "updated":"October 2015",  
+       "marker-color":"#00F00F",
                    "location":"Kensington",
                "postcode":"W8 7DB",
                 "street":[51.5004,-0.1956],
@@ -212,7 +213,8 @@
      "type":"Feature",
      "properties": {      
                    "updated":"joe",
-                   "location":"joe",
+                   "location":"joe",  
+       "marker-color":"#00FF00",
                "postcode":"NULL",
                 "street":[51.5296,-0.1242],
                 "name":"Argyll Road  -  check"
@@ -226,7 +228,8 @@
      "type":"Feature",
      "properties": {      
                    "updated":"October 2015",
-                   "location":"Westminster",
+                   "location":"Westminster",  
+       "marker-color":"FF00000",
                "postcode":"NULL",
                 "street":[51.5072,-0.1410],
                 "name":"Arlington Street"
@@ -240,7 +243,8 @@
      "type":"Feature",
      "properties": {      
                    "updated":"joe",
-                   "location":"Westminster",
+                   "location":"Westminster",  
+       "marker-color":"#FF00FF",
                "postcode":"NULL",
                 "street":[51.4963,-0.1268],
                 "name":"Smith Square"
@@ -254,7 +258,8 @@
      "type":"Feature",
      "properties": {      
                    "updated":"joe",
-                   "location":"Westminster",
+                   "location":"Westminster",  
+       "marker-color":"#00FF00",
                "postcode":"NULL",
                 "street":[51.4957,-0.1268],
                 "name":"Smith Square"
@@ -268,7 +273,8 @@
      "type":"Feature",
      "properties": {      
                    "updated":"Jan 2016",
-                   "location":"City",
+                   "location":"City",  
+       "marker-color":"#FF0000",
                "postcode":"WC2A 1AP",
                 "street":[51.5179,-0.1128],
                 "name":"Southampton Buildings"
