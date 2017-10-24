@@ -4,7 +4,7 @@
      {
      "type":"Feature",
      "properties": {    
-       "marker-color":"#FF0000",
+       "color":"#99FF33",
        "marker-size":"medium",
        "marker-symbol":"",   
                    "updated":"October 2015",
@@ -22,8 +22,8 @@
   {
      "type":"Feature",
      "properties": {      
-                    "updated":"Jan 2016",    
-       "marker-color":"#00FF00",
+                    "updated":"Jan 2016",        
+       "color":"#99FF33",
                    "location":"City",
                "postcode":"EC2V 7HH",
                 "street":[51.5154,-0.0932],
