@@ -8,7 +8,10 @@
 function LatLonGraticule(sexagesimal) {
     this.sex_ = sexagesimal || false;//default is decimal intervals
 }
-LatLonGraticule.prototype = new GOverlay();
+
+LatLonGraticule.prototype = new google.maps.OverlayView();
+
+
 
 LatLonGraticule.prototype.initialize = function(map) {
 
