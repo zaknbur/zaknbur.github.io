@@ -42,14 +42,14 @@
     <script>
 
 var map;
-var grid; 
+// var grid; 
       
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     zoom: 14,
     center: {lat: 51.51, lng: -0.19}
   });
-      grid = new Graticule(map, true);
+  //    grid = new Graticule(map, true);
   
     // Load GeoJSON.
  // map.data.loadGeoJson('geojson-io.json');
@@ -90,7 +90,7 @@ function initMap() {
     </script>
     
     
-<script type="text/javascript" src="http://www.bdcc.co.uk/Gmaps/v3_ll_grat.js"></script>
+// <script type="text/javascript" src="http://www.bdcc.co.uk/Gmaps/v3_ll_grat.js"></script>
     
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&signed_in=true&callback=initMap"></script>
