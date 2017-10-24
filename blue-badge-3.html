@@ -37,16 +37,23 @@
     <div id="map"></div>
     <div id="info-box">?</div>
         <div id="streetview"></div>
+    
+    
+<script type="text/javascript" src="v3_ll_grat.js"></script>
+    
     <script>
 
 var map;
+var grid; 
+      
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     zoom: 14,
     center: {lat: 51.51, lng: -0.19}
   });
-
-  // Load GeoJSON.
+      grid = new Graticule(map, true);
+  
+    // Load GeoJSON.
  // map.data.loadGeoJson('geojson-io.json');
 // map.data.loadGeoJson('blue-badge-feb-16.json');
   map.data.loadGeoJson('blue-badge-tester-2017.json');
