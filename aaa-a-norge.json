@@ -1,0 +1,2776 @@
+{
+
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -1",
+        "map 50k": "Bomlo - (1114-1)",
+        "UTM coords": "Zone 32 (287700/6633000)(289700/6628000)" 
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ [ 5.217507226820386   , 59.78027487136033 ] , 
+ [ 5.25305156794258   , 59.78129381524108 ] , 
+ [ 5.2580725697699755   , 59.73649173468837 ] , 
+ [ 5.2225755837086965   , 59.73547461099351 ] , 
+ [ 5.217507226820386   , 59.78027487136033]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -2",
+        "map 50k": " Bomlo ( 1114-1 ) ",
+        "UTM coords": "Zone 32 (284700/6633000)(287700/6629667)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.16419549752433   , 59.77872846464685 ] , 
+ [ 5.217507226820386   , 59.78027487136033 ] , 
+ [ 5.220887557988683   , 59.75041108106266 ] , 
+ [ 5.1676231895584746   , 59.748866516454186 ] , 
+ [ 5.16419549752433   , 59.77872846464685]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo 3",
+        "map 50k": "Bomlo  (1114-1) ",
+        "UTM coords": "Zone 32 (289700/6633000)(291700/6628000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.25305156794258   , 59.78129381524108 ] , 
+ [ 5.288598432123832   , 59.78230316237801 ] , 
+ [ 5.293572067815151   , 59.737499278673226 ] , 
+ [ 5.2580725697699755   , 59.73649173468837 ] , 
+ [ 5.25305156794258   , 59.78129381524108]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -4",
+        "map 50k": " Bomlo (1114-1)  - ",
+        "UTM coords": "Zone 32 (291700/6633000)(293700/6628000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.288598432123832   , 59.78230316237801 ] , 
+ [ 5.324147795739949   , 59.78330291141298 ] , 
+ [ 5.329074054322616   , 59.73849724159546 ] , 
+ [ 5.293572067815151   , 59.737499278673226 ] , 
+ [ 5.288598432123832   , 59.78230316237801]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -5",
+        "map 50k": " Bomlo (1114-1)  - ",
+        "UTM coords": "Zone 32 (284700/6635000)(289700/6633000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.162135235243057   , 59.79664730234914 ] , 
+ [ 5.251038755535003   , 59.79921448932946 ] , 
+ [ 5.25305156794258   , 59.78129381524108 ] , 
+ [ 5.16419549752433   , 59.77872846464685 ] , 
+ [ 5.162135235243057   , 59.79664730234914]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -6",
+        "map 50k": " Bomlo (1114-1)  - ",
+        "UTM coords": "Zone 32 (289700/6635500)(293400/6633000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.2505351576656345   , 59.80369464372167 ] , 
+ [ 5.316342742903576   , 59.80555605401932 ] , 
+ [ 5.318815232787582   , 59.78315356098977 ] , 
+ [ 5.25305156794258   , 59.78129381524108 ] , 
+ [ 5.2505351576656345   , 59.80369464372167]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -7",
+        "map 50k": " Bomlo (1114-1)  - ",
+        "UTM coords": "Zone 32 (281700/6633000)(284700/6629667)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.110889577888573   , 59.77716047302765 ] , 
+ [ 5.16419549752433   , 59.77872846464685 ] , 
+ [ 5.1676231895584746   , 59.748866516454186 ] , 
+ [ 5.1143646137766146   , 59.74730039247836 ] , 
+ [ 5.110889577888573   , 59.77716047302765]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -8",
+        "map 50k": "Bomlo  (1114-1)",
+        "UTM coords": "Zone 32 (281700/6636333)(284700/6633000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.107407272369828   , 59.80702029376914 ] , 
+ [ 5.160760634130176   , 59.808590156360246 ] , 
+ [ 5.16419549752433   , 59.77872846464685 ] , 
+ [ 5.110889577888573   , 59.77716047302765 ] , 
+ [ 5.107407272369828   , 59.80702029376914]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -9",
+        "map 50k": "Bomlo  (1114-1) ",
+        "UTM coords": "Zone 32 (284700/6637000)(289700/6635000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.160072386205503   , 59.81456604764106 ] , 
+ [ 5.249023415501875   , 59.81713507297256 ] , 
+ [ 5.251038755535003   , 59.79921448932946 ] , 
+ [ 5.162135235243057   , 59.79664730234914 ] , 
+ [ 5.160072386205503   , 59.81456604764106]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -10",
+        "map 50k": " Bomlo (1114-2) ",
+        "UTM coords": "Zone 32 (284000/6619400)(286000/661400)"
+     },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.165743401324786   , 59.65651575193919 ] , 
+ [ 5.201154606412978   , 59.65754742111578 ] , 
+ [ 5.206219924589965   , 59.612747164653115 ] , 
+ [ 5.170855655841019   , 59.61171733379821 ] , 
+ [ 5.165743401324786   , 59.65651575193919]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -11",
+        "map 50k": "Bomlo  (1114-2) ",
+        "UTM coords": "Zone 32 (286000/6619400)(288000/6614400)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.201154606412978   , 59.65754742111578 ] , 
+ [ 5.236568347751497   , 59.658569542294046 ] , 
+ [ 5.241586718503864   , 59.61376746441193 ] , 
+ [ 5.206219924589965   , 59.612747164653115 ] , 
+ [ 5.201154606412978   , 59.65754742111578]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -12",
+        "map 50k": " Bomlo (1114-2) ",
+        "UTM coords": "Zone 32 (288000/6624000)(290000/6621000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.231937576265116   , 59.69978695348174 ] , 
+ [ 5.267397161102378   , 59.70080118968906 ] , 
+ [ 5.270390466922514   , 59.673919237848054 ] , 
+ [ 5.23495915518717   , 59.672906087577125 ] , 
+ [ 5.231937576265116   , 59.69978695348174]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -13",
+        "map 50k": " Bomlo (1114-2) ",
+        "UTM coords": "Zone 32 (286000/6621000)(290000/6619400)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.1995303599038785   , 59.6718833825215 ] , 
+ [ 5.270390466922514   , 59.673919237848054 ] , 
+ [ 5.2719846020133225   , 59.65958211410748 ] , 
+ [ 5.201154606412978   , 59.65754742111578 ] , 
+ [ 5.1995303599038785   , 59.6718833825215]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -14",
+        "map 50k": " Bomlo (1114-2) ",
+        "UTM coords": "Zone 32 (284500/6614400)(287500/6611067)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.179696485024257   , 59.61197568497729 ] , 
+ [ 5.232744784561177   , 59.613513283087116 ] , 
+ [ 5.236089144087836   , 59.583648205442174 ] , 
+ [ 5.183087660732786   , 59.58211243297733 ] , 
+ [ 5.179696485024257   , 59.61197568497729]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "red",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1993 "   ,
+        "name": "Bomlo -15",
+        "map 50k": "Bomlo  (1114-2) ",
+        "UTM coords": "Zone 32 (289000/6626000)(290000/6624000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 5.247658954187235   , 59.71821609438668 ] , 
+ [ 5.265398500090298   , 59.718722378397175 ] , 
+ [ 5.267397161102378   , 59.70080118968906 ] , 
+ [ 5.249667054762131   , 59.700295267290535 ] , 
+ [ 5.247658954187235   , 59.71821609438668]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-1",
+        "map 50k": " Namsskogan (1824-2)   ", 
+        "UTM coords": "Zone 33 (404600/7169000)(406700/7165600)"
+      },
+      "geometry": {
+        "type": "Polygon",
+  "coordinates": [
+          [
+ 
+ [ 13.004076256248377   , 64.63249914059806 ] , 
+ [ 13.047980460807217   , 64.63308564053249 ] , 
+ [ 13.050166875121105   , 64.60259424891419 ] , 
+ [ 13.006311768116397   , 64.60200855109893 ] , 
+ [ 13.004076256248377   , 64.63249914059806]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-2",
+        "map 50k": "Namsskogan  (1824-2)   ", 
+        "UTM coords": "Zone 33 (402500/7169000)(404700/7165600)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.960174181508059   , 64.63189960453266 ] , 
+ [ 13.004076256248377   , 64.63249914059806 ] , 
+ [ 13.006311768116397   , 64.60200855109893 ] , 
+ [ 12.962458783307168   , 64.60140983494567 ] , 
+ [ 12.960174181508059   , 64.63189960453266]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-3",
+        "map 50k": " Namsskogan (1824-2)   ", 
+        "UTM coords": "Zone 33 (400600/7169000)(402500/7165600)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.916274283248725   , 64.6312870335184 ] , 
+ [ 12.960174181508059   , 64.63189960453266 ] , 
+ [ 12.962458783307168   , 64.60140983494567 ] , 
+ [ 12.918607967189402   , 64.60079810163252 ] , 
+ [ 12.916274283248725   , 64.6312870335184]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-4",
+        "map 50k": " Namsskogan (1824-2)   ", 
+        "UTM coords": "Zone 33 (409100/7171800)(413500/7169600)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 13.096400888832472   , 64.65885113333069 ] , 
+ [ 13.188487101394594   , 64.66000779508535 ] , 
+ [ 13.189802212970957   , 64.64027657366388 ] , 
+ [ 13.09778275668978   , 64.6391209367423 ] , 
+ [ 13.096400888832472   , 64.65885113333069]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-5",
+        "map 50k": "Namsskogan  (1824-2)   ", 
+        "UTM coords": "Zone 33 (409100/7174000)(413500/7171800)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 13.095016786673757   , 64.67858126102252 ] , 
+ [ 13.187169863253622   , 64.67973894909927 ] , 
+ [ 13.188487101394594   , 64.66000779508535 ] , 
+ [ 13.096400888832472   , 64.65885113333069 ] , 
+ [ 13.095016786673757   , 64.67858126102252]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-6",
+        "map 50k": "Namsskogan  (1824-2)   ", 
+        "UTM coords": "Zone 33 (406350/7173500)(409100/7170000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 13.037749901761893   , 64.67334461764769 ] , 
+ [ 13.095331551809625   , 64.67409714714272 ] , 
+ [ 13.097531673942218   , 64.64270825033714 ] , 
+ [ 13.040016435311994   , 64.64195678153203 ] ,     
+ [ 13.037749901761893   , 64.67334461764769 ] 
+         ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-7",
+        "map 50k": " Namsskogan (1824-2)   ", 
+        "UTM coords": "Zone 33 (403600/7173500)(406350/7170000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.980171854418158   , 64.67256969096006 ] , 
+ [ 13.037749901761893   , 64.67334461764769 ] , 
+ [ 13.040016435311994   , 64.64195678153203 ] , 
+ [ 12.982504786090585   , 64.64118294704173 ] , 
+ [ 12.980171854418158   , 64.67256969096006]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-8",
+        "map 50k": "Namsskogan  (1824-2)   ", 
+        "UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.92259751508475   , 64.67177236970718 ] , 
+ [ 12.980171854418158   , 64.67256969096006 ] , 
+ [ 12.982504786090585   , 64.64118294704173 ] , 
+ [ 12.924996831196912   , 64.64038674948446 ] , 
+ [ 12.92259751508475   , 64.67177236970718]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-9",
+        "map 50k": "Namsskogan  (1824-2)   ", 
+        "UTM coords": "Zone 33 (398500/7177500)(401000/7173500)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.87058600397004   , 64.70694120780647 ] , 
+ [ 12.922992344987069   , 64.70768556594194 ] , 
+ [ 12.925737836222002   , 64.67181643735911 ] , 
+ [ 12.873400642692037   , 64.6710732791111 ] , 
+ [ 12.87058600397004   , 64.70694120780647]
+          ]
+        ]
+      } 
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-10",
+        "map 50k": "Namsskogan  (1824-2)   ", 
+        "UTM coords": "Zone 33 (401000/7177500)(403500/7173500)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.922992344987069   , 64.70768556594194 ] , 
+ [ 12.975401846066525   , 64.70841138846619 ] , 
+ [ 12.978078176474721   , 64.6725410898114 ] , 
+ [ 12.925737836222002   , 64.67181643735911 ] , 
+ [ 12.922992344987069   , 64.70768556594194]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-11",
+        "map 50k": "Namsskogan  (1824-2)   ", 
+        "UTM coords": "Zone 33 (403500/7177500)(406000/7173500)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 12.975401846066525   , 64.70841138846619 ] , 
+ [ 13.027814427787389   , 64.70911867334087 ] , 
+ [ 13.030421584363369   , 64.67324723443777 ] , 
+ [ 12.978078176474721   , 64.6725410898114 ] , 
+ [ 12.975401846066525   , 64.70841138846619]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "blue",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1982"   ,
+        "name": "Lillefjel-12",
+        "map 50k": "Namsskogan  (1824-2)   ", 
+        "UTM coords": "Zone 33 (406000/7177500)(408500/7173500)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+[13.0278144   ,	64.7091187],
+[13.0802300   , 64.7098074],
+[13.0827680   ,	64.6739349],
+[13.0304216   ,	64.6732472],
+[13.0278144   ,	64.7091187]
+
+          ]
+        ]
+      }
+    },
+ 
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "green",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 2004"   ,
+        "name": "Blika-3",
+        "map 50k": "Froystaul  (1514-3) ? as poss typo in (1614-3) Seljord ", 
+        "UTM coords": "Zone 32 (471250/6615200)(473250/6610200)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 8.4895732182252   , 59.67384952653121 ] , 
+ [ 8.525079695766621   , 59.67398282274797 ] , 
+ [ 8.525713817040984   , 59.62908565704615 ] , 
+ [ 8.490254743490254   , 59.62895259894542 ] , 
+ [ 8.4895732182252   , 59.67384952653121]
+          ]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "fill": "yellow",
+        "fill-opacity": 0.25,
+        "year mapped 1-50k" : " 1994"   ,
+        "name": "Tordal-3",
+        "map 50k": "Gjerstadt  (1612-3  ? as typo in (1613-3) Drangedal", 
+        "UTM coords": "Zone 32 (478980/6564320)(483980/6562320)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+ [ 8.631806327815216   , 59.217417382903854 ] , 
+ [ 8.719386669245127   , 59.21763579447705 ] , 
+ [ 8.719533982840515   , 59.1996753002188 ] , 
+ [ 8.63199961623845   , 59.19945704347034 ] , 
+ [ 8.631806327815216   , 59.217417382903854]
+          ]
+        ]
+      }
+    }, 
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Concession Area": "SouthWest"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu",
+        "map 50k": "Gjerstad (1612-1)",
+        "name": "Helldal - 0817.009",
+        "reference": "5588&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.156454,
+          58.956421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu",
+        "map 50k": "Gjerstad (1612-1)",
+        "name": "Helldal - 0817.009",
+        "reference": "5588&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.156454,
+          58.956421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "medium",
+        "commodity": "Nickel - Ni Cu",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Holmefjellhaugen - 0817.001",
+        "reference": "5580&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-480068 Y-6567391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.650587,
+          59.245055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "commodity": "Iron-Titanium - Fe-Ti",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Homleid - 0817.002",
+        "reference": "5581&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-488168 Y-6567541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.792575,
+          59.246705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "commodity": "Iron-Titanium - Fe-Ti",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Lone - 0817.007",
+        "reference": "5586&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-488068 Y-6561991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.791127,
+          59.196862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "medium",
+        "commodity": "Nickel - Ni Cu",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Søyldalen - 0817.011",
+        "reference": "5716&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-482518 Y-6565541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693685,
+          59.228549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Flottane - 0817.004",
+        "reference": "5583&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-481318 Y-6562941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672882,
+          59.20515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "medium",
+        "commodity": "Molybdenium - Mo",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Kleppe - 0817.006",
+        "reference": "5585&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-485818 Y-6559141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.751924,
+          59.171199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "medium",
+        "commodity": "Molybdenium - Mo",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Kleppe - 0817.005",
+        "reference": "5584&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-485668 Y-6558841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74932,
+          59.1685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Tin - Sn",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Kleppsvatnet - 0817.014",
+        "reference": "5781&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-482468 Y-6560541 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.693212,
+          59.183646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "medium",
+        "commodity": "Molybdenium - Mo",
+        "map 50k": "Seljord (1613-4)",
+        "name": "Mørkvassheiane - 0817.012",
+        "reference": "5717&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-479518 Y-6570941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.640611,
+          59.276908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "medium",
+        "commodity": "Molybdenium - Mo",
+        "map 50k": "Seljord (1613-4)",
+        "name": "Mørkvassheiane - 0817.013",
+        "reference": "5718&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-479668 Y-6569541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.643375,
+          59.264344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe",
+        "map 50k": "Drangedal (1613-2)",
+        "name": "Vefall - 0817.010",
+        "reference": "5589&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-511068 Y-6540391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.192672,
+          59.002906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe",
+        "map 50k": "Drangedal (1613-2)",
+        "name": "Vågsland - 0817.008",
+        "reference": "5587&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-491268 Y-6554141 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.847458,
+          59.126443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Øverbø - 0817.003",
+        "reference": "5582&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-489018 Y-6567541 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.807476,
+          59.246728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Pegmatitic feldspar - Li Y F Sn Ta Be",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Høydalen - 0817.302",
+        "reference": "8492&p_spraak=E",
+        "description": "Kristiansen, Roy , 1998 Høydalen Li-pegmatitt, Tørdal, Telemark. Norsk Bergverksmuseum - ARTIKKEL - Skrift -  Kongsberg mineralsymposium 1998 -  No.14 - 17-28 pages          The Lithium-pegmatite at Høydalen, Tørdal in the county of Telemark, S. Norway, is presented with an historical review, additional data on recent findings, and comparison with other Li-pegmatites in Norway. The pegmatite is characterized by significant quantities of amazonite, lepidolite and cassiterite, besides a large diverrsity of yttrium- and fluorine minerals and others.          Geochemically the pegmatite is rich in Li, Y, F, Sn, Ta and Be. An updated list of all known species is provided.",
+        "UTM coords": "EU89 Zone 32 X-486270 Y-6560469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.759742,
+          59.183142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Pegmatitic feldspar",
+        "map 50k": "Gjerstad (1612-1)",
+        "name": "Brøsjø - 0817.301",
+        "reference": "8480&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-508268 Y-6533291 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.143663,
+          58.939207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Pegmatitic feldspar",
+        "map 50k": "Gjerstad (1612-1)",
+        "name": "Fosteråsen - 0817.308",
+        "reference": "18764&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-509688 Y-6527872"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.168105,
+          58.89051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Pegmatitic feldspar",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Høydalen - 0817.304",
+        "reference": "8494&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-486118 Y-6560391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.757092,
+          59.182434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Pegmatitic feldspar",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Høydalen - 0817.305",
+        "reference": "8495&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-486518 Y-6560191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.764104,
+          59.180651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Pegmatitic feldspar",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Høydalen - 0817.303",
+        "reference": "8493&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-486618 Y-6560791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.765817,
+          59.186042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Pegmatitic feldspar",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Skardsfjellet - 0817.307",
+        "reference": "8497&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-483618 Y-6560891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.713309,
+          59.186836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Pegmatitic feldspar",
+        "map 50k": "Nissedal (1613-3)",
+        "name": "Kleppe - 0817.306",
+        "reference": "8496&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-484818 Y-6559191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.734428,
+          59.171613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Concession Area": "SouthEast"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Folderøy fyr -  1219-032",
+        "reference": "4838&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292717 Y-6634741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.304959,
+          59.79842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu (Au 29.8ppm)",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Alvsvåg 1219-019",
+        "reference": "4747&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284617 Y-6631991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.163769,
+          59.76965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Alvsvåg 1219-020",
+        "reference": "4748&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284417 Y-6632091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.160113,
+          59.770442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Bjørnavika 1219-049",
+        "reference": "4863&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287517 Y-6626441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.220917,
+          59.721416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Bømlo 1219-005",
+        "reference": "4733&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 -284467 Y-6625391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.16789,
+          59.710438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Bømlo 1219-007",
+        "reference": "4735&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284467 Y-6625441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.167839,
+          59.710886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Bømlo 1219-010",
+        "reference": "4738&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284917 Y-6624191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.177098,
+          59.699919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Bømlo 1219-009",
+        "reference": "4737&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284467 Y-6624641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.168659,
+          59.703718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Bømlo 1219-008",
+        "reference": "4736&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284867 Y-6625691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.174676,
+          59.713333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Bømlo 1219-003",
+        "reference": "4731&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284977 Y-6625621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.176699,
+          59.712763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Bømlo 1219-004",
+        "reference": "4732&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284217 Y-6624741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.164124,
+          59.704484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Bømlo 1219-006",
+        "reference": "4734&p_spraak=E",
+        "description": "Wulff, P. -  Stendal, H. , 1995 Gold in Sunnhordland, the caledonides of southwestern Norway. - Grønlands geologiske undersøgelse - Open file series -  Gold mineralization in the Nordic countries and Greenland. Extended -  abstracts -  No.95/10 - 116-119 pages          The Palaeozoic supracrustal rocks of the Sunnhordland area are an important metallogenic zone with gold-bearing quartz veins and massive sulfide mineralization especially Cu and Zn associated with Au and Ag. The gold mineralization in most of the quartz veins is of the mesothermal type. Wulff (1993) and Christensen (1994) concluded that most quartz veins on Bømlo are spatially related to the Sunnhordland Fault Zone (SFZ) or the Hardangerfjord Fault Zone (HFZ). The quartz veins at Vernøy and Hovdaneset is situated not far from SFZ or HFZ thus indicating a relationship. In summary this study has shown that far from all interesting mineralization has been found in the highly prospective Sunnhordland area. The most prospective areas is considered to be along SFZ and HFZ.          The Bømlo deposits are mesothermal gold-bearing quartz veins in shear zones in the Lykling ophiolite complex, frequently following the contacts of dolerite dykes. The veins and their chloritised and carbonatised wallrocks are characterized by the presence of coarse-grained native gold, giving spectacular hand specimens that are extracted today. Analyses of bulk samples are normally in the range of 2.5 g/t Au. A few, minor Cu-Zn and Fe-sulphide (vasskis) occurrences are related to metabasalts and felsic metavolcanic rocks overlying the ophiolite complex.",
+        "UTM coords": "EU89 Zone 32 X-284507 Y-6625291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.168702,
+          59.709563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Dyngebekken 1219-047",
+        "reference": "4861&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285967 Y-6627241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.192605,
+          59.727788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Ersland 1219-039",
+        "reference": "4849&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289817 Y-6631641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.256506,
+          59.769181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Espevær 1219-002",
+        "reference": "4727&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-282217 Y-6612290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.141515,
+          59.591893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Finnåsvatnet 1219-031",
+        "reference": "4837&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-290767 Y-6630491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.274534,
+          59.759356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Folderøy havn 1219-040",
+        "reference": "4850&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292517 Y-6635291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.300856,
+          59.803248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Furevatnet 1219-052",
+        "reference": "4866&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285917 Y-6626441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.192534,
+          59.720595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Fylkesneset 1219-018",
+        "reference": "4746&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285317 Y-6631141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.177077,
+          59.762397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Geitung 1219-037",
+        "reference": "4847&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-282017 Y-6623391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.126521,
+          59.691242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Gilje 1219-046",
+        "reference": "4860&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-286917 Y-6632241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.204375,
+          59.773078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Hallaråker 1219-021",
+        "reference": "4749&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284167 Y-6632941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.154795,
+          59.777929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Zn Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Hidle 1219-048",
+        "reference": "4862&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288517 Y-6628341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.236742,
+          59.738951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Hidleneset 1219-012",
+        "reference": "4740&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288897 Y-6627076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.24476,
+          59.727809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Hidleren 1219-001",
+        "reference": "4699&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-292417 Y-6635241"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.299127,
+          59.80275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Hiskjo 1219-023",
+        "reference": "4751&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-282367 Y-6627691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.128267,
+          59.729951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Hovdahalla 1219-035",
+        "reference": "4845&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287567 Y-6627141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.221096,
+          59.727713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Håvardshaugen 1219-050",
+        "reference": "4864&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287667 Y-6626441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.223578,
+          59.721492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Kuleseid 1219-013",
+        "reference": "4741&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288017 Y-6628491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.227716,
+          59.74004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Langøya 1219-030",
+        "reference": "4836&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284667 Y-6631091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.165584,
+          59.761613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Lindøya 1219-015",
+        "reference": "4743&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287817 Y-6630291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.222343,
+          59.756067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Meland 1219-022",
+        "reference": "4750&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285917 Y-6632491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.186353,
+          59.774803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au As Pb Zn Cu",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Moane 1219-033",
+        "reference": "4843&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288217 Y-6626891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.232881,
+          59.725804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Mynteklubben 1219-044",
+        "reference": "4855&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285167 Y-6624341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.181377,
+          59.701392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Myntevika 1219-038",
+        "reference": "4848&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289217 Y-6629066"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.248438,
+          59.745803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au Cu Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Nordneset 1219-017",
+        "reference": "4745&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-286717 Y-6628491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.20464,
+          59.739374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Nordraneset 1219-045",
+        "reference": "4856&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284817 Y-6623791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.175735,
+          59.696283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Oldereid 1219-043",
+        "reference": "4854&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289817 Y-6631041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.257108,
+          59.763805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Risdal 1219-051",
+        "reference": "4865&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-288767 Y-6626541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.242992,
+          59.722948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Sakseid 1219-014",
+        "reference": "4742&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289867 Y-6629591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.259452,
+          59.750837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Sandgota 1219-034",
+        "reference": "4844&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287967 Y-6626641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.228698,
+          59.723437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Sele 1219-036",
+        "reference": "4846&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-285017 Y-6623841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.179229,
+          59.696835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Stautland 1219-041",
+        "reference": "4851&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289667 Y-6630891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.254595,
+          59.762385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Steinvågen 1219-016",
+        "reference": "4744&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287167 Y-6628041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.213085,
+          59.735573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Tjongevatnet  1219-042",
+        "reference": "4853&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-284267 Y-6618490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.171413,
+          59.648509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "marker-size": "medium",
+        "commodity": "Gold - Au",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "T-krysset -  1219-053",
+        "reference": "4867&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-289017 Y-6629541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.244409,
+          59.749957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Bømlo (1114-2)",
+        "name": "Våge -  1219-011",
+        "reference": "4739&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-287817 Y-6626791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.225885,
+          59.724705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+        "commodity": "Silica - Hydrothermal Quartz",
+        "map 50k": "Fitjar (1114-1)",
+        "name": "Meland -  1219-304",
+        "reference": "7927&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-286100 Y-6632660"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.189422,
+          59.776407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Concession Area": "Central"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Zinc - Zn Cu Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Skorovas - 1740.007",
+        "reference": "234&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-409282 Y-7168149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.102498,
+          64.626159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Finnkrudomma - 1740.002",
+        "reference": "222&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-407451 Y-7162649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.067749,
+          64.576338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Grøndalen - 1740.018",
+        "reference": "320&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-402782 Y-7173449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.963081,
+          64.671879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Grønndalselv - 1740.009",
+        "reference": "238&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-400572 Y-7171419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.918211,
+          64.653031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Murfjellet - 1740.022",
+        "reference": "323&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-400371 Y-7169023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.915654,
+          64.63149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Stor-skorovatn - 1740.006",
+        "reference": "231&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-407157 Y-7170794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.056386,
+          64.649302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Tunnsjødalplassen - 1740.020",
+        "reference": "322&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-404852 Y-7180739"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.001608,
+          64.737843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Pyrites",
+        "map 50k": "Røyrvik (1924-4)",
+        "name": "Aktejaevrie - 1740.015",
+        "reference": "277&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-417432 Y-7194748"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.257572,
+          64.866821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Namsskogan (1824-1)",
+        "name": "Brekka - 1740.017",
+        "reference": "319&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-407782 Y-7188699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.057979,
+          64.810044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Namsskogan (1824-1)",
+        "name": "Josefmyrtjørna - 1740.016",
+        "reference": "318&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-402182 Y-7185549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.942293,
+          64.78021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Røyrvik (1924-4)",
+        "name": "Kjerådalen - 1740.021",
+        "reference": "369&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-419832 Y-7200098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.305167,
+          64.91539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Lassemoen - 1740.001",
+        "reference": "193&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-391482 Y-7175849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.724735,
+          64.689952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Zinc - Zn Pb Cu Pyrites",
+        "map 50k": "Namsskogan (1824-1)",
+        "name": "Lille tromselv - 1740.013",
+        "reference": "248&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-412012 Y-7183499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1502,
+          64.764546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Pyrites",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Storveltberget - 1740.019",
+        "reference": "321&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-399932 Y-7181009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.898169,
+          64.738836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Tunnsjøflyin - 1740.011",
+        "reference": "240&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-408082 Y-7174899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.073127,
+          64.686369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu",
+        "map 50k": "Skorovatn (1824-2)",
+        "name": "Øverste nesåvatnet - 1740.005",
+        "reference": "230&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-408732 Y-7166449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.092071,
+          64.610764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "commodity": "Talc - Serpentine",
+        "map 50k": "Namsskogan (1824-1)",
+        "name": "Finnhuslitjørnan - 1740.301",
+        "reference": "14834&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-412932 Y-7194048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.163095,
+          64.859402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "commodity": "Olivine - Ultramafic",
+        "map 50k": "Majavatn (1925-3)",
+        "name": "Jengelfjell - 1740.303",
+        "reference": "15082&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-434699 Y-7219400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.610397,
+          65.091766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "commodity": "Olivine - Ultramafic",
+        "map 50k": "Røyrvik (1924-4)",
+        "name": "Størje - 1740.302",
+        "reference": "15081&p_spraak=E",
+        "UTM coords": "EU89 Zone 33 X-422532 Y-7205498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.359257,
+          64.964461
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Concession Area": "Bleka"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "commodity": "Gold - Au Bi Cu",
+        "map 50k": "Hjartdal (1614-3)",
+        "name": "Bleka - 0828.001",
+        "reference": "5433&p_spraak=E",
+	"description": " The Bleka gold mine was worked between 1870 and 1900, and again test mined in the 1930s. The work was carried out in two stopes, which is reported to have grades of 25 g/t Au, 45 g/t Ag, 0.4 % Bi and 1.5 % Cu. Total production is believed to amount to c. 200 kg gold. Gold occurs in ankerite-tourmaline-quartz veins which crosscut the Bleka amphibolite complex, which is a 1-2 km wide and more than 15 km long gabbroic sill. Other deposit related to the same complex are Gjuv, Espelid, Svervelid, Nystul and Blengsdal. The Gjuv vein was mined for its 1-5 % content of bismuthinite, but were also fairly rich in gold. ",
+        "UTM coords": "EU89 Zone 32 X-474920 Y-6606099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.555809,
+          59.592373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu",
+        "map 50k": "Åmotsdal (1514-2)",
+        "name": "Hyttebekk - 0828.017",
+        "reference": "5479&p_spraak=E",
+	"description": " Dons, Johannes A. , 1963      De prekambriske bergarter i Telemark, I. Gruber og skjerp innen gradeteigkart E36V Kviteseid.   Norges geologiske undersøkelseTIDSSKRIFTARTIKKELNGU No.2161-80 pages   Approximately 115 mines and claims have been examined in the years 1941-1961 during regional geological mapping of the Kviteseid quadrangle. The map area covers a part of the - Thelemark-Sætersdal ore province - established by prof. J.H.L. Vogt in 1886. The oldest mine in the area, opened in the year 1524, was worked for silver bearing chalcopyrite and bornite. Other mines have been worked for gold, native copper and silver, molybdenite, galena, arsenopyrite, bismuthinite. All the mines have long since been abandoned and most of the surface workings are overgrown and difficult to find. The 15 native copper and silver deposits (which also contain vanadium minerals) form a separate group. They are all situated along the contact between a sandstone and an overlying basalt, the ore being confined to the sandstone. Most of the other deposits are of Quartz vein type. In quartzites which cover the greatest part of the map area, most of the quartz veins are barren. The great abundance of ore minerals in quartz veins in basic lavas and basic sills may be due to favourable pH conditions in these rocks. The galena deposits are found within a limited area close to a penetrating granite. The ore mineral paragenese in some of the deposits may have been formed under hypothermal to mesothermal conditions whereas other possibly originated at lower temperatures. ",
+        "UTM coords": "EU89 Zone 32 X-468914 Y-6600320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.450299,
+          59.540069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrite Cu",
+        "map 50k": "Åmotsdal (1514-2)",
+        "name": "Sundsbarm - 0828.014",
+        "reference": "5759&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-469284 Y-6599517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.456964,
+          59.532894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFF00",
+        "commodity": "Bismuth - Bi Au",
+        "map 50k": "Hjartdal (1614-3)",
+        "name": "Blengsdalen - 0828.002",
+        "reference": "5434&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-475318 Y-6605091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.562983,
+          59.583344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu",
+        "map 50k": "Hjartdal (1614-3)",
+        "name": "Eisand - 0828.006",
+        "reference": "5438&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-479018 Y-6597091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.629284,
+          59.511709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu Ag",
+        "map 50k": "Åmotsdal (1514-2)",
+        "name": "Gullnes - 0828.005",
+        "reference": "5437&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-468968 Y-6599391"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.451387,
+          59.531737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu Pb",
+        "map 50k": "Seljord (1613-4)",
+        "name": "Gåsdalen - 0828.010",
+        "reference": "5719&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-482768 Y-6587441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.696319,
+          59.425224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Pyrites Cu Fe",
+        "map 50k": "Åmotsdal (1514-2)",
+        "name": "Habbarskvammen - 0828.015",
+        "reference": "5760&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-468868 Y-6604891"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.448812,
+          59.581116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Sulphides - Pyrites Fe",
+        "map 50k": "Seljord (1613-4)",
+        "name": "Haugland - 0828.011",
+        "reference": "5720&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-481818 Y-6586841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.679627,
+          59.419795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000FF",
+        "marker-size": "medium",
+        "commodity": "Molybdenum - Mo",
+        "map 50k": "Seljord (1613-4)",
+        "name": "Koppartjern - 0828.009",
+        "reference": "5695&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-488468 Y-6583041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.797008,
+          59.385906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu",
+        "map 50k": "Seljord (1613-4)",
+        "name": "Murtedalen - 0828.008",
+        "reference": "5444&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-482118 Y-6586291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684959,
+          59.414869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "commodity": "Manganese - Fe Mn",
+        "map 50k": "Hjartdal (1614-3)",
+        "name": "Nutheim - 0828.016",
+        "reference": "5766&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-475168 Y-6603091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.560561,
+          59.565375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu",
+        "map 50k": "Hjartdal (1614-3)",
+        "name": "Prestårhus - 0828.007",
+        "reference": "5439&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-479718 Y-6596691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.641689,
+          59.508151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Sulphides - Pyrite",
+        "map 50k": "Seljord (1613-4)",
+        "name": "Sønsttveiten - 0828.012",
+        "reference": "5721&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-480368 Y-6588641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.653913,
+          59.435894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FF0000",
+        "marker-size": "medium",
+        "commodity": "Iron - Fe",
+        "map 50k": "Åmotsdal (1514-2)",
+        "name": "Tjørnstaul - 0828.013",
+        "reference": "5758&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-462118 Y-6604791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.329329,
+          59.579661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Lead - Pb Cu",
+        "map 50k": "Åmotsdal (1514-2)",
+        "name": "Åmotsdal - 0828.004",
+        "reference": "5436&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-465118 Y-6611341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.381358,
+          59.638736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00FF00",
+        "marker-size": "medium",
+        "commodity": "Copper - Cu Sb As",
+        "map 50k": "Bandak (1513-1)",
+        "name": "Åmotsdal - 0828.018",
+        "reference": "5480&p_spraak=E",
+        "UTM coords": "EU89 Zone 32 X-465104 Y-6611737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.381038,
+          59.642285
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Concession Area": "Central"
+      }
+    }  
+  ]
+}
+
+
+
