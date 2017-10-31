@@ -17,7 +17,7 @@
       #info-box {
         background-color: white;
         border: 1px solid black;
-        bottom: 40px;
+        bottom: 60px;
         height: 20px;
         padding: 5px;
         position: absolute;
@@ -26,7 +26,7 @@
       #fieldview {
         background-color: white;
         border: 2px solid blue;
-        bottom: 10px;
+        bottom: 40px;
         height: 15px;
         padding: 5px;
         position: absolute;
@@ -35,10 +35,10 @@
       #geolmap {
         background-color: white;
         border: 2px solid blue;
-        bottom: 10px;
+        bottom: 15px;
         height: 15px;
         padding: 5px;
-        position: relative;
+        position: absolute;
         left: 60px;
       }
     </style>
@@ -87,10 +87,10 @@ function initMap() {
 
     map.data.addListener('mouseover', function(event) {
     document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+'">Site factsheet</a>';      
-   });
+   }); 
 
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('geolmap').innerHTML ='<a href="https://zaknbur.github.io/'+event.feature.getProperty('geology')+'">Geology</a>';      
+    document.getElementById('geolmap').innerHTML ='<a href="http://zaknbur.github.io/'+event.feature.getProperty('geology')+'">Geology</a>';      
    });
 
   // [END snippet]
