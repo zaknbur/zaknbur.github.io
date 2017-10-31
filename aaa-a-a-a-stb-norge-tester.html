@@ -21,7 +21,7 @@
         height: 20px;
         padding: 5px;
         position: absolute;
-        left: 40px;
+        left: 20px;
      }
       #fieldview {
         background-color: white;
@@ -46,15 +46,16 @@
   <body>
     <div id="map"></div>
     <div id="info-box">?</div>
-        <div id="fieldview"></div>
-        <div id="geolmap"></div>
+    <div id="fieldview"></div>
+    <div id="geolmap"></div>
+
     <script>
 
 var map;
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 10,
-    center: {lat: 59.500, lng: 8.300}
+    zoom: 12,
+    center: {lat: 59.500, lng: 5.300}
   });
 
 
@@ -81,14 +82,12 @@ function initMap() {
   // [START snippet]
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
-    document.getElementById('info-box').textContent =         event.feature.getProperty('name')+',  '+event.feature.getProperty('commodity');
+    document.getElementById('info-box').textContent = event.feature.getProperty('name')+',  '+event.feature.getProperty('commodity');
     }); 
 
     map.data.addListener('mouseover', function(event) {
     document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+'">Site factsheet</a>';      
    });
-
-zaknbur.github.io/a-a-norge.json
 
     map.data.addListener('mouseover', function(event) {
     document.getElementById('geolmap').innerHTML ='<a href="https://zaknbur.github.io/'+event.feature.getProperty('geology')+'">Geology</a>';      
