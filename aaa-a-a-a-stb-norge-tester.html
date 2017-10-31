@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>St Barbara - Concessions Norway</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+      #info-box {
+        background-color: white;
+        border: 1px solid black;
+        bottom: 40px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 40px;
+     }
+      #fieldview {
+        background-color: white;
+        border: 2px solid blue;
+        bottom: 10px;
+        height: 10px;
+        padding: 5px;
+        position: absolute;
+        left: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="info-box">?</div>
+        <div id="fieldview"></div>
+    <script>
+
+var map;
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 10,
+    center: {lat: 59.500, lng: 8.300}
+  });
+
+
+  // Load GeoJSON.
+// map.data.loadGeoJson('blue-badge-feb-16.json');
+  map.data.loadGeoJson('aaa-a-norge.json');
+ // map.data.loadGeoJson('{  );
+ 
+  // Add some style.
+  map.data.setStyle(function(feature) {
+    return /** @type {google.maps.Data.StyleOptions} */({
+      fillColor: feature.getProperty('fill'),
+      strokeWeight: 1
+    });
+  });
+  
+ //[START streetview]
+  //cbll= Latitude,longitude for Street View
+//http://maps.google.com/maps?q=&layer=c&cbll=31.33519,-89.28720
+// http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid=5758&p_spraak=E
+//      "coordinates": [	-0.194	,	51.51]
+// [END streetview]
+
+  // [START snippet]
+  // Set mouseover event for each feature.
+  map.data.addListener('mouseover', function(event) {
+    document.getElementById('info-box').textContent =
+
+        event.feature.getProperty('name')+',  '+event.feature.getProperty('commodity');
+    }); 
+
+    map.data.addListener('mouseover', function(event) {
+    document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+'">Site factsheet</a>';      
+   });
+
+  // [END snippet]
+   //<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
+//        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
+ //           document.getElementById("results").innerHTML=str;
+}
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&signed_in=true&callback=initMap"></script>
+  </body>
+</html>
+
+
+
