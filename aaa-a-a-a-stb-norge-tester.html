@@ -25,7 +25,7 @@
      }
       #fieldview {
         background-color: white;
-        border: 2px solid blue;
+        border: 1px solid blue;
         bottom: 40px;
         height: 15px;
         padding: 5px;
@@ -34,7 +34,7 @@
       }
       #geolmap {
         background-color: white;
-        border: 2px solid blue;
+        border: 1px solid red;
         bottom: 15px;
         height: 15px;
         padding: 5px;
@@ -46,8 +46,8 @@
   <body>
     <div id="map"></div>
     <div id="info-box">?</div>
-    <div id="fieldview"></div>
-    <div id="geolmap"></div>
+    <div id="fieldview">data sheets</div>
+    <div id="geolmap">geology map</div>
 
     <script>
 
@@ -55,7 +55,7 @@ var map;
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     zoom: 12,
-    center: {lat: 59.500, lng: 5.300}
+    center: {lat: 59.900, lng: 5.300}
   });
 
 
@@ -90,7 +90,7 @@ function initMap() {
    }); 
 
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('geolmap').innerHTML ='<a href="http://zaknbur.github.io/'+event.feature.getProperty('geology')+'">Geology</a>';      
+    document.getElementById('geolmap').innerHTML ='<a href="zaknbur.github.io/'+event.feature.getProperty('geology')+'">Geology</a>';      
    });
 
   // [END snippet]
