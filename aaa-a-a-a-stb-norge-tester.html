@@ -71,9 +71,7 @@ function initMap() {
   // [START snippet]
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
-    document.getElementById('info-box').textContent =
-
-        event.feature.getProperty('name')+',  '+event.feature.getProperty('commodity');
+    document.getElementById('info-box').textContent =         event.feature.getProperty('name')+',  '+event.feature.getProperty('commodity');
     }); 
 
     map.data.addListener('mouseover', function(event) {
