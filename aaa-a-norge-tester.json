@@ -1,5 +1,5 @@
 {
- 
+
   "type": "FeatureCollection",
   "features": [
     {
@@ -33,7 +33,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -  2",
-        "geol-map": "Tordal-3",
+        "geology": "bomlo-c-2.png",
         "map 50k": " Bomlo ( 1114-1 ) ",
         "UTM coords": "Zone 32 (284700/6633000)(287700/6629667)"
       },
