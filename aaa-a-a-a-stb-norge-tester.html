@@ -86,7 +86,7 @@ function initMap() {
     }); 
 
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+ target=_blank'">Site factsheet</a>'+','+event.feature.getProperty('UTM coords');      
+    document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+'target=_blank'">Site factsheet</a>'+','+event.feature.getProperty('UTM coords');      
    }); 
  
 
