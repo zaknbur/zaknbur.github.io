@@ -81,12 +81,27 @@ function initMap() {
 // map.data.loadGeoJson('blue-badge-feb-16.json');
   map.data.loadGeoJson('aaa-a-norge.json');
  // map.data.loadGeoJson('{  );
+
+//map.data.setStyle(function(feature) {
+//  var icon=null;
+//  if (feature.getProperty('icon')) {
+//    icon = feature.getProperty('icon');
+//  }
+//  return /** @type {google.maps.Data.StyleOptions} */({
+//    icon: icon
+//  });
+//});
  
   // Add some style.
   map.data.setStyle(function(feature) {
+  var icon=null;
+  if (feature.getProperty('icon')) {
+    icon = feature.getProperty('icon');
+  }
     return /** @type {google.maps.Data.StyleOptions} */({
       fillColor: feature.getProperty('fill'),
       strokeWeight: 1
+//    icon: icon
     });
   });
   
@@ -104,11 +119,11 @@ function initMap() {
     }); 
 
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+'" target="_blank">Site factsheet</a>'+','+event.feature.getProperty('UTM coords');      
+    document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+'"target="_blank">Site factsheet</a>'+','+event.feature.getProperty('UTM coords');      
    }); 
 
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'" target="_blank">Geology</a>';      
+    document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'"target="_blank">Geology</a>';      
    });
 
 //  src="https://maps.googleapis.com/maps/api/js?callback=initMap&signed_in=true&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer>
