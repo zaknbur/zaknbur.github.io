@@ -111,6 +111,7 @@ function initMap() {
     document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'" target="_blank">Geology</a>';      
    });
 
+//  src="https://maps.googleapis.com/maps/api/js?callback=initMap&signed_in=true&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer>
 
 // <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
 
@@ -118,10 +119,15 @@ function initMap() {
    //<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
 //        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
  //           document.getElementById("results").innerHTML=str;
+
+// src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&signed_in=true&callback=initMap">
 }
     </script>
+
+
+
     <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&signed_in=true&callback=initMap"></script>
+        src="https://maps.googleapis.com/maps/api/js?callback=initMap&signed_in=true&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
   </body>
 </html>
 
