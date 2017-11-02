@@ -9,6 +9,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -1",
+        "geology": "bomlo-c-1.png",
         "map 50k": "Bomlo - (1114-1)",
         "UTM coords": "Zone 32 (287700/6633000)(289700/6628000)" 
       },
@@ -32,7 +33,8 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -2",
-        "map 50k": " Bomlo ( 1114-1 ) ",
+        "geology": "bomlo-c-2.png",
+        "map 50k": "Bomlo ( 1114-1 ) ",
         "UTM coords": "Zone 32 (284700/6633000)(287700/6629667)"
       },
       "geometry": {
@@ -56,6 +58,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo 3",
+        "geology": "bomlo-c-3.png",
         "map 50k": "Bomlo  (1114-1) ",
         "UTM coords": "Zone 32 (289700/6633000)(291700/6628000)"
       },
@@ -80,7 +83,8 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -4",
-        "map 50k": " Bomlo (1114-1)  - ",
+        "geology": "bomlo-c-4.png",
+        "map 50k": "Bomlo (1114-1)  - ",
         "UTM coords": "Zone 32 (291700/6633000)(293700/6628000)"
       },
       "geometry": {
@@ -104,7 +108,8 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -5",
-        "map 50k": " Bomlo (1114-1)  - ",
+        "geology": "bomlo-c-5.png",
+        "map 50k": "Bomlo (1114-1)  - ",
         "UTM coords": "Zone 32 (284700/6635000)(289700/6633000)"
       },
       "geometry": {
@@ -128,7 +133,8 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -6",
-        "map 50k": " Bomlo (1114-1)  - ",
+        "geology": "bomlo-c-6.png",
+        "map 50k": "Bomlo (1114-1)  - ",
         "UTM coords": "Zone 32 (289700/6635500)(293400/6633000)"
       },
       "geometry": {
@@ -152,7 +158,8 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -7",
-        "map 50k": " Bomlo (1114-1)  - ",
+        "geology": "bomlo-c-7.png",
+        "map 50k": "Bomlo (1114-1)  - ",
         "UTM coords": "Zone 32 (281700/6633000)(284700/6629667)"
       },
       "geometry": {
@@ -176,6 +183,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -8",
+        "geology": "bomlo-c-8.png",
         "map 50k": "Bomlo  (1114-1)",
         "UTM coords": "Zone 32 (281700/6636333)(284700/6633000)"
       },
@@ -200,6 +208,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -9",
+        "geology": "bomlo-c-9.png",
         "map 50k": "Bomlo  (1114-1) ",
         "UTM coords": "Zone 32 (284700/6637000)(289700/6635000)"
       },
@@ -224,7 +233,8 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -10",
-        "map 50k": " Bomlo (1114-2) ",
+        "geology": "bomlo-c-10.png",
+        "map 50k": "Bomlo (1114-2) ",
         "UTM coords": "Zone 32 (284000/6619400)(286000/661400)"
      },
       "geometry": {
@@ -248,6 +258,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -11",
+        "geology": "bomlo-c-11.png",
         "map 50k": "Bomlo  (1114-2) ",
         "UTM coords": "Zone 32 (286000/6619400)(288000/6614400)"
       },
@@ -272,7 +283,8 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -12",
-        "map 50k": " Bomlo (1114-2) ",
+        "geology": "bomlo-c-12.png",
+        "map 50k": "Bomlo (1114-2) ",
         "UTM coords": "Zone 32 (288000/6624000)(290000/6621000)"
       },
       "geometry": {
@@ -296,7 +308,8 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -13",
-        "map 50k": " Bomlo (1114-2) ",
+        "geology": "bomlo-c-13.png",
+        "map 50k": "Bomlo (1114-2) ",
         "UTM coords": "Zone 32 (286000/6621000)(290000/6619400)"
       },
       "geometry": {
@@ -320,7 +333,8 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -14",
-        "map 50k": " Bomlo (1114-2) ",
+        "geology": "bomlo-c-14.png",
+        "map 50k": "Bomlo (1114-2) ",
         "UTM coords": "Zone 32 (284500/6614400)(287500/6611067)"
       },
       "geometry": {
@@ -344,6 +358,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -15",
+        "geology": "bomlo-c-15.png",
         "map 50k": "Bomlo  (1114-2) ",
         "UTM coords": "Zone 32 (289000/6626000)(290000/6624000)"
       },
@@ -368,6 +383,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-1",
+        "geology": "lillefjeld-c-1.png",
         "map 50k": " Namsskogan (1824-2)   ", 
         "UTM coords": "Zone 33 (404600/7169000)(406700/7165600)"
       },
@@ -392,6 +408,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-2",
+        "geology": "lillefjeld-c-2.png",
         "map 50k": "Namsskogan  (1824-2)   ", 
         "UTM coords": "Zone 33 (402500/7169000)(404700/7165600)"
       },
@@ -416,6 +433,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-3",
+        "geology": "lillefjeld-c-3.png",
         "map 50k": " Namsskogan (1824-2)   ", 
         "UTM coords": "Zone 33 (400600/7169000)(402500/7165600)"
       },
@@ -440,6 +458,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-4",
+        "geology": "lillefjeld-c-4.png",
         "map 50k": " Namsskogan (1824-2)   ", 
         "UTM coords": "Zone 33 (409100/7171800)(413500/7169600)"
       },
@@ -464,6 +483,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-5",
+        "geology": "lillefjeld-c-5.png",
         "map 50k": "Namsskogan  (1824-2)   ", 
         "UTM coords": "Zone 33 (409100/7174000)(413500/7171800)"
       },
@@ -488,6 +508,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-6",
+        "geology": "lillefjeld-c-6.png",
         "map 50k": "Namsskogan  (1824-2)   ", 
         "UTM coords": "Zone 33 (406350/7173500)(409100/7170000)"
       },
@@ -512,6 +533,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-7",
+        "geology": "lillefjeld-c-7.png",
         "map 50k": " Namsskogan (1824-2)   ", 
         "UTM coords": "Zone 33 (403600/7173500)(406350/7170000)"
       },
@@ -536,6 +558,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-8",
+        "geology": "lillefjeld-c-8.png",
         "map 50k": "Namsskogan  (1824-2)   ", 
         "UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
       },
@@ -560,6 +583,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-9",
+        "geology": "lillefjeld-c-9.png",
         "map 50k": "Namsskogan  (1824-2)   ", 
         "UTM coords": "Zone 33 (398500/7177500)(401000/7173500)"
       },
@@ -584,6 +608,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-10",
+        "geology": "lillefjeld-c-10.png",
         "map 50k": "Namsskogan  (1824-2)   ", 
         "UTM coords": "Zone 33 (401000/7177500)(403500/7173500)"
       },
@@ -608,6 +633,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-11",
+        "geology": "lillefjeld-c-11.png",
         "map 50k": "Namsskogan  (1824-2)   ", 
         "UTM coords": "Zone 33 (403500/7177500)(406000/7173500)"
       },
@@ -632,6 +658,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-12",
+        "geology": "lillefjeld-c-12.png",
         "map 50k": "Namsskogan  (1824-2)   ", 
         "UTM coords": "Zone 33 (406000/7177500)(408500/7173500)"
       },
@@ -658,6 +685,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 2004"   ,
         "name": "Blika-3",
+        "geology": "seljord-c.png",
         "map 50k": "Froystaul  (1514-3) ? as poss typo in (1614-3) Seljord ", 
         "UTM coords": "Zone 32 (471250/6615200)(473250/6610200)"
       },
@@ -675,7 +703,7 @@
         ]
       }
     },
-
+ 
     {
       "type": "Feature",
       "properties": {
@@ -683,6 +711,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1994"   ,
         "name": "Tordal-3",
+        "geology": "tordal-c-3.png",
         "map 50k": "Gjerstadt  (1612-3  ? as typo in (1613-3) Drangedal", 
         "UTM coords": "Zone 32 (478980/6564320)(483980/6562320)"
       },
