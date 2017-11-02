@@ -64,8 +64,7 @@
     <div id="info-box">location details</div>
     <div id="fieldview">data sheets</div>
     <div id="geolmap">concession geology map</div>
-    <div id="text"><center><b style="font-size:12px"><a href="/lilly-all-250.png">[Geology of  Bomlo]</a> - <a href="/lilly-all-250.png">[Geology of Lillefjeld]</a> - <a href="/lilly-all-250.png">[Geology of Bleka]</a> - <a href="/lilly-all-250.png">[Geology of Tordal]</a></center></div>
-
+    <div id="text"><center><b style="font-size:12px"><a href="/lilly-all-250.png" target="_blank">[Geology of  Bomlo]</a> - <a href="/lilly-all-250.png" target="_blank">[Geology of Lillefjeld]</a> - <a href="/lilly-all-250.png" target="_blank">[Geology of Bleka]</a> - <a href="/lilly-all-250.png" target="_blank">[Geology of Tordal]</a></center></div>
 
 
     <script>
@@ -109,8 +108,11 @@ function initMap() {
    }); 
 
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'">Geology</a>';      
+    document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'" target="_blank">Geology</a>';      
    });
+
+
+// <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
 
   // [END snippet]
    //<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
