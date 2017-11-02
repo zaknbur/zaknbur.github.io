@@ -58,7 +58,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo 3",
-        "geol-map": "Tordal-3",
+        "geology": "bomlo-c-1.png",
         "map 50k": "Bomlo  (1114-1) ",
         "UTM coords": "Zone 32 (289700/6633000)(291700/6628000)"
       },
@@ -183,7 +183,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -  8",
-        "geol-map": "Tordal-3",
+        "geology": "bomlo-c-1.png",
         "map 50k": "Bomlo  (1114-1)",
         "UTM coords": "Zone 32 (281700/6636333)(284700/6633000)"
       },
@@ -208,7 +208,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -  9",
-        "geol-map": "Tordal-3",
+        "geology": "bomlo-c-1.png",
         "map 50k": "Bomlo  (1114-1) ",
         "UTM coords": "Zone 32 (284700/6637000)(289700/6635000)"
       },
@@ -258,7 +258,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -  11",
-        "geol-map": "Tordal-3",
+        "geology": "bomlo-c-1.png",
         "map 50k": "Bomlo  (1114-2) ",
         "UTM coords": "Zone 32 (286000/6619400)(288000/6614400)"
       },
@@ -358,7 +358,7 @@
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
         "name": "Bomlo -  15",
-        "geol-map": "Tordal-3",
+        "geology": "bomlo-c-15.png",
         "map 50k": "Bomlo  (1114-2) ",
         "UTM coords": "Zone 32 (289000/6626000)(290000/6624000)"
       },
@@ -401,6 +401,7 @@
         "marker-color": "#FF0000",
         "marker-size": "medium",
         "commodity": "Iron - Fe Cu",
+         	"icon":"http://maps.google.com/mapfiles/dir_90.png",
         "map 50k": "Fitjar (1114-1)",
         "name": "Folderøy fyr -  1219-032",
         "reference": "4838&p_spraak=E",
@@ -763,6 +764,7 @@
         "marker-color": "#00FF00",
         "marker-size": "medium",
         "commodity": "Copper - Cu",
+         	"icon":"http://maps.google.com/mapfiles/dir_90.png",
         "map 50k": "Bømlo (1114-2)",
         "name": "Geitung 1219-037",
         "reference": "4847&p_spraak=E",
