@@ -8,7 +8,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -1",
+        "name": "Bomlo-1",
         "geology": "bomlo-c-1.png",
         "map 50k": "Bomlo - (1114-1)",
         "UTM coords": "Zone 32 (287700/6633000)(289700/6628000)" 
@@ -32,7 +32,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -2",
+        "name": "Bomlo-2",
         "geology": "bomlo-c-2.png",
         "map 50k": "Bomlo ( 1114-1 ) ",
         "UTM coords": "Zone 32 (284700/6633000)(287700/6629667)"
@@ -57,7 +57,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo 3",
+        "name": "Bomlo-3",
         "geology": "bomlo-c-3.png",
         "map 50k": "Bomlo  (1114-1) ",
         "UTM coords": "Zone 32 (289700/6633000)(291700/6628000)"
@@ -82,7 +82,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -4",
+        "name": "Bomlo-4",
         "geology": "bomlo-c-4.png",
         "map 50k": "Bomlo (1114-1)  - ",
         "UTM coords": "Zone 32 (291700/6633000)(293700/6628000)"
@@ -107,7 +107,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -5",
+        "name": "Bomlo-5",
         "geology": "bomlo-c-5.png",
         "map 50k": "Bomlo (1114-1)  - ",
         "UTM coords": "Zone 32 (284700/6635000)(289700/6633000)"
@@ -132,7 +132,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -6",
+        "name": "Bomlo-6",
         "geology": "bomlo-c-6.png",
         "map 50k": "Bomlo (1114-1)  - ",
         "UTM coords": "Zone 32 (289700/6635500)(293400/6633000)"
@@ -157,7 +157,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -7",
+        "name": "Bomlo-7",
         "geology": "bomlo-c-7.png",
         "map 50k": "Bomlo (1114-1)  - ",
         "UTM coords": "Zone 32 (281700/6633000)(284700/6629667)"
@@ -182,7 +182,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -8",
+        "name": "Bomlo-8",
         "geology": "bomlo-c-8.png",
         "map 50k": "Bomlo  (1114-1)",
         "UTM coords": "Zone 32 (281700/6636333)(284700/6633000)"
@@ -207,7 +207,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -9",
+        "name": "Bomlo-9",
         "geology": "bomlo-c-9.png",
         "map 50k": "Bomlo  (1114-1) ",
         "UTM coords": "Zone 32 (284700/6637000)(289700/6635000)"
@@ -232,7 +232,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -10",
+        "name": "Bomlo-10",
         "geology": "bomlo-c-10.png",
         "map 50k": "Bomlo (1114-2) ",
         "UTM coords": "Zone 32 (284000/6619400)(286000/661400)"
@@ -257,7 +257,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -11",
+        "name": "Bomlo-11",
         "geology": "bomlo-c-11.png",
         "map 50k": "Bomlo  (1114-2) ",
         "UTM coords": "Zone 32 (286000/6619400)(288000/6614400)"
@@ -282,7 +282,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -12",
+        "name": "Bomlo-12",
         "geology": "bomlo-c-12.png",
         "map 50k": "Bomlo (1114-2) ",
         "UTM coords": "Zone 32 (288000/6624000)(290000/6621000)"
@@ -307,7 +307,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -13",
+        "name": "Bomlo-13",
         "geology": "bomlo-c-13.png",
         "map 50k": "Bomlo (1114-2) ",
         "UTM coords": "Zone 32 (286000/6621000)(290000/6619400)"
@@ -332,7 +332,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -14",
+        "name": "Bomlo-14",
         "geology": "bomlo-c-14.png",
         "map 50k": "Bomlo (1114-2) ",
         "UTM coords": "Zone 32 (284500/6614400)(287500/6611067)"
@@ -357,7 +357,7 @@
         "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1993 "   ,
-        "name": "Bomlo -15",
+        "name": "Bomlo-15",
         "geology": "bomlo-c-15.png",
         "map 50k": "Bomlo  (1114-2) ",
         "UTM coords": "Zone 32 (289000/6626000)(290000/6624000)"
