@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>St Barbara - Concessions Norway</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+      #info-box {
+        background-color: white;
+        border: 1px solid black;
+        bottom: 70px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 20px;
+  	opacity: 0.6;
+     }
+      #fieldview {
+        background-color: white;
+        border: 1px solid blue;
+        bottom: 40px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 40px;
+  	opacity: 0.6;
+      }
+      #geolmap {
+        background-color: white;
+        border: 1px solid red;
+        bottom: 10px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 60px;
+  	opacity: 0.6;
+      }
+      #text {
+        background-color: #ffffff;
+        border: 1px solid red;
+        top: 45px;
+        height: 25px;
+        padding: 1px;
+        position: absolute;
+        left: 25%;
+  	opacity: 0.75;
+  	filter: alpha(opacity=60); /* For IE8 and earlier */
+ 
+      }
+    </style> 
+  </head>
+  <body>
+ <center><b style="font-size:20px">Norwegian - Concessions</b> </center> 
+    
+    <div id="map"></div>
+    <div id="info-box">location details</div>
+    <div id="fieldview">data sheets</div>
+    <div id="geolmap">concession geology map</div>
+    <div id="text"><center><b style="font-size:12px"><a href="/lilly-all-250.png">[Geology of  Bomlo]</a> - <a href="/lilly-all-250.png">[Geology of Lillefjeld]</a> - <a href="/lilly-all-250.png">[Geology of Bleka]</a> - <a href="/lilly-all-250.png">[Geology of Tordal]</a></center></div>
+
+
+
+    <script>
+
+var map;
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 11,
+    center: {lat: 59.750, lng: 5.250}
+  });
+
+
+  // Load GeoJSON.
+// map.data.loadGeoJson('blue-badge-feb-16.json');
+  map.data.loadGeoJson('aaa-a-norge.json');
+ // map.data.loadGeoJson('{  );
+ 
+  // Add some style.
+  map.data.setStyle(function(feature) {
+    return /** @type {google.maps.Data.StyleOptions} */({
+      fillColor: feature.getProperty('fill'),
+      strokeWeight: 1
+    });
+  });
+  
+ //[START streetview]
+  //cbll= Latitude,longitude for Street View
+//http://maps.google.com/maps?q=&layer=c&cbll=31.33519,-89.28720
+// http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid=5758&p_spraak=E
+//      "coordinates": [	-0.194	,	51.51]
+// [END streetview]
+
+  // [START snippet]
+  // Set mouseover event for each feature.
+  map.data.addListener('mouseover', function(event) {
+    document.getElementById('info-box').textContent = event.feature.getProperty('name')+',  '+event.feature.getProperty('commodity');
+    }); 
+
+    map.data.addListener('mouseover', function(event) {
+    document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+'">Site factsheet</a>'+','+event.feature.getProperty('UTM coords');      
+   }); 
+
+    map.data.addListener('mouseover', function(event) {
+    document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'">Geology</a>';      
+   });
+
+  // [END snippet]
+   //<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
+//        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
+ //           document.getElementById("results").innerHTML=str;
+}
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&signed_in=true&callback=initMap"></script>
+  </body>
+</html>
+
+
+
