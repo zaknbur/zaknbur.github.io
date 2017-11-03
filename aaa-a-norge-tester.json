@@ -779,11 +779,13 @@
         ]
       }
     },
+
     {
       "type": "Feature",
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "https://maps.google.com/mapfiles/kml/shapes/parking_lot_maps.png",
         "commodity": "Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Gilje 1219-046",
