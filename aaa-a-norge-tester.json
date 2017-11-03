@@ -765,6 +765,7 @@
         "marker-size": "medium",
         "commodity": "Copper - Cu",
          	"icon":"http://maps.google.com/mapfiles/dir_90.png",
+	"fillColor": "yellow",
         "map 50k": "Bømlo (1114-2)",
         "name": "Geitung 1219-037",
         "reference": "4847&p_spraak=E",
