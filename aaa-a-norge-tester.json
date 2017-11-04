@@ -800,7 +800,7 @@
         ]
       }
     },
-    {
+    { 
       "type": "Feature",
       "properties": {
         "marker-color": "#00FF00",
