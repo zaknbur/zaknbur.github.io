@@ -805,7 +805,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "pinta-2.png",
+		"icon" : "/pinta-2.png",
         "commodity": "Copper - Cu Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Hallaråker 1219-021",
@@ -825,6 +825,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "/red.png",
         "commodity": "Copper - Cu Zn Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Hidle 1219-048",
