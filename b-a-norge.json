@@ -756,26 +756,7 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#00FF00",
-        "marker-size": "medium",
-         	"icon":"http://maps.google.com/mapfiles/dir_90.png",
-        "commodity": "Copper - Pyrites Cu",
-        "map 50k": "Gjerstad (1612-1)",
-        "name": "Helldal - 0817.009",
-        "reference": "5588&p_spraak=E",
-        "UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.156454,
-          58.956421
-        ]
-      }
-    },
+
     {
       "type": "Feature",
       "properties": {
@@ -801,6 +782,7 @@
       "properties": {
         "marker-color": "#FF0000",
         "marker-size": "medium",
+         	"icon":"http://maps.google.com/mapfiles/dir_90.png",
         "commodity": "Iron-Titanium - Fe-Ti",
         "map 50k": "Nissedal (1613-3)",
         "name": "Homleid - 0817.002",
