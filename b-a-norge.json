@@ -762,7 +762,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
-		"icon" : "/red.png",
+		"icon" : "/white-white.png",
         "commodity": "Nickel - Ni Cu",
         "map 50k": "Nissedal (1613-3)",
         "name": "Holmefjellhaugen - 0817.001",
@@ -801,6 +801,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
+         	"icon":"white-white.png",
         "marker-size": "medium",
         "commodity": "Iron-Titanium - Fe-Ti",
         "map 50k": "Nissedal (1613-3)",
