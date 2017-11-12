@@ -841,7 +841,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "fe.svg",
+		"icon" : "cu-green.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Nissedal (1613-3)",
         "name": "Flottane - 0817.004",
@@ -861,6 +861,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
+		"icon" : "mo-blue.svg",
         "commodity": "Molybdenium - Mo",
         "map 50k": "Nissedal (1613-3)",
         "name": "Kleppe - 0817.006",
@@ -880,6 +881,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
+		"icon" : "mo-blue.svg",
         "commodity": "Molybdenium - Mo",
         "map 50k": "Nissedal (1613-3)",
         "name": "Kleppe - 0817.005",
@@ -918,6 +920,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
+		"icon" : "mo-blue.svg",
         "commodity": "Molybdenium - Mo",
         "map 50k": "Seljord (1613-4)",
         "name": "Mørkvassheiane - 0817.012",
@@ -937,6 +940,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
+		"icon" : "mo-blue.svg",
         "commodity": "Molybdenium - Mo",
         "map 50k": "Seljord (1613-4)",
         "name": "Mørkvassheiane - 0817.013",
@@ -956,6 +960,7 @@
       "properties": {
         "marker-color": "#FF0000",
         "marker-size": "medium",
+		"icon" : "fe-red.svg",
         "commodity": "Iron - Fe",
         "map 50k": "Drangedal (1613-2)",
         "name": "Vefall - 0817.010",
@@ -975,6 +980,7 @@
       "properties": {
         "marker-color": "#FF0000",
         "marker-size": "medium",
+		"icon" : "fe-red.svg",
         "commodity": "Iron - Fe",
         "map 50k": "Drangedal (1613-2)",
         "name": "Vågsland - 0817.008",
@@ -1210,6 +1216,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-green.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Fitjar (1114-1)",
         "name": "Alvsvåg 1219-020",
@@ -1229,7 +1236,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-        "commodity": "Gold - Au",
+		"icon" : "au-yellow.svg",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bjørnavika 1219-049",
         "reference": "4863&p_spraak=E",
@@ -1248,6 +1255,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-005",
@@ -1267,6 +1275,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-007",
@@ -1286,6 +1295,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-010",
@@ -1305,6 +1315,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-009",
@@ -1324,6 +1335,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-008",
@@ -1344,6 +1356,7 @@
         "marker-color": "#FFFF00",
         "marker-size": "medium",
         "commodity": "Gold - Au",
+		"icon" : "au-yellow.svg",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-003",
         "reference": "4731&p_spraak=E",
@@ -1362,6 +1375,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-004",
@@ -1381,6 +1395,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-006",
@@ -1496,6 +1511,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Furevatnet 1219-052",
@@ -1534,6 +1550,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-green.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Bømlo (1114-2)",
         "name": "Geitung 1219-037",
@@ -1629,6 +1646,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Fitjar (1114-1)",
         "name": "Hidleren 1219-001",
@@ -1762,6 +1780,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Fitjar (1114-1)",
         "name": "Meland 1219-022",
@@ -1876,6 +1895,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Oldereid 1219-043",
@@ -1952,6 +1972,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Sele 1219-036",
@@ -2028,6 +2049,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-yellow.svg",
         "commodity": "Gold - Au",
         "map 50k": "Fitjar (1114-1)",
         "name": "T-krysset -  1219-053",
@@ -2479,6 +2501,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-green.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Åmotsdal (1514-2)",
         "name": "Hyttebekk - 0828.017",
@@ -2536,6 +2559,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-green.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Hjartdal (1614-3)",
         "name": "Eisand - 0828.006",
@@ -2631,6 +2655,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
+		"icon" : "mo-blue.svg",
         "commodity": "Molybdenum - Mo",
         "map 50k": "Seljord (1613-4)",
         "name": "Koppartjern - 0828.009",
@@ -2650,6 +2675,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-green.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Seljord (1613-4)",
         "name": "Murtedalen - 0828.008",
@@ -2688,6 +2714,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-green.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Hjartdal (1614-3)",
         "name": "Prestårhus - 0828.007",
@@ -2726,6 +2753,7 @@
       "properties": {
         "marker-color": "#FF0000",
         "marker-size": "medium",
+		"icon" : "fe-red.svg",
         "commodity": "Iron - Fe",
         "map 50k": "Åmotsdal (1514-2)",
         "name": "Tjørnstaul - 0828.013",

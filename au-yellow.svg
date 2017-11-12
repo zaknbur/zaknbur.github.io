@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44">
+<circle cx="22" cy="22" r="12"
+    style="stroke: none;
+           fill:yellow"/>
+  <text x="0" y="30"
+      style="font-family: Times New Roman Bold Italic;
+             font-size: 30px;
+             stroke: black;
+	     stroke-width: 2;
+             fill: white;">
+    Au
+  </text>
+
+</svg>
