@@ -741,7 +741,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "https://maps.google.com/mapfiles/kml/shapes/parking_lot_maps.png",
+		"icon" : "py-cu.svg",
         "commodity": "Copper - Pyrites Cu",
         "map 50k": "Gjerstad (1612-1)",
         "name": "Helldal - 0817.009",
@@ -762,7 +762,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
-		"icon" : "white-white-pin.png",
+		"icon" : "ni-cu.svg",
         "commodity": "Nickel - Ni Cu",
         "map 50k": "Nissedal (1613-3)",
         "name": "Holmefjellhaugen - 0817.001",
@@ -782,7 +782,7 @@
       "properties": {
         "marker-color": "#FF0000",
         "marker-size": "medium",
-         	"icon":"http://maps.google.com/mapfiles/dir_90.png",
+		"icon" : "fe-ti.svg",
         "commodity": "Iron-Titanium - Fe-Ti",
         "map 50k": "Nissedal (1613-3)",
         "name": "Homleid - 0817.002",
@@ -801,7 +801,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FF0000",
-         	"icon":"black-black-pin.png",
+		"icon" : "fe-ti.svg",
         "marker-size": "medium",
         "commodity": "Iron-Titanium - Fe-Ti",
         "map 50k": "Nissedal (1613-3)",
@@ -822,6 +822,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
+		"icon" : "ni-cu.svg",
         "commodity": "Nickel - Ni Cu",
         "map 50k": "Nissedal (1613-3)",
         "name": "Søyldalen - 0817.011",
@@ -841,7 +842,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "cu-green.svg",
+		"icon" : "cu-blue.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Nissedal (1613-3)",
         "name": "Flottane - 0817.004",
@@ -861,7 +862,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
-		"icon" : "mo-blue.svg",
+		"icon" : "mo-green.svg",
         "commodity": "Molybdenium - Mo",
         "map 50k": "Nissedal (1613-3)",
         "name": "Kleppe - 0817.006",
@@ -881,7 +882,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
-		"icon" : "mo-blue.svg",
+		"icon" : "mo-green.svg",
         "commodity": "Molybdenium - Mo",
         "map 50k": "Nissedal (1613-3)",
         "name": "Kleppe - 0817.005",
@@ -901,6 +902,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "sn-silver.svg",
         "commodity": "Tin - Sn",
         "map 50k": "Nissedal (1613-3)",
         "name": "Kleppsvatnet - 0817.014",
@@ -920,7 +922,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
-		"icon" : "mo-blue.svg",
+		"icon" : "mo-green.svg",
         "commodity": "Molybdenium - Mo",
         "map 50k": "Seljord (1613-4)",
         "name": "Mørkvassheiane - 0817.012",
@@ -940,7 +942,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
-		"icon" : "mo-blue.svg",
+		"icon" : "mo-green.svg",
         "commodity": "Molybdenium - Mo",
         "map 50k": "Seljord (1613-4)",
         "name": "Mørkvassheiane - 0817.013",
@@ -1000,6 +1002,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Nissedal (1613-3)",
         "name": "Øverbø - 0817.003",
@@ -1019,6 +1022,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "peg.svg",
         "commodity": "Pegmatitic feldspar - Li Y F Sn Ta Be",
         "map 50k": "Nissedal (1613-3)",
         "name": "Høydalen - 0817.302",
@@ -1039,6 +1043,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "peg.svg",
         "commodity": "Pegmatitic feldspar",
         "map 50k": "Gjerstad (1612-1)",
         "name": "Brøsjø - 0817.301",
@@ -1058,6 +1063,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "peg.svg",
         "commodity": "Pegmatitic feldspar",
         "map 50k": "Gjerstad (1612-1)",
         "name": "Fosteråsen - 0817.308",
@@ -1077,6 +1083,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "peg.svg",
         "commodity": "Pegmatitic feldspar",
         "map 50k": "Nissedal (1613-3)",
         "name": "Høydalen - 0817.304",
@@ -1096,6 +1103,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "peg.svg",
         "commodity": "Pegmatitic feldspar",
         "map 50k": "Nissedal (1613-3)",
         "name": "Høydalen - 0817.305",
@@ -1115,6 +1123,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "peg.svg",
         "commodity": "Pegmatitic feldspar",
         "map 50k": "Nissedal (1613-3)",
         "name": "Høydalen - 0817.303",
@@ -1134,6 +1143,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "peg.svg",
         "commodity": "Pegmatitic feldspar",
         "map 50k": "Nissedal (1613-3)",
         "name": "Skardsfjellet - 0817.307",
@@ -1153,6 +1163,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "peg.svg",
         "commodity": "Pegmatitic feldspar",
         "map 50k": "Nissedal (1613-3)",
         "name": "Kleppe - 0817.306",
@@ -1178,6 +1189,7 @@
       "properties": {
         "marker-color": "#FF0000",
         "marker-size": "medium",
+		"icon" : "fe-cu.svg",
         "commodity": "Iron - Fe Cu",
         "map 50k": "Fitjar (1114-1)",
         "name": "Folderøy fyr -  1219-032",
@@ -1197,6 +1209,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-Au.svg",
         "commodity": "Copper - Cu (Au 29.8ppm)",
         "map 50k": "Fitjar (1114-1)",
         "name": "Alvsvåg 1219-019",
@@ -1216,7 +1229,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "cu-green.svg",
+		"icon" : "cu-blue.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Fitjar (1114-1)",
         "name": "Alvsvåg 1219-020",
@@ -1236,7 +1249,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bjørnavika 1219-049",
         "reference": "4863&p_spraak=E",
@@ -1255,7 +1268,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-005",
@@ -1275,7 +1288,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-007",
@@ -1295,7 +1308,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-010",
@@ -1315,7 +1328,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-009",
@@ -1335,7 +1348,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-008",
@@ -1356,7 +1369,7 @@
         "marker-color": "#FFFF00",
         "marker-size": "medium",
         "commodity": "Gold - Au",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-003",
         "reference": "4731&p_spraak=E",
@@ -1375,7 +1388,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-004",
@@ -1395,7 +1408,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-006",
@@ -1416,6 +1429,7 @@
       "properties": {
         "marker-color": "#FF0000",
         "marker-size": "medium",
+		"icon" : "fe-cu.svg",
         "commodity": "Iron - Fe Cu",
         "map 50k": "Bømlo (1114-2)",
         "name": "Dyngebekken 1219-047",
@@ -1435,6 +1449,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Ersland 1219-039",
@@ -1454,6 +1469,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Espevær 1219-002",
@@ -1473,6 +1489,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Finnåsvatnet 1219-031",
@@ -1492,6 +1509,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Folderøy havn 1219-040",
@@ -1511,7 +1529,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Furevatnet 1219-052",
@@ -1531,6 +1549,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Fylkesneset 1219-018",
@@ -1550,7 +1569,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "cu-green.svg",
+		"icon" : "cu-blue.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Bømlo (1114-2)",
         "name": "Geitung 1219-037",
@@ -1570,6 +1589,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Gilje 1219-046",
@@ -1589,6 +1609,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-py.svg",
         "commodity": "Copper - Cu Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Hallaråker 1219-021",
@@ -1608,6 +1629,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-zn.svg",
         "commodity": "Copper - Cu Zn Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Hidle 1219-048",
@@ -1627,6 +1649,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Hidleneset 1219-012",
@@ -1646,7 +1669,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Fitjar (1114-1)",
         "name": "Hidleren 1219-001",
@@ -1666,6 +1689,7 @@
       "properties": {
         "marker-color": "#FF0000",
         "marker-size": "medium",
+		"icon" : "fe-cu.svg",
         "commodity": "Iron - Fe Cu",
         "map 50k": "Bømlo (1114-2)",
         "name": "Hiskjo 1219-023",
@@ -1685,6 +1709,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-cu.svg",
         "commodity": "Gold - Au Cu",
         "map 50k": "Bømlo (1114-2)",
         "name": "Hovdahalla 1219-035",
@@ -1704,6 +1729,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Håvardshaugen 1219-050",
@@ -1722,6 +1748,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#00FF00",
+		"icon" : "pyr-yellow.svg",
         "marker-size": "medium",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
@@ -1742,6 +1769,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "py-cu.svg",
         "commodity": "Copper - Pyrites Cu",
         "map 50k": "Fitjar (1114-1)",
         "name": "Langøya 1219-030",
@@ -1761,6 +1789,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Lindøya 1219-015",
@@ -1780,7 +1809,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Fitjar (1114-1)",
         "name": "Meland 1219-022",
@@ -1800,6 +1829,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-as.svg",
         "commodity": "Gold - Au As Pb Zn Cu",
         "map 50k": "Bømlo (1114-2)",
         "name": "Moane 1219-033",
@@ -1819,6 +1849,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Mynteklubben 1219-044",
@@ -1838,6 +1869,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Myntevika 1219-038",
@@ -1857,6 +1889,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
+		"icon" : "au-cu.svg",
         "commodity": "Gold - Au Cu Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Nordneset 1219-017",
@@ -1876,6 +1909,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Nordraneset 1219-045",
@@ -1895,7 +1929,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Oldereid 1219-043",
@@ -1915,6 +1949,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Risdal 1219-051",
@@ -1934,6 +1969,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Sakseid 1219-014",
@@ -1953,6 +1989,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Sandgota 1219-034",
@@ -1972,7 +2009,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Sele 1219-036",
@@ -1992,6 +2029,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Fitjar (1114-1)",
         "name": "Stautland 1219-041",
@@ -2011,6 +2049,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Steinvågen 1219-016",
@@ -2030,6 +2069,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Tjongevatnet  1219-042",
@@ -2049,7 +2089,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-yellow.svg",
+		"icon" : "au-gold.svg",
         "commodity": "Gold - Au",
         "map 50k": "Fitjar (1114-1)",
         "name": "T-krysset -  1219-053",
@@ -2069,6 +2109,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Bømlo (1114-2)",
         "name": "Våge -  1219-011",
@@ -2088,6 +2129,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
+		"icon" : "qtz-gray.svg",
         "commodity": "Silica - Hydrothermal Quartz",
         "map 50k": "Fitjar (1114-1)",
         "name": "Meland -  1219-304",
@@ -2113,6 +2155,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "zn-cu.svg",
         "commodity": "Zinc - Zn Cu Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Skorovas - 1740.007",
@@ -2132,6 +2175,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Finnkrudomma - 1740.002",
@@ -2151,6 +2195,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Grøndalen - 1740.018",
@@ -2170,6 +2215,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-py.svg",
         "commodity": "Copper - Cu Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Grønndalselv - 1740.009",
@@ -2189,6 +2235,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Murfjellet - 1740.022",
@@ -2208,6 +2255,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Stor-skorovatn - 1740.006",
@@ -2227,6 +2275,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Tunnsjødalplassen - 1740.020",
@@ -2246,6 +2295,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-py.svg",
         "commodity": "Copper - Cu Pyrites",
         "map 50k": "Røyrvik (1924-4)",
         "name": "Aktejaevrie - 1740.015",
@@ -2265,6 +2315,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Namsskogan (1824-1)",
         "name": "Brekka - 1740.017",
@@ -2284,6 +2335,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Namsskogan (1824-1)",
         "name": "Josefmyrtjørna - 1740.016",
@@ -2303,6 +2355,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Røyrvik (1924-4)",
         "name": "Kjerådalen - 1740.021",
@@ -2322,6 +2375,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-py.svg",
         "commodity": "Copper - Cu Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Lassemoen - 1740.001",
@@ -2341,6 +2395,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "zn-pb.svg",
         "commodity": "Zinc - Zn Pb Cu Pyrites",
         "map 50k": "Namsskogan (1824-1)",
         "name": "Lille tromselv - 1740.013",
@@ -2360,6 +2415,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pyr-yellow.svg",
         "commodity": "Pyrites",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Storveltberget - 1740.019",
@@ -2379,6 +2435,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "py-cu.svg",
         "commodity": "Copper - Pyrites Cu",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Tunnsjøflyin - 1740.011",
@@ -2398,6 +2455,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "py-cu.svg",
         "commodity": "Copper - Pyrites Cu",
         "map 50k": "Skorovatn (1824-2)",
         "name": "Øverste nesåvatnet - 1740.005",
@@ -2417,6 +2475,7 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
+		"icon" : "talc-gray.svg",
         "commodity": "Talc - Serpentine",
         "map 50k": "Namsskogan (1824-1)",
         "name": "Finnhuslitjørnan - 1740.301",
@@ -2436,6 +2495,7 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
+		"icon" : "olive-gray.svg",
         "commodity": "Olivine - Ultramafic",
         "map 50k": "Majavatn (1925-3)",
         "name": "Jengelfjell - 1740.303",
@@ -2455,6 +2515,7 @@
       "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
+		"icon" : "olive-gray.svg",
         "commodity": "Olivine - Ultramafic",
         "map 50k": "Røyrvik (1924-4)",
         "name": "Størje - 1740.302",
@@ -2481,6 +2542,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FFFF00",
+		"icon" : "au-bi.svg",
         "commodity": "Gold - Au Bi Cu",
         "map 50k": "Hjartdal (1614-3)",
         "name": "Bleka - 0828.001",
@@ -2501,7 +2563,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "cu-green.svg",
+		"icon" : "cu-blue.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Åmotsdal (1514-2)",
         "name": "Hyttebekk - 0828.017",
@@ -2522,6 +2584,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "py-cu.svg",
         "commodity": "Copper - Pyrite Cu",
         "map 50k": "Åmotsdal (1514-2)",
         "name": "Sundsbarm - 0828.014",
@@ -2540,6 +2603,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FFFF00",
+		"icon" : "bi-au.svg",
         "commodity": "Bismuth - Bi Au",
         "map 50k": "Hjartdal (1614-3)",
         "name": "Blengsdalen - 0828.002",
@@ -2559,7 +2623,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "cu-green.svg",
+		"icon" : "cu-blue.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Hjartdal (1614-3)",
         "name": "Eisand - 0828.006",
@@ -2579,6 +2643,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "py-cu.svg",
         "commodity": "Copper - Pyrites Cu Ag",
         "map 50k": "Åmotsdal (1514-2)",
         "name": "Gullnes - 0828.005",
@@ -2598,6 +2663,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "py-cu.svg",
         "commodity": "Copper - Pyrites Cu Pb",
         "map 50k": "Seljord (1613-4)",
         "name": "Gåsdalen - 0828.010",
@@ -2617,6 +2683,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "py-cu.svg",
         "commodity": "Copper - Pyrites Cu Fe",
         "map 50k": "Åmotsdal (1514-2)",
         "name": "Habbarskvammen - 0828.015",
@@ -2636,6 +2703,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "py-fe.svg",
         "commodity": "Sulphides - Pyrites Fe",
         "map 50k": "Seljord (1613-4)",
         "name": "Haugland - 0828.011",
@@ -2655,7 +2723,7 @@
       "properties": {
         "marker-color": "#0000FF",
         "marker-size": "medium",
-		"icon" : "mo-blue.svg",
+		"icon" : "mo-green.svg",
         "commodity": "Molybdenum - Mo",
         "map 50k": "Seljord (1613-4)",
         "name": "Koppartjern - 0828.009",
@@ -2675,7 +2743,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "cu-green.svg",
+		"icon" : "cu-blue.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Seljord (1613-4)",
         "name": "Murtedalen - 0828.008",
@@ -2695,6 +2763,7 @@
       "properties": {
         "marker-color": "#FF0000",
         "marker-size": "medium",
+		"icon" : "mn-green.svg",
         "commodity": "Manganese - Fe Mn",
         "map 50k": "Hjartdal (1614-3)",
         "name": "Nutheim - 0828.016",
@@ -2714,7 +2783,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "cu-green.svg",
+		"icon" : "cu-blue.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Hjartdal (1614-3)",
         "name": "Prestårhus - 0828.007",
@@ -2734,6 +2803,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "py-yellow.svg",
         "commodity": "Sulphides - Pyrite",
         "map 50k": "Seljord (1613-4)",
         "name": "Sønsttveiten - 0828.012",
@@ -2773,6 +2843,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "pb-cu.svg",
         "commodity": "Lead - Pb Cu",
         "map 50k": "Åmotsdal (1514-2)",
         "name": "Åmotsdal - 0828.004",
@@ -2792,6 +2863,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
+		"icon" : "cu-sb.svg",
         "commodity": "Copper - Cu Sb As",
         "map 50k": "Bandak (1513-1)",
         "name": "Åmotsdal - 0828.018",

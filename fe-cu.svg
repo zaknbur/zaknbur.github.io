@@ -4,12 +4,13 @@
 	     stroke-width: 1;
            fill:red"/>
   <text x="0" y="30"
-      style="font-family: Times New Roman Bold;
-             font-size: 30px;
+      style="font-family: Times New Roman;
+             font-size: 23px;
              stroke: black;
 	     stroke-width: 1;
              fill: white;">
-    Fe
+    FeCu
   </text>
 
 </svg>
+

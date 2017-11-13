@@ -2,14 +2,14 @@
 <circle cx="25" cy="25" r="20" opacity="1" 
     style="  stroke: black;
 	     stroke-width: 1;
-           fill:red"/>
+           fill:gray"/>
   <text x="0" y="30"
-      style="font-family: Times New Roman Bold;
+      style="font-family: Times New Roman ;
              font-size: 30px;
              stroke: black;
 	     stroke-width: 1;
              fill: white;">
-    Fe
+    Qtz
   </text>
 
 </svg>
