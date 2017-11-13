@@ -1022,7 +1022,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "peg.svg",
+		"icon" : "peg-b.svg",
         "commodity": "Pegmatitic feldspar - Li Y F Sn Ta Be",
         "map 50k": "Nissedal (1613-3)",
         "name": "Høydalen - 0817.302",
@@ -1408,7 +1408,7 @@
       "properties": {
         "marker-color": "#FFFF00",
         "marker-size": "medium",
-		"icon" : "au-gold.svg",
+		"icon" : "au-gold-b.svg",
         "commodity": "Gold - Au",
         "map 50k": "Bømlo (1114-2)",
         "name": "Bømlo 1219-006",
@@ -2542,7 +2542,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#FFFF00",
-		"icon" : "au-bi.svg",
+		"icon" : "au-bi-b.svg",
         "commodity": "Gold - Au Bi Cu",
         "map 50k": "Hjartdal (1614-3)",
         "name": "Bleka - 0828.001",
@@ -2563,7 +2563,7 @@
       "properties": {
         "marker-color": "#00FF00",
         "marker-size": "medium",
-		"icon" : "cu-blue.svg",
+		"icon" : "cu-blue-b.svg",
         "commodity": "Copper - Cu",
         "map 50k": "Åmotsdal (1514-2)",
         "name": "Hyttebekk - 0828.017",
