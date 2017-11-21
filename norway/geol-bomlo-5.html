@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Ground Overlays</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      // This example uses a GroundOverlay to place an image on the map
+      // showing an antique map of Newark, NJ.
+
+      var historicalOverlay;
+
+      function initMap() {
+
+        var bomlo = {lat: 59.75, lng: 5.25};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: bomlo,
+          mapTypeId: 'terrain'
+        });
+
+
+        var imageBounds = {
+          north: 59.82338528,
+          south: 59.72357010,
+          east: 5.33259665,
+          west: 5.19567273
+        };
+
+        historicalOverlay = new google.maps.GroundOverlay(
+            'bomlo-geol.png',
+            imageBounds);
+        historicalOverlay.setMap(map);
+
+        var marker = new google.maps.Marker({
+          position: bomlo,
+          map: map,
+          title: 'bomlo (Bomlo geology)'
+
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&callback=initMap">
+    </script>
+  </body>
+</html>
