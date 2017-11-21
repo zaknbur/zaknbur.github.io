@@ -52,7 +52,10 @@
           position: bomlo,
           map: map,
           title: 'bomlo (Bomlo geology)'
-
+        });
+        marker.addListener('click', function() {
+          infowindow.open(map, marker);
+        });
       }
     </script>
     <script async defer
