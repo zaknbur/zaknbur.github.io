@@ -73,38 +73,21 @@
     <script>
 
 var map;
-var bomlo = {lat: 59.75, lng: 5.25};
+
+var bomlo = {lat: 59.7750, lng: 5.2555};
 
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 11,
-    center: bomlo
-  });
-
-
- // addEventListener(document, "touchstart", function(e) {
- //   console.log(e.defaultPrevented);  // will be false
- //   e.preventDefault();   // does nothing since the listener is passive
- //   console.log(e.defaultPrevented);  // still false
-//  }, Modernizr.passiveeventlisteners ? {passive: true} : false);
-
+          zoom: 12,
+          center: bomlo,
+          mapTypeId: 'terrain',
+        });
 
   // Load GeoJSON.
-// map.data.loadGeoJson('blue-badge-feb-16.json');
   map.data.loadGeoJson('d-a-norge.json');
- // map.data.loadGeoJson('{  );
 
-//map.data.setStyle(function(feature) {
-//  var icon=null;
-//  if (feature.getProperty('icon')) {
-//    icon = feature.getProperty('icon');
-//  }
-//  return /** @type {google.maps.Data.StyleOptions} */({
-//    icon: icon
-//  });
-//});
   
-  // Add some style.
+  // Add some style to icons.
   map.data.setStyle(function(feature) {
   var icon=null;
   if (feature.getProperty('icon')) {
@@ -124,7 +107,6 @@ function initMap() {
 //      "coordinates": [	-0.194	,	51.51]
 // [END streetview]
 
-  // [START snippet]
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info-box').textContent = event.feature.getProperty('name')+',  '+event.feature.getProperty('commodity');
@@ -141,20 +123,11 @@ function initMap() {
 
 // markers maybe
 
-      // This example uses a GroundOverlay to place an image on the map
-      // showing an geology map of Bomlo in Norway.
+      // GroundOverlay showing a geology map of Bomlo in Norway.
 
       var historicalOverlay;
 
-      function initMap() {
-
-        var bomlo = {lat: 59.75, lng: 5.25};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 12,
-          center: bomlo,
-          mapTypeId: 'terrain'
-        });
-
+      var overlayOpts = {opacity:0.85};
 
         var imageBounds = {
           north: 59.82338528,
@@ -165,7 +138,7 @@ function initMap() {
 
         historicalOverlay = new google.maps.GroundOverlay(
             'bomlo-geol.png',
-            imageBounds);
+            imageBounds, overlayOpts);
         historicalOverlay.setMap(map);
 
         var marker = new google.maps.Marker({
@@ -181,18 +154,6 @@ function initMap() {
 // markers maybe
 
 
-
-//  src="https://maps.googleapis.com/maps/api/js?callback=initMap&signed_in=true&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer>
-
-// <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
-
-  // [END snippet]
-   //<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
-//        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
- //           document.getElementById("results").innerHTML=str;
-
-// src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&signed_in=true&callback=initMap">
-}
     </script>
 
 
