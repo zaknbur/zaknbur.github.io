@@ -379,7 +379,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "yellow",
+        "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-1",
@@ -404,7 +404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "yellow",
+        "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-2",
@@ -429,7 +429,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "yellow",
+        "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-3",
@@ -529,7 +529,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "yellow",
+        "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-7",
@@ -554,7 +554,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "yellow",
+        "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-8",
@@ -579,7 +579,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "yellow",
+        "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-9",
@@ -604,7 +604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "yellow",
+        "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-10",
@@ -629,7 +629,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "yellow",
+        "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-11",
@@ -654,7 +654,7 @@
     {
       "type": "Feature",
       "properties": {
-        "fill": "yellow",
+        "fill": "red",
         "fill-opacity": 0.25,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-12",
