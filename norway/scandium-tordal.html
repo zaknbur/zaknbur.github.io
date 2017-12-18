@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Ground Overlays</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      // This example uses a GroundOverlay to place an image on the map
+      // showing an geology map of Bomlo in Norway.
+
+      var historicalOverlay;
+
+      var overlayOpts = {opacity:0.85};
+
+      function initMap() {
+
+        var tordal = {lat: 59.7750, lng: 5.2555};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: tordal,
+          mapTypeId: 'terrain',
+        });
+
+
+        var imageBounds = {
+          north: 59.49748665,
+          south: 59.00520792,
+          east: 9.07172935,
+          west: 8.26760484
+        };
+        historicalOverlay = new google.maps.GroundOverlay(
+            'seljird-pegs-2.png',
+            imageBounds, overlayOpts);
+        historicalOverlay.setMap(map);
+
+
+        var marker = new google.maps.Marker({
+          position: tordal,
+          map: map,
+          title: 'Scandium (Tordal geology)'
+        });
+        marker.addListener('click', function() {
+          infowindow.open(map, marker);
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&callback=initMap">
+    </script>
+  </body>
+</html>
