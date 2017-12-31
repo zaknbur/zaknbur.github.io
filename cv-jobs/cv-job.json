@@ -1,0 +1,1003 @@
+{
+
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "cu-a.svg",  
+                   "country":"Zambia",
+                 "location":"Chingola",
+                "employer" : " NCCM ",
+                "work":"Mine Geologist - Open Pit/Underground",   
+                "commodity":"Copper"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	27.8546	,-12.5420]
+      }
+  },
+ 
+  {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "cu-a.svg",  
+                   "country":"Zambia",
+                 "location":"Mimbula-Fitula",
+                "employer" : " NCCM ",
+                "work":"Exploration",   
+                "commodity":"Copper, Cobalt"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	27.8656, -12.6456]   , 
+      }
+  }, 
+
+  {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "dia-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Mwadui",
+                "employer" : " Geosurvey ",
+                "work":"Exploration",   
+                "commodity":"Diamonds - Kimberlites"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [33.6035,3.5218]
+      }
+  }, 
+  {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "peg-a.svg",  
+                   "country":"Tanzania",
+                 "location":"Uluguru Mountains",
+                "employer" : " Geosurvey ",
+                "work":"Exploration",   
+                "commodity":"Uranium - pegmatites"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [6.8278	,37.6591] 
+      }
+  }, 
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Nzega",
+                "employer" : " Geosurvey ",
+                "work":"Exploration",   
+                "commodity":"Gold - BIF"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	32.8987	,-4.3921] 
+      }
+  }, 
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "cu-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Lufusi",
+                "employer" : " Geosurvey ",
+                "work":"Exploration",   
+                "commodity":"Copper - Ultabasics"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [37.9017,	-6.1729]
+
+      }
+  }, 
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Geita",
+                "employer" : " Geosurvey ",
+                "work":"Exploration",   
+                "commodity":"Gold - BIF"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	32.2314	,2.8850]
+      }
+  }, 
+ 
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "bau-a.svg",  
+                   "country":"Australia",
+                 "location":"Weipa",
+                "employer" : " Riofinex ",
+                "work":"Site visit",   
+                "commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	141.9649, -12.6351] 
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "bau-a.svg",  
+                   "country":"Australia",
+                 "location":"Gove",
+                "employer" : " Riofinex ",
+                "work":"Site visit",   
+                "commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	136.8142, -12.2514] 
+
+
+      }
+  },
+
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "bau-a.svg",  
+                   "country":"Australia",
+                 "location":"Pinjara",
+                "employer" : " Riofinex ",
+                "work":"Site visit",   
+                "commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	116.1184, -32.6156] 
+
+
+      }
+  },
+
+
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "bau-a.svg",  
+                   "country":"Saudi Arabia",
+                 "location":"Az Zabira",
+                "employer" : " Riofinex ",
+                "work":"Exploration",   
+                "commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	45.4737, 27.4831]
+
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "cu-a.svg",  
+                   "country":"Saudi Arabia",
+                 "location":"Tayma",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Base Metals"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	42.4562, 29.1318]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "coal-a.svg",  
+                   "country":"Saudi Arabia",
+                 "location":"Layla",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Coal"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	24.4501, 24.4500] 
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "pot-a.svg",  
+                   "country":"Germany",
+                 "location":"West Germany",
+                "employer" : " Layla ",
+                "work":"JV Project Assessment",   
+                "commodity":"Potash, Salt"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [9.4797	, 51.3127]  
+      }
+  },
+
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "pot-a.svg",  
+                   "country":"Canada",
+                 "location":"Saskatchewan",
+                "employer" : " Layla ",
+                "work":"JV Project Assessment",   
+                "commodity":"Potash"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-105.0799, 51.8365] 
+
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "oil-a.svg",  
+                   "country":"Greece",
+                 "location":"Prinos field off-shore oil",
+                "employer" : " Layla ",
+                "work":"JV Project Assessment",   
+                "commodity":"Oil"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	24.7351, 40.9249]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "gas-a.svg",  
+                   "country":"Qatar",
+                 "location":"North field off-shore gas",
+                "employer" : " Layla ",
+                "work":"JV Project Assessment",   
+                "commodity":"Gas"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	52.4365, 26.0439] 
+
+      }
+  },
+ {
+
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "cu-a.svg",  
+                   "country":"USA",
+                 "location":"Arizona",
+                "employer" : " Layla ",
+                "work":"Project Evaluation",   
+                "commodity":"Copper"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-110.9999, 33.2871] 
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "coa-a.svg",  
+                   "country":"China",
+                 "location":"Antaibao",
+                "employer" : " Layla ",
+                "work":"Project Evaluation",   
+                "commodity":"Coal"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [112.4901, 39.3515]  
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "vms-a.svg",  
+                   "country":"Canada",
+                 "location":"Mobrun",
+                "employer" : " Layla ",
+                "work":"Project Evaluation",   
+                "commodity":"Copper / Zinc - VMS"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-78.9094, 48.3791]  
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "cu-a.svg",  
+                   "country":"Chile",
+                 "location":"El Indio",
+                "employer" : " Layla ",
+                "work":"Project Evaluation",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [-69.8003,-29.7521]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",  
+                   "country":"Canada",
+                 "location":"Colomac",
+                "employer" : " Layla ",
+                "work":"Project Evaluation",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [64.3850,-115.1247]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "fe-a.svg",  
+                   "country":"USA",
+                 "location":"Minnesota",
+                "employer" : " Layla ",
+                "work":"Project Evaluation",   
+                "commodity":"Iron Ore"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-87.6463, 46.4916]  
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "pot-a.svg",  
+                   "country":"Thailand",
+                 "location":"Udon Thani",
+                "employer" : " Layla ",
+                "work":"Project Evaluation",   
+                "commodity":"Potash"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	103.0579, 17.4133] 
+      }
+  },
+
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "ww2-a.svg",  
+                   "country":"Former East Germany",
+                 "location":"Ergethan",
+                "employer" : " Layla ",
+                "work":"Contaminated Land assessment",   
+                "commodity":"WW2 Mustard Gas factory"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	11.5891, 51.9329] 
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "mar-a.svg",  
+                   "country":"Hungary",
+                 "location":"Tardos",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Marble / Travertine"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [18.4515,47.6621] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "mar-a.svg",  
+                   "country":"Hungary",
+                 "location":"Sutto",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Marble"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [18.4476,47.7572]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "mar-a.svg",  
+                   "country":"Czechoslovakia",
+                 "location":"Slovakia",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Dolomite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	18.0764	,48.3061] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",  
+                   "country":"USA",
+                 "location":"Alaska",
+                "employer" : " Layla ",
+                "work":"Project Assessment",   
+                "commodity":"Gold, Antimony"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-150.2358, 67.4933]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",  
+                   "country":"Zimbabwe",
+                 "location":"Bulawayo",
+                "employer" : " Layla ",
+                "work":"Project Assessment",   
+                "commodity":"Gold in BIF"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	29.1640, -20.4490] 
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "dia-a.svg",  
+                   "country":"Brazil",
+                 "location":"Minas Gerais",
+                "employer" : " Layla ",
+                "work":"Project Assessment",   
+                "commodity":"Diamonds"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-45.4514, -18.5779]  
+
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "man-a.svg",  
+                   "country":"Burkina Faso",
+                 "location":"Kiere",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Manganese"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-2.5027, 11.5515]
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",  
+                   "country":"Burkina Faso",
+                 "location":"Kiere",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-2.5460, 11.5782]
+
+      }
+  },
+  {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "agg-a.svg",  
+                   "country":"Former East Germany",
+                 "location":"Sachsen Anhalt",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Aggregates"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	12.91861, 51.8246]  
+      }
+  },
+
+  {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "agg-a.svg",  
+                   "country":"Former West Germany",
+                 "location":"Hessen",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"PGM"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	10.8955, 52.1635]  
+      }
+  },
+
+
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",
+                   "country":"Ghana",
+                 "location":"Bonte",
+                "employer" : " Layla ",
+                "work":"Project Assessment",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-1.9080, 6.3771]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",  
+                   "country":"Mali",
+                 "location":"Ansongo",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	0.7103, 15.4469]  
+      }
+  },
+
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "man-a.svg",  
+                   "country":"Mali",
+                 "location":"Ansongo",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Manganese"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	0.7451, 15.5158] 
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "man-a.svg",  
+                   "country":"Morocco",
+                 "location":"Tasdremt",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Manganese"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-8.1690, 30.6646]  
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "ree-a.svg",  
+                   "country":"Norway",
+                 "location":"Telemark",
+                "employer" : " Layla ",
+                "work":"Project Evaluation",   
+                "commodity":"Scandium, Rare Earths"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	0.6318	,	59.2174]
+      }
+
+
+   },
+
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",  
+                   "country":"Norway",
+                 "location":"Telemark",
+                "employer" : " Layla ",
+                "work":"Project Evaluation",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	8.6528, 59.6470]    
+      }
+  },
+
+
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "col-a.svg",  
+                   "country":"Somaliland",
+                 "location":"Hargesa",
+                "employer" : " Layla ",
+                "work":"Project Assessment",   
+                "commodity":"Coltan"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	43.7278, 10.6629]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "bau-a.svg",  
+                   "country":"Sierra Leone",
+                 "location":"Central",
+                "employer" : " Layla ",
+                "work":"Project Assessment",   
+                "commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-10.9990, 7.5570]   
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",  
+                   "country":"Sudan",
+                 "location":"East",
+                "employer" : " Layla ",
+                "work":"Project Assessment",   
+                "commodity":"Gold - VMS"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	37.6617, 18.8598]   
+      }
+  }, {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "fe-a.svg",  
+                   "country":"Mauretania",
+                 "location":"North",
+                "employer" : " Layla ",
+                "work":"Project Assessment",   
+                "commodity":"Iron Ore"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-12.1483, 19.7233]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Kremnica",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [18.9176,48.7030]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "ur-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Jahodná",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Uranium"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	21.1997, 48.7677]  
+      }
+  }, 
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "ni-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Dobsina",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Nickel"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	20.3775, 48.7959] 
+      }
+  },
+
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "cu-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Eastern",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Copper"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	22.0199, 48.5420]  
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "sb-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Smolnik",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Antimony"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	20.9939, 48.6700]  
+      }
+  },
+
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "ag-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Strieborna",
+                "employer" : " Layla ",
+                "work":"Competent Persons Report",   
+                "commodity":"Silver"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	20.5324, 48.6561] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Lake Victoria greenstone belt",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	34.1532, 3.3695] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "au-a.svg",  
+                   "country":"Turkey",
+                 "location":"Tethys belt",
+                "employer" : " Layla ",
+                "work":"Desktop study",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	35.1777, 39.0876] 
+
+      }
+  },
+ 
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "pb-a.svg",  
+                   "country":"Tunisia",
+                 "location":"Dougga",
+                "employer" : " Layla ",
+                "work":"Exploration",   
+                "commodity":"Lead / Zinc - MVT"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [9.2193,-36.4229] 
+      }
+  },
+  
+ {
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "pb-a.svg",  
+                   "country":"Mali",
+                 "location":"Gao",
+                "employer" : " Layla ",
+                "work":"Desktop study",   
+                "commodity":"Oil / Gas"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	0.0280, 16.2640] 
+      }
+  }, 
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "pb-a.svg",  
+                   "country":"Indonesia",
+                 "location":"Kalimantan",
+                "employer" : " Layla ",
+                "work":"Desktop study",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	112.6476, 0.1479] 
+
+      }
+  },
+ ]
+}
+
+
+
