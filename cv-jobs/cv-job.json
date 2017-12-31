@@ -34,7 +34,7 @@
       },
      "geometry": {
        "type":"Point",
-       "coordinates": [	27.8656, -12.6456]   , 
+       "coordinates": [	27.8656, -12.6456]   
       }
   }, 
 
@@ -978,6 +978,23 @@
        "coordinates": [	0.0280, 16.2640] 
       }
   }, 
+{
+     "type":"Feature",
+      "properties": {
+        "marker-color": "#FFFFFF",
+        "marker-size": "medium",
+		"icon" : "pb-a.svg",  
+                   "country":"Indonesia",
+                 "location":"Kalimantan",
+                "employer" : " Layla ",
+                "work":"Desktop study",   
+                "commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	112.6476, 0.1479]
+      }
+    },
 
     {
       "type": "Feature",
