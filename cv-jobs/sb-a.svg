@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50">
+<circle cx="25" cy="25" r="20" opacity="1" 
+    style="  stroke: black;
+	     stroke-width: 1;
+           fill:silver"/>
+  <text x="0" y="30"
+      style="font-family: Times New Roman Bold;
+             font-size: 30px;
+             stroke: black;
+	     stroke-width: 1;
+             fill: white;">
+    Sb
+  </text>
+
+</svg>
