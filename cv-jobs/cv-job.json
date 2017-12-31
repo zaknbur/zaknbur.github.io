@@ -992,11 +992,17 @@
       },
      "geometry": {
        "type":"Point",
-       "coordinates": [	112.6476, 0.1479] 
-
+       "coordinates": [	112.6476, 0.1479        ]
       }
-  }
- ]
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Concession Area": "Central"
+      }
+    }  
+  ]
 }
 
 
