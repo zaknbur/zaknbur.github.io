@@ -25,12 +25,12 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "cu-a.svg",  
+		"icon" : "co-a.svg",  
                    "country":"Zambia",
                  "location":"Mimbula-Fitula",
                 "employer" : " NCCM ",
                 "work":"Exploration",   
-                "commodity":"Copper, Cobalt"
+                "commodity":"Cobalt"
       },
      "geometry": {
        "type":"Point",
@@ -368,7 +368,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "cu-a.svg",  
+		"icon" : "au-a.svg",  
                    "country":"Chile",
                  "location":"El Indio",
                 "employer" : " Layla ",
@@ -490,7 +490,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "mar-a.svg",  
+		"icon" : "dol-a.svg",  
                    "country":"Czechoslovakia",
                  "location":"Slovakia",
                 "employer" : " Layla ",
@@ -560,7 +560,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "man-a.svg",  
+		"icon" : "mn-a.svg",  
                    "country":"Burkina Faso",
                  "location":"Kiere",
                 "employer" : " Layla ",
@@ -668,7 +668,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "man-a.svg",  
+		"icon" : "mn-a.svg",  
                    "country":"Mali",
                  "location":"Ansongo",
                 "employer" : " Layla ",
@@ -685,7 +685,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "man-a.svg",  
+		"icon" : "mn-a.svg",  
                    "country":"Morocco",
                  "location":"Tasdremt",
                 "employer" : " Layla ",
@@ -948,7 +948,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "pb-a.svg",  
+		"icon" : "pb-zn-a.svg",  
                    "country":"Tunisia",
                  "location":"Dougga",
                 "employer" : " Layla ",
@@ -966,7 +966,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "pb-a.svg",  
+		"icon" : "oil-a.svg",  
                    "country":"Mali",
                  "location":"Gao",
                 "employer" : " Layla ",
@@ -983,7 +983,7 @@
       "properties": {
         "marker-color": "#FFFFFF",
         "marker-size": "medium",
-		"icon" : "pb-a.svg",  
+		"icon" : "au-a.svg",  
                    "country":"Indonesia",
                  "location":"Kalimantan",
                 "employer" : " Layla ",
