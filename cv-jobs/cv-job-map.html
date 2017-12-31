@@ -84,7 +84,7 @@ function initMap() {
     }); 
 
   map.data.addListener('mouseover', function(event) {
-    document.getElementById('fieldview').textContent = event.feature.getProperty('work')+' at    '+event.feature.getProperty('location') +' for    '+event.feature.getProperty('employer');
+    document.getElementById('fieldview').textContent = event.feature.getProperty('work')+'    '+event.feature.getProperty('location') +' for    '+event.feature.getProperty('employer');
     }); 
 
 }
