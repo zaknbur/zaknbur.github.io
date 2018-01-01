@@ -5,8 +5,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "cu-a.svg",  
                    "country":"Zambia",
                  "location":"Chingola",
@@ -23,8 +21,6 @@
   {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "co-a.svg",  
                    "country":"Zambia",
                  "location":"Mimbula-Fitula",
@@ -41,8 +37,6 @@
   {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "dia-a.svg",         
                    "country":"Tanzania",
                  "location":"Mwadui",
@@ -59,8 +53,6 @@
   {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "peg-a.svg",  
                    "country":"Tanzania",
                  "location":"Uluguru Mountains",
@@ -77,8 +69,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",         
                    "country":"Tanzania",
                  "location":"Nzega",
@@ -94,8 +84,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "cu-a.svg",         
                    "country":"Tanzania",
                  "location":"Lufusi",
@@ -112,8 +100,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",         
                    "country":"Tanzania",
                  "location":"Geita",
@@ -130,8 +116,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "bau-a.svg",  
                    "country":"Australia",
                  "location":"Weipa",
@@ -148,8 +132,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "bau-a.svg",  
                    "country":"Australia",
                  "location":"Gove",
@@ -168,8 +150,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "bau-a.svg",  
                    "country":"Australia",
                  "location":"Pinjara",
@@ -189,8 +169,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "bau-a.svg",  
                    "country":"Saudi Arabia",
                  "location":"Az Zabira",
@@ -207,8 +185,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "cu-a.svg",  
                    "country":"Saudi Arabia",
                  "location":"Tayma",
@@ -224,8 +200,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "coal-a.svg",  
                    "country":"Saudi Arabia",
                  "location":"Layla",
@@ -242,8 +216,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "pot-a.svg",  
                    "country":"Germany",
                  "location":"West Germany",
@@ -260,8 +232,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "pot-a.svg",  
                    "country":"Canada",
                  "location":"Saskatchewan",
@@ -278,8 +248,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "oil-a.svg",  
                    "country":"Greece",
                  "location":"Prinos field off-shore oil",
@@ -295,8 +263,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "gas-a.svg",  
                    "country":"Qatar",
                  "location":"North field off-shore gas",
@@ -314,8 +280,6 @@
 
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "cu-a.svg",  
                    "country":"USA",
                  "location":"Arizona",
@@ -332,8 +296,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "coa-a.svg",  
                    "country":"China",
                  "location":"Antaibao",
@@ -350,8 +312,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "vms-a.svg",  
                    "country":"Canada",
                  "location":"Mobrun",
@@ -368,8 +328,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Chile",
                  "location":"El Indio",
@@ -385,8 +343,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Canada",
                  "location":"Colomac",
@@ -402,8 +358,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "fe-a.svg",  
                    "country":"USA",
                  "location":"Minnesota",
@@ -420,8 +374,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "pot-a.svg",  
                    "country":"Thailand",
                  "location":"Udon Thani",
@@ -438,8 +390,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "ww2-a.svg",  
                    "country":"Former East Germany",
                  "location":"Ergethan",
@@ -456,8 +406,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "mar-a.svg",  
                    "country":"Hungary",
                  "location":"Tardos",
@@ -473,8 +421,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "mar-a.svg",  
                    "country":"Hungary",
                  "location":"Sutto",
@@ -490,8 +436,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "dol-a.svg",  
                    "country":"Czechoslovakia",
                  "location":"Slovakia",
@@ -507,8 +451,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"USA",
                  "location":"Alaska",
@@ -524,8 +466,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Zimbabwe",
                  "location":"Bulawayo",
@@ -542,8 +482,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "dia-a.svg",  
                    "country":"Brazil",
                  "location":"Minas Gerais",
@@ -560,8 +498,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "mn-a.svg",  
                    "country":"Burkina Faso",
                  "location":"Kiere",
@@ -578,8 +514,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Burkina Faso",
                  "location":"Kiere",
@@ -596,8 +530,6 @@
   {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "agg-a.svg",  
                    "country":"Former East Germany",
                  "location":"Sachsen Anhalt",
@@ -614,8 +546,6 @@
   {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "pgm-a.svg",  
                    "country":"Former West Germany",
                  "location":"Hessen",
@@ -633,8 +563,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",
                    "country":"Ghana",
                  "location":"Bonte",
@@ -650,8 +578,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Mali",
                  "location":"Ansongo",
@@ -668,8 +594,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "mn-a.svg",  
                    "country":"Mali",
                  "location":"Ansongo",
@@ -685,8 +609,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "mn-a.svg",  
                    "country":"Morocco",
                  "location":"Tasdremt",
@@ -702,8 +624,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "ree-a.svg",  
                    "country":"Norway",
                  "location":"Telemark",
@@ -720,8 +640,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Norway",
                  "location":"Telemark",
@@ -739,8 +657,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "col-a.svg",  
                    "country":"Somaliland",
                  "location":"Hargesa",
@@ -756,8 +672,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "bau-a.svg",  
                    "country":"Sierra Leone",
                  "location":"Central",
@@ -773,8 +687,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Sudan",
                  "location":"East",
@@ -789,8 +701,6 @@
   }, {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "fe-a.svg",  
                    "country":"Mauretania",
                  "location":"North",
@@ -806,8 +716,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Slovakia",
                  "location":"Kremnica",
@@ -823,8 +731,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "ur-a.svg",  
                    "country":"Slovakia",
                  "location":"Jahodná",
@@ -840,8 +746,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "ni-a.svg",  
                    "country":"Slovakia",
                  "location":"Dobsina",
@@ -858,8 +762,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "cu-a.svg",  
                    "country":"Slovakia",
                  "location":"Eastern",
@@ -875,8 +777,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "sb-a.svg",  
                    "country":"Slovakia",
                  "location":"Smolnik",
@@ -893,8 +793,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "ag-a.svg",  
                    "country":"Slovakia",
                  "location":"Strieborna",
@@ -910,8 +808,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",         
                    "country":"Tanzania",
                  "location":"Lake Victoria greenstone belt",
@@ -927,8 +823,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Turkey",
                  "location":"Tethys belt",
@@ -946,8 +840,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "pb-zn-a.svg",  
                    "country":"Tunisia",
                  "location":"Dougga",
@@ -965,8 +857,6 @@
  {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "oil-a.svg",  
                    "country":"Mali",
                  "location":"Gao graben",
@@ -982,8 +872,6 @@
 {
      "type":"Feature",
       "properties": {
-        "marker-color": "#FFFFFF",
-        "marker-size": "medium",
 		"icon" : "au-a.svg",  
                    "country":"Indonesia",
                  "location":"Kalimantan",
