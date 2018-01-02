@@ -10,13 +10,31 @@
                  "location":"Chingola",
                 "employer" : " Nchanga Consolidated Copper Mines ",
                 "work":"Mine Geologist - Open Pit/Underground at",   
-                "commodity":"Copper"
+                "commodity":"Copper",
+       		"reference": "5588&p_spraak=E"
       },
-     "geometry": {
-       "type":"Point",
-       "coordinates": [	27.8546	,-12.5420]
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 		[27.9059772	-12.5327922],
+		[27.844694	-12.5378193],
+		[27.844694	-12.5378193],
+		[27.8778247	-12.5255865],
+		[27.8778247	-12.5255865],
+		[27.8778247	-12.5255865],
+		[27.8778247	-12.5255865],
+		[27.8778247	-12.5255865],
+		[27.8757257	-12.5319695],
+		[27.8373126	-12.5487947],
+		[27.8373126	-12.5487947],
+		[27.8373126	-12.5487947],
+		[27.8266306	-12.5576905],
+		[27.9059772	-12.5327922]
+          ]
+        ]
       }
-  },
+    }, 
   
   {
      "type":"Feature",
@@ -30,7 +48,7 @@
       },
      "geometry": {
        "type":"Point",
-       "coordinates": [	27.8656, -12.6456]   
+       "coordinates": 		[27.8656, -12.6456]   
       }
   }, 
 
