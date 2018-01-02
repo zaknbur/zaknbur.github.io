@@ -7,10 +7,13 @@
       "properties": {
         	"fill": "red",
         	"fill-opacity": 0.25,
-		"icon" : "cu-a.svg",  
                    "country":"Zambia",
+                 "location":"Chingola",
+                "employer" : " Nchanga Consolidated Copper Mines ",
+                "work":"Mine Geologist - Open-pit at",   
+                "commodity":"Copper", 
                  "location":"Chingola Open-pit",
-       		"reference": "5588&p_spraak=E"
+       		"geology": "5588&p_spraak=E"
       },
       "geometry": {
         "type": "Polygon",
@@ -47,7 +50,7 @@
                    "country":"Zambia",
                  "location":"Chingola",
                 "employer" : " Nchanga Consolidated Copper Mines ",
-                "work":"Mine Geologist - Open Pit/Underground at",   
+                "work":"Mine Geologist - Underground at",   
                 "commodity":"Copper" 
       },
      "geometry": {
