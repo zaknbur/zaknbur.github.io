@@ -5,6 +5,8 @@
     {
       "type": "Feature",
       "properties": {
+        	"fill": "red",
+        	"fill-opacity": 0.25,
 		"icon" : "cu-a.svg",  
                    "country":"Zambia",
                  "location":"Chingola Open-pit",
