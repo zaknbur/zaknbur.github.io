@@ -22,6 +22,7 @@
         position: absolute;
         left: 20px;
   	opacity: 0.6;
+	font-size:10px;
      }
       #fieldview {
         background-color: white;
@@ -32,9 +33,19 @@
         position: absolute;
         left: 40px;
   	opacity: 0.6;
+	font-size:10px;
       }
+      #geolmap {
+        background-color: white;
+        border: 1px solid red;
+        bottom: 10px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 60px;
+  	opacity: 0.6;
 
-
+	}
     </style> 
   </head>
   <body>
@@ -43,6 +54,8 @@
     <div id="map"></div>
     <div id="info">commodity and location</div>
     <div id="fieldview">worked for</div>
+
+    <div id="text"><center><style="font-size:12px">
 
 
     <script>
@@ -59,9 +72,6 @@ function initMap() {
 
   // Load GeoJSON.
   map.data.loadGeoJson('cv-job.json');
-
-
-
   
   // Add some style.
   map.data.setStyle(function(feature) {
@@ -76,9 +86,6 @@ function initMap() {
     });
   });
   
-
-
-  // [START snippet]
   // Set mouseover event for each feature.
   map.data.addListener('mouseover', function(event) {
     document.getElementById('info').textContent = event.feature.getProperty('commodity')+' in   '+event.feature.getProperty('country');
@@ -88,9 +95,12 @@ function initMap() {
     document.getElementById('fieldview').textContent = event.feature.getProperty('work')+'    '+event.feature.getProperty('location') +' for    '+event.feature.getProperty('employer');
     }); 
 
+    map.data.addListener('mouseover', function(event) {
+    document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'"target="_blank">Geology</a>';      
+   });
+
 }
     </script>
-
 
 
     <script async defer
