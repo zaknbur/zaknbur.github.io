@@ -98,7 +98,7 @@ function initMap() {
     }); 
 
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'"target="_blank">Web link</a>';      
+    document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('geology')+'"target="_blank">Web link</a>';      
    });
 
 
