@@ -55,7 +55,7 @@
     <div id="map"></div>
     <div id="info">commodity and location</div>
     <div id="fieldview">worked for</div>
-    <div id="geolmap">web link</div>
+    <div id="geolmap">worked for</div>
 
     <div id="text"><center><style="font-size:12px">
 
@@ -98,8 +98,7 @@ function initMap() {
     }); 
 
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('geology')+'"target="_blank">Web link</a>';      
-   });
+    document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Web link</a>'; 
 
 
 
@@ -109,10 +108,10 @@ function initMap() {
  
 
         var imageBounds = {
-          north: 59.49748665,
-          south: 59.00520792,
-          east: 9.07172935,
-          west: 8.26760484
+          north: 59.4974866,
+          south: 59.0052079,
+          east: 9.0717293,
+          west: 8.2676048
         };
         historicalOverlay = new google.maps.GroundOverlay(
             'seljord-pegs-3.png',
