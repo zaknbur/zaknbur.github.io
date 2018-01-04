@@ -436,7 +436,8 @@
                  "location":"Ergethan",
                 "employer" : " Trischler und Partner ",
                 "work":"Contaminated Land assessment of ",   
-                "commodity":"WW2 Mustard Gas factory"
+                "commodity":"WW2 Mustard Gas factory",
+	        "geology":"www.contaminatedland.co.uk/case-stu/erg-finy.htm"
       },
      "geometry": {
        "type":"Point",
