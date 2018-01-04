@@ -100,7 +100,10 @@ function initMap() {
     map.data.addListener('mouseover', function(event) {
     document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Web link</a>'; 
 
+   });
 
+}
+   
 
       var historicalOverlay;
 
