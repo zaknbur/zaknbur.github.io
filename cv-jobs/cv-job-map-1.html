@@ -22,7 +22,7 @@
         position: absolute;
         left: 20px;
   	opacity: 0.6;
-//	font-size:12px;
+	font-size:12px;
      }
       #fieldview {
         background-color: white;
@@ -33,7 +33,7 @@
         position: absolute;
         left: 40px;
   	opacity: 0.6;
-//	font-size:11px;
+	font-size:11px;
       }
       #geolmap {
         background-color: white;
@@ -44,9 +44,9 @@
         position: absolute;
         left: 60px;
   	opacity: 0.6;
-//	font-size:11px;
-
+	font-size:11px;
 	}
+
     </style> 
   </head>
   <body>
@@ -55,9 +55,8 @@
     <div id="map"></div>
     <div id="info">commodity and location</div>
     <div id="fieldview">worked for</div>
-    <div id="geolmap">worked for</div>
+    <div id="geolmap">Web link</div>
 
-    <div id="text"><center><style="font-size:12px">
 
 
     <script>
@@ -69,7 +68,7 @@ function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     zoom: 7,
     center: Rhodesia,
-  mapTypeId: 'terrain'
+  mapTypeId: 'terrain',
   });
 
   // Load GeoJSON.
@@ -98,8 +97,7 @@ function initMap() {
     }); 
 
     map.data.addListener('mouseover', function(event) {
-    document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Web link</a>'; 
-
+    document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Geology</a>';      
    });
 
 
@@ -114,6 +112,7 @@ function initMap() {
           east: 9.0717293,
           west: 8.2676048
         };
+
         historicalOverlay = new google.maps.GroundOverlay(
             'seljord-pegs-3.png',
             imageBounds, overlayOpts);

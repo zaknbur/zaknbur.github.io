@@ -22,7 +22,7 @@
         position: absolute;
         left: 20px;
   	opacity: 0.6;
-	font-size:10px;
+	font-size:12px;
      }
       #fieldview {
         background-color: white;
@@ -33,7 +33,7 @@
         position: absolute;
         left: 40px;
   	opacity: 0.6;
-	font-size:10px;
+	font-size:11px;
       }
       #geolmap {
         background-color: white;
@@ -44,6 +44,7 @@
         position: absolute;
         left: 60px;
   	opacity: 0.6;
+	font-size:11px;
 
 	}
     </style> 
@@ -54,11 +55,12 @@
     <div id="map"></div>
     <div id="info">commodity and location</div>
     <div id="fieldview">worked for</div>
+    <div id="geolmap">Web link</div>
 
-    <div id="text"><center><style="font-size:12px">
 
 
     <script>
+
 
 var map;
 var Rhodesia = {lat: -20.4490, lng: 29.1640};
@@ -98,8 +100,8 @@ function initMap() {
     map.data.addListener('mouseover', function(event) {
     document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'"target="_blank">Geology</a>';      
    });
-
 }
+
     </script>
 
 

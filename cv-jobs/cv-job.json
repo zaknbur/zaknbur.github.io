@@ -12,8 +12,7 @@
                 "employer" : " Nchanga Consolidated Copper Mines ",
                 "work":"Mine Geologist - Open-pit at",   
                 "commodity":"Copper", 
-                 "location":"Chingola Open-pit",
-       		"geology": "5588&p_spraak=E"
+                 "location":"Chingola Open-pit"
       },
       "geometry": {
         "type": "Polygon",
