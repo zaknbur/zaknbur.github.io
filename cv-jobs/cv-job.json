@@ -96,7 +96,7 @@
                    "country":"Kenya",
                  "location":"Lamu",
                 "employer" : " Summer vacation work",
-                "work":"shadowing Mudlogger",   
+                "work":"shadowing Mudlogger near ",   
                 "commodity":"Oil"
       },
      "geometry": {
@@ -113,7 +113,7 @@
                    "country":"Kenya",
                  "location":"Nanyuki",
                 "employer" : " Summer vacation work",
-                "work":"shadowing engineering geologist",   
+                "work":"shadowing engineering geologist near ",   
                 "commodity":"Gravels"
       },
      "geometry": {
@@ -499,7 +499,7 @@
                    "country":"Germany",
                  "location":"Wolfsburg",
                 "employer" : " Kali Chemie AG ",
-                "work":"catalytic convertor recycling ",   
+                "work":"catalytic convertor recycling in ",   
                 "commodity":"Platinum"
       },
      "geometry": {
@@ -516,7 +516,7 @@
                    "country":"Canada",
                  "location":"Mississauga",
                 "employer" : " Platinum Lake Technology ",
-                "work":"catalytic convertor recycling ",  
+                "work":"catalytic convertor recycling in ",  
                 "commodity":"Platinum"
       },
      "geometry": {
