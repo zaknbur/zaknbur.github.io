@@ -109,7 +109,7 @@
   {
      "type":"Feature",
       "properties": {
-		"icon" : "gra-a.svg",         
+		"icon" : "agg-a.svg",         
                    "country":"Kenya",
                  "location":"Nanyuki",
                 "employer" : " Summer vacation work",
@@ -495,7 +495,7 @@
  {
      "type":"Feature",
       "properties": {
-		"icon" : "cat-a.svg",  
+		"icon" : "pgm-a.svg",  
                    "country":"Germany",
                  "location":"Wolfsburg",
                 "employer" : " Kali Chemie AG ",
@@ -504,7 +504,7 @@
       },
      "geometry": {
        "type":"Point",
-       "coordinates": [	52.4055, 11.1889]
+       "coordinates": [	11.1889,52.4055 ]
 
       }
   },
@@ -512,7 +512,7 @@
  {
      "type":"Feature",
       "properties": {
-		"icon" : "cat-a.svg",   
+		"icon" : "pgm-a.svg",   
                    "country":"Canada",
                  "location":"Mississauga",
                 "employer" : " Platinum Lake Technology ",
