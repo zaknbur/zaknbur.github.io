@@ -88,6 +88,56 @@
       }
   }, 
 
+
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "oil-a.svg",         
+                   "country":"Kenya",
+                 "location":"Lamu",
+                "employer" : " Summer vacation work",
+                "work":"shadowing Mudlogger",   
+                "commodity":"Oil"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [40.6631,-2.3106]
+
+      }
+  },
+
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "gra-a.svg",         
+                   "country":"Kenya",
+                 "location":"Nanyuki",
+                "employer" : " Summer vacation work",
+                "work":"shadowing engineering geologist",   
+                "commodity":"Gravels"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [37.1005,-0.0556]
+      }
+  },
+
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "vol-a.svg",         
+                   "country":"Kenya",
+                 "location":"Hell's Gate",
+                "employer" : " Keele University",
+                "work":"Undergraduate mapping",   
+                "commodity":"Pyroclastic volcanics"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [36.3374,-0.8836] 
+      }
+  },
+
   {
      "type":"Feature",
       "properties": {
@@ -440,6 +490,41 @@
        "coordinates": [	103.0579, 17.4133] 
       }
   },
+
+
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "cat-a.svg",  
+                   "country":"Germany",
+                 "location":"Wolfsburg",
+                "employer" : " Kali Chemie AG ",
+                "work":"catalytic convertor recycling ",   
+                "commodity":"Platinum"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	52.4055, 11.1889]
+
+      }
+  },
+
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "cat-a.svg",   
+                   "country":"Canada",
+                 "location":"Mississauga",
+                "employer" : " Platinum Lake Technology ",
+                "work":"catalytic convertor recycling ",  
+                "commodity":"Platinum"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-78.4969, 43.6569] 
+      }
+  },
+
 
 {
      "type":"Feature",
