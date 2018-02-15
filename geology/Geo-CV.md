@@ -3,7 +3,7 @@
 
 2. Anyway once you have downloaded your GeoJSON file from **[the Google Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geojson/)**, it should look something like this (here for example representing two individual reference points, one traverse line, and a concession area) -
 
-
+a
 ```JSON:.geojson
 {
   "type": "FeatureCollection",
