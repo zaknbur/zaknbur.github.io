@@ -78,7 +78,7 @@ You now need to save it as a JSON file and call it something like **job-cv.json*
     "geology": "http://www.mininglegacies.org/mines/queensland-2/red-dome/"
    }
   ```  
-5. If you look at this example as it appears in its final form (on a Google Map) you will noticed that Google's default "red upside down tear-drop" point symbol has been converted into a more geologically significant symbol. The way this is done via the **"icon"** tag by creating an *SVG* image (in this case for **Gold**, called **au.svg**)  that looks like this.  
+5. If you look at this example as it appears in its final form **[on a Google Map](http://zaknbur.github.io/cv-jobs/cv-job-map-1.html)**  you will noticed that Google's default "red upside down tear-drop" point symbol has been converted into a more geologically significant symbol. The way this is done via the **"icon"** tag by creating an *SVG* image (in this case for **Gold**, called **au.svg**)  that looks like this.  
 
   ```  
 <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44">
