@@ -117,7 +117,7 @@ So for example if you had been exploring for Copper, you would change the chemic
    - your Google API key
  
 The places where you need to change the 'HTML code are shown in the comments lines which are shown as 
-     `<!--COMMENTS--> ` and  `//COMMENTS// `
+     `<!--COMMENT--> ` and  `//COMMENT// `
 
   ```
 <!DOCTYPE html>
