@@ -102,8 +102,8 @@ You now need to save it as a JSON file and call it something like **job-cv.json*
   </text>
 </svg>
   ```  
-The only bits you need to change (to indicate the particular metal / mineral you were looking for at that particular location) are 
-       * firstly the colour which is on the fifth line after fill:  i.e. **gold** ,and 
-       * secondly the third line from the bottom i.e. **Au**
+The only bits you need to change (to indicate the particular metal / mineral you were looking for at that location) are 
+       1. firstly the colour which is on the fifth line after fill:  i.e. **gold** ,and 
+       1. secondly the third line from the bottom i.e. **Au**
 
 So for example if you had been looking for Copper, you would change the chemical symbol from _**Au to Cu**, and the fill colour from **gold to green**
