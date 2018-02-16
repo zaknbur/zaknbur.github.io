@@ -102,8 +102,15 @@ You now need to save it as a JSON file and call it something like **job-cv.json*
   </text>
 </svg>
   ```  
-The only bits you need to change (to indicate the particular metal / mineral you were looking for at that location) are 
+7. The only bits you need to change (to indicate the particular metal / mineral you were looking for at that location) are 
   - firstly the colour which is on the fifth line after fill:  i.e. **gold** , and 
   - secondly the third line from the bottom i.e. **Au**
 
 So for example if you had been exploring for Copper, you would change the chemical symbol from _**Au to Cu**, and the fill colour from **gold to green**
+
+8. I have included a bunch of these metal / mineral SVG files in this sub-directory, which also includes the 'HTML' code needed to display your data as an interactive webpage with a Google Maps background, your GeoJSON file should also go in here as well, as it is much simpler to keep everything together in one place when you copy the files to your own website / Github.io account.
+
+9. The 'HTML' code will need to be changed by you in three places, which as you will see in the last block of code are as follows.
+   - your GeoJSON file which has all the relevant information about what geological work you did and where
+   - your start location for the map to be displayed
+   - your Google API key
