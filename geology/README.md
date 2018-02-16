@@ -1,9 +1,14 @@
+1.  We are now ready to put together the three different components of your of your geological career, which are
+    1. Your geocoded work locations in GeoJSON format (done previously by you)
+    1. The 'HTML' code needed to display your data as an interactive webpage with a Google Maps background
+    1. The geological symbols that will replace the default 'red teardrop' Google Map point symbol
+>
 
-1. All of the code that you will need to produce has to be done using a simple text editor (such as Notepad in Windows, TextEdit for Apple, Gedit for Linux) as wordprocessors tend to put in all sorts of hidden formatting stuff that JavaScript does not  like.
+2.  All of the code that you will need to produce has to be done using a simple text editor (such as Notepad in Windows, TextEdit for Apple, Gedit for Linux) as wordprocessors tend to put in all sorts of hidden formatting stuff that JavaScript does not  like.
 
-2. Anyway once you have downloaded your GeoJSON file from **[the Google Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geojson/)**, it should look something like this (here for example representing two individual reference points, one traverse line, and a concession area) -
+3.  Anyway once you have downloaded your GeoJSON file from **[the Google Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geojson/)**, it should look something like this (here for example representing two individual reference points, one traverse line, and a concession area) 
 
-a
+
 ```JSON:.geojson
 {
   "type": "FeatureCollection",
@@ -57,15 +62,15 @@ a
 ```
 You now need to save it as a JSON file and call it something like **job-cv.json**
 
-3. You need to be aware however that the geographical coordinates from the **Geocoder** have a couple of _"gotchas"_
+4.  You need to be aware however that the geographical coordinates from the **Geocoder** have a couple of _"gotchas"_
 
       1. Ridiculous levels of accuracy (15 places of decimals !),  but you only need to have a maximum of 5 places of decimals (as one degree equates to around 111 km, hence 5 places of decimals gives an accuracy of around 1 metre)
 
       1. The geocoder gives results as Longitude, Lattitude not the usual way round for a Geologist !
 
-     1. If you are geocoding a polygon, the first and last set of coordinates have to be identical in order to close it off correctly
+      1. If you are geocoding a polygon, the first and last set of coordinates have to be identical in order to close it off correctly
 
-4. You will then have to open your saved file using a text editor and fill out and edit the **properties** part yourself, much like this -
+5.  You will then have to open your saved file using a text editor and fill out and edit the **properties** part yourself, much like this -
 
 ```JSON:.geojson
     "properties":
@@ -79,7 +84,7 @@ You now need to save it as a JSON file and call it something like **job-cv.json*
     "geology": "http://www.mininglegacies.org/mines/queensland-2/red-dome/"
    }
   ```  
-5. If you look at this example as it appears in its final form **[on a Google Map](http://zaknbur.github.io/cv-jobs/cv-job-map-1.html)**  you will noticed that Google's default "red upside down tear-drop" point symbol has been converted into a more geologically significant symbol. The way this is done via the **"icon"** tag by creating an *SVG* image (in this case for **Gold**, called **au.svg**)  that looks like this.  
+6.  If you look at this example as it appears in its final form **[on a Google Map](http://zaknbur.github.io/cv-jobs/cv-job-map-1.html)**  you will noticed that Google's default "red upside down tear-drop" point symbol has been converted into a more geologically significant symbol. The way this is done via the **"icon"** tag by creating an *SVG* image (in this case for **Gold**, called **au.svg**)  that looks like this.  
 
   ```  
 <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44">
