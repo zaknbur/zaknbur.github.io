@@ -117,15 +117,14 @@ So for example if you had been exploring for Copper, you would change the chemic
    - your Google API key
  
 The places where you need to change the 'HTML code are shown in the comments lines which are shown as 
-    - `<!--COMMENTS-->
-    - `//COMMENTS//
+     `<!--COMMENTS--> ` and  `//COMMENTS// `
 
   ```
 <!DOCTYPE html>
 <html>
   <head>
   
-<!-- CHANGE THE FOLLOWING LINE--> 
+<!-- COMMENT =   CHANGE AND PUT IN YOUR OWN NAME AND WEBPAGE TITLE--> 
 
     <title>YOUR NAME - WEBPAGE TITLE</title>
     <meta name="viewport" content="initial-scale=1.0">
@@ -185,7 +184,7 @@ The places where you need to change the 'HTML code are shown in the comments lin
 
 var map;
 
-// CHANGE StartLocation COORDINATES
+// COMMENT =  CHANGE StartLocation COORDINATES
 
 var StartLocation = {lat: -7.1049, lng: 38.1863};
 
@@ -196,7 +195,7 @@ function initMap() {
   mapTypeId: 'terrain',
   });
 
-  // IF NECESSARY CHANGE GeoJSON FILE-NAME
+  // COMMENT  =  IF NECESSARY CHANGE GeoJSON FILE-NAME
   
   map.data.loadGeoJson('cv-job.json');
   
@@ -228,7 +227,8 @@ function initMap() {
 
     </script>
 
-
+  // COMMENT  =  SUBSTITUTE YOUR OWN API KEY after initMap&&key=
+  
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
   </body>
