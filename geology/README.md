@@ -60,7 +60,7 @@
   ]
 }
 ```
-You now need to save it as a JSON file and call it something like **job-cv.json**
+You now need to save it as a JSON file and call it something like **cv-job.json**
 
 4.  You need to be aware however that the geographical coordinates from the **Geocoder** have a couple of _"gotchas"_
 
@@ -110,17 +110,24 @@ So for example if you had been exploring for Copper, you would change the chemic
 
 8. I have included a bunch of these metal / mineral SVG files in this sub-directory, which also includes the 'HTML' code needed to display your data as an interactive webpage with a Google Maps background, your GeoJSON file should also go in here as well, as it is much simpler to keep everything together in one place when you copy the files to your own website / Github.io account.
 
-9. The 'HTML' code will need to be changed by you in three places, which as you will see in the final block of code are as follows.
-   - your GeoJSON file which has all the relevant information about what geological work you did and where
+9. The 'HTML' code will need to be changed by you in four places, which as you will see in the final block of code are as follows.
+   - your webpage Title
+   - your GeoJSON file-name - if you did not save it as cv-job.json
    - your start location for the map to be displayed
    - your Google API key
-
+ 
+The places where you need to change the 'HTML code are shown in the comments lines which are shown as 
+    - `<!--COMMENTS-->
+    - `//COMMENTS//
 
   ```
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Micky Allen - 43-101 years behind the Hammer</title>
+  
+<!-- CHANGE THE FOLLOWING LINE--> 
+
+    <title>YOUR NAME - WEBPAGE TITLE</title>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
     <style>
@@ -168,28 +175,29 @@ So for example if you had been exploring for Copper, you would change the chemic
     </style> 
   </head>
   <body>
-
     
     <div id="map"></div>
     <div id="info">commodity and location</div>
     <div id="fieldview">worked for</div>
     <div id="geolmap">Web link</div>
 
-
-
     <script>
 
 var map;
-var Rhodesia = {lat: -7.1049, lng: 38.1863};
+
+// CHANGE StartLocation COORDINATES
+
+var StartLocation = {lat: -7.1049, lng: 38.1863};
 
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {
     zoom: 6,
-    center: Rhodesia,
+    center: StartLocation,
   mapTypeId: 'terrain',
   });
 
-  // Load GeoJSON.
+  // IF NECESSARY CHANGE GeoJSON FILE-NAME
+  
   map.data.loadGeoJson('cv-job.json');
   
   // Add some style.
@@ -218,34 +226,6 @@ function initMap() {
     document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Geology</a>';      
    });
 
-
-      var historicalOverlay;
-
-      var overlayOpts = {opacity:0.85};
- 
-
-        var imageBounds = {
-          north: 59.4974866,
-          south: 59.0052079,
-          east: 9.0717293,
-          west: 8.2676048
-        };
-
-        historicalOverlay = new google.maps.GroundOverlay(
-            'seljord-pegs-3.png',
-            imageBounds, overlayOpts);
-        historicalOverlay.setMap(map);
-
-
-        var marker = new google.maps.Marker({
-          map: map,
-          title: 'Scandium (Tordal geology)'
-        });
-        marker.addListener('click', function() {
-          infowindow.open(map, marker);
-        });
-
-}
     </script>
 
 
