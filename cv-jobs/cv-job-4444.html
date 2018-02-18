@@ -86,7 +86,7 @@ function initMap() {
     });
   });
   
-  // Set mouseover or click event for each feature.
+  // Set mouseover or click event for each feature .
   map.data.addListener('click', function(event) {
     document.getElementById('info').textContent = event.feature.getProperty('commodity')+' in   '+event.feature.getProperty('country');
     }); 
