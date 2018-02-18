@@ -212,16 +212,16 @@ function initMap() {
     });
   });
   
-  // Set mouseover event for each feature.
-  map.data.addListener('mouseover', function(event) {
+  // SET mouseover event [TABLET] or click event [LAPTOP] for each feature.
+  map.data.addListener('click', function(event) {
     document.getElementById('info').textContent = event.feature.getProperty('commodity')+' in   '+event.feature.getProperty('country');
     }); 
 
-  map.data.addListener('mouseover', function(event) {
+  map.data.addListener('click', function(event) {
     document.getElementById('fieldview').textContent = event.feature.getProperty('work')+'    '+event.feature.getProperty('location') +' for    '+event.feature.getProperty('employer');
     }); 
 
-    map.data.addListener('mouseover', function(event) {
+    map.data.addListener('click', function(event) {
     document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Geology</a>';      
    });
 
