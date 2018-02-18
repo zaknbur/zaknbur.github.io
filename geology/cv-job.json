@@ -10,7 +10,16 @@
 -16.9885020653736
 ]
 },
-"properties": { }
+    "properties":
+   {
+    "icon": "au.svg",
+    "country": "Australia",
+    "location": "Charters Towers",
+    "employer": " Red Dome",
+    "work": "Grassroots exploration for",
+    "commodity": "Gold",
+    "geology": "http://www.mininglegacies.org/mines/queensland-2/red-dome/"
+   }
 },
 {
 "type": "Feature",
@@ -21,7 +30,16 @@
 -17.1885020653736
 ]
 },
-"properties": { }
+    "properties":
+   {
+    "icon": "cu.svg",
+    "country": "Australia",
+    "location": "Deep North",
+    "employer": " Waga Waga Wombat World",
+    "work": "Grassroots exploration for",
+    "commodity": "Copper",
+    "geology": "https://www.google.com"
+   }
 },
 {
 "type": "Feature",
@@ -71,13 +89,13 @@
 },
     "properties":
    {
-    "icon": "au.svg",
+    "icon": "pb.svg",
     "country": "Australia",
-    "location": "Charters Towers",
-    "employer": " Red Dome",
+    "location": "Leadville",
+    "employer": " Red Dog",
     "work": "Grassroots exploration for",
-    "commodity": "Gold",
-    "geology": "http://www.mininglegacies.org/mines/queensland-2/red-dome/"
+    "commodity": "Lead",
+    "geology": "https://en.wikipedia.org/wiki/Red_Dog_Mine,_Alaska"
    }
 }
 ]
