@@ -77,7 +77,7 @@ mapTypeId: 'terrain',
 
 map.data.loadGeoJson('cv-job.json');
 
-// Add some style.
+// CUSTOMISE GEOLOGY MINERAL SYMBOLS.
 map.data.setStyle(function(feature) {
 var icon=null;
 if (feature.getProperty('icon')) {
@@ -106,7 +106,7 @@ map.data.addListener('click', function(event) {
 }
     </script>
 
-// COMMENT  =   SUBSTITUTE YOUR OWN API KEY after initMap&&key=
+// COMMENT  =   SUBSTITUTE YOUR OWN API KEY after 
 
   <script async defer
       src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
