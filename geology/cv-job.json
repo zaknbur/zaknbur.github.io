@@ -69,7 +69,16 @@
 ]
 ]
 },
-"properties": { }
+    "properties":
+   {
+    "icon": "au.svg",
+    "country": "Australia",
+    "location": "Charters Towers",
+    "employer": " Red Dome",
+    "work": "Grassroots exploration for",
+    "commodity": "Gold",
+    "geology": "http://www.mininglegacies.org/mines/queensland-2/red-dome/"
+   }
 }
 ]
 }
