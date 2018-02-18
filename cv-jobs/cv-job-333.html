@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Micky Allen - 43-101 years behind the Hammer</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+      #info {
+        background-color: white;
+        border: 1px solid black;
+        bottom: 70px;
+        height: 22px;
+        padding: 5px;
+        position: absolute;
+        left: 20px;
+  	opacity: 0.6;
+	font-size:20px;
+     }
+      #fieldview {
+        background-color: white;
+        border: 1px solid blue;
+        bottom: 40px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 40px;
+  	opacity: 0.6; 
+
+      }
+      #geolmap {
+        background-color: white;
+        border: 1px solid red;
+        bottom: 10px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 60px;
+  	opacity: 0.6;
+	}
+
+    </style> 
+  </head>
+  <body>
+
+    
+    <div id="map"></div>
+    <div id="info">commodity and location</div>
+    <div id="fieldview">worked for</div>
+    <div id="geolmap">Web link</div>
+
+
+
+    <script>
+
+var map;
+var Rhodesia = {lat: -7.1049, lng: 38.1863};
+
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 7,
+    center: Rhodesia,
+  mapTypeId: 'terrain',
+  });
+
+  // Load GeoJSON.
+  map.data.loadGeoJson('cv-job.json');
+  
+  // Add some style.
+  map.data.setStyle(function(feature) {
+  var icon=null;
+  if (feature.getProperty('icon')) {
+    icon = feature.getProperty('icon');
+  }
+    return /** @type {google.maps.Data.StyleOptions} */({
+      fillColor: feature.getProperty('fill'),
+      strokeWeight: 1,
+    icon: icon
+    });
+  });
+  
+  // Set mouseover event for each feature.
+  map.data.addListener('onclick', function(event) {
+    document.getElementById('info').textContent = event.feature.getProperty('commodity')+' in   '+event.feature.getProperty('country');
+    }); 
+
+  map.data.addListener('onclick', function(event) {
+    document.getElementById('fieldview').textContent = event.feature.getProperty('work')+'    '+event.feature.getProperty('location') +' for    '+event.feature.getProperty('employer');
+    }); 
+
+    map.data.addListener('onclick', function(event) {
+    document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Geology</a>';      
+   });
+
+
+      var historicalOverlay;
+
+      var overlayOpts = {opacity:0.85};
+ 
+
+        var imageBounds = {
+          north: 59.4974866,
+          south: 59.0052079,
+          east: 9.0717293,
+          west: 8.2676048
+        };
+
+        historicalOverlay = new google.maps.GroundOverlay(
+            'seljord-pegs-3.png',
+            imageBounds, overlayOpts);
+        historicalOverlay.setMap(map);
+
+
+        var marker = new google.maps.Marker({
+          map: map,
+          title: 'Scandium (Tordal geology)'
+        });
+        marker.addListener('click', function() {
+          infowindow.open(map, marker);
+        });
+
+}
+    </script>
+
+
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
+  </body>
+</html>
+
+
