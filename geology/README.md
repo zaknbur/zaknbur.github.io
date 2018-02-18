@@ -76,7 +76,7 @@ You now need to save it as a JSON file and call it something like **cv-job.json*
 ```JSON:.geojson
     "properties":
    {
-    "icon": "au-a.svg",
+    "icon": "au.svg",
     "country": "Australia",
     "location": "Charters Towers",
     "employer": " Red Dome",
