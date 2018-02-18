@@ -100,31 +100,6 @@ function initMap() {
    });
 
 
-      var historicalOverlay;
-
-      var overlayOpts = {opacity:0.85};
- 
-
-        var imageBounds = {
-          north: 59.4974866,
-          south: 59.0052079,
-          east: 9.0717293,
-          west: 8.2676048
-        };
-
-        historicalOverlay = new google.maps.GroundOverlay(
-            'seljord-pegs-3.png',
-            imageBounds, overlayOpts);
-        historicalOverlay.setMap(map);
-
-
-        var marker = new google.maps.Marker({
-          map: map,
-          title: 'Scandium (Tordal geology)'
-        });
-        marker.addListener('click', function() {
-          infowindow.open(map, marker);
-        });
 
 }
     </script>
