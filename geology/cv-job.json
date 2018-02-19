@@ -34,7 +34,7 @@
    {
     "icon": "cu.svg",
     "country": "Australia",
-    "location": "Deep North",
+    "location": "Ouagadougou Cactus Juggling School",
     "employer": " Waga Waga Wombat World",
     "work": "Grassroots exploration for",
     "commodity": "Copper",
@@ -56,7 +56,16 @@
 ]
 ]
 },
-"properties": { }
+    "properties":
+   {
+    "icon": "vms.svg",
+    "country": "Australia",
+    "location": "Cape Tribulation",
+    "employer": " Cassowary",
+    "work": "Geochemical traverse",
+    "commodity": "Copper",
+    "reference": "http://www.afma.gov.au/fisheries-services/vessel-monitoring/"
+   }
 },
 {
 "type": "Feature",
