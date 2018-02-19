@@ -18,7 +18,7 @@
     "employer": " Red Dome",
     "work": "Grassroots exploration for",
     "commodity": "Gold",
-    "geology": "www.mininglegacies.org/mines/queensland-2/red-dome/"
+    "reference": "www.mininglegacies.org/mines/queensland-2/red-dome/"
    }
 },
 {
@@ -38,7 +38,7 @@
     "employer": " Waga Waga Wombat World",
     "work": "Grassroots exploration for",
     "commodity": "Copper",
-    "geology": "www.contaminatedland.co.uk/case-stu/erg-finy.htm"
+    "reference": "www.contaminatedland.co.uk/case-stu/erg-finy.htm"
    }
 },
 {
@@ -95,7 +95,7 @@
     "employer": " Red Dog",
     "work": "Grassroots exploration for",
     "commodity": "Lead",
-    "geology": "en.wikipedia.org/wiki/Red_Dog_Mine,_Alaska"
+    "reference": "en.wikipedia.org/wiki/Red_Dog_Mine,_Alaska"
    }
 }
 ]
