@@ -9,7 +9,7 @@ We will be working with three sets of files - which are here in the geology sub-
  *. **[zaknbur.github.io/geology/cv-job-map.html](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job-map.html)**
   
 
-So no without ado lets 
+So no without ado lets Geo-code !
 
 1.  We are now ready to put together the three different components of your of your geological career, which are
     1. Your geocoded work locations in GeoJSON format (done previously by you)
