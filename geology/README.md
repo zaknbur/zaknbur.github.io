@@ -1,5 +1,11 @@
 We will be working with three sets of files which are here in the geology sub-directory
 
+https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/
+
+https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job.json
+
+https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/au.svg
+
 https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job-map.html
 
 1.  We are now ready to put together the three different components of your of your geological career, which are
