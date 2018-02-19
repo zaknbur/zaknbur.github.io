@@ -1,4 +1,4 @@
-We will be working with three sets of files which are here in the geology sub-directory
+We will be working with three sets of files - which are here in the geology sub-directory :-
 
  *. **[zaknbur.github.io/geology](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/)**
 
