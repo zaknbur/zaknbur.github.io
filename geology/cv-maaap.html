@@ -64,9 +64,10 @@
     <script>
 
 var map;
-
-// COMMENT =  CHANGE StartLocation COORDINATES
-var StartLocation = {lat: 144.49, lng: -16.98};
+	    
+	    // COMMENT =  CHANGE StartLocation COORDINATES
+	    
+	    var StartLocation = {lat: 144.49, lng: -16.98};
  
 function initMap() {
 map = new google.maps.Map(document.getElementById('map'), {
@@ -74,9 +75,10 @@ map = new google.maps.Map(document.getElementById('map'), {
   center: StartLocation,
 mapTypeId: 'terrain',
 });
-// COMMENT  =  IF NECESSARY CHANGE GeoJSON FILE-NAME
-
-map.data.loadGeoJson('cv-job.json');
+	
+	// COMMENT  =  IF NECESSARY CHANGE GeoJSON FILE-NAME
+	
+	map.data.loadGeoJson('cv-job.json');
 
 // CUSTOMISE GEOLOGY MINERAL SYMBOLS.
 map.data.setStyle(function(feature) {
