@@ -1,8 +1,10 @@
-
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Micky Allen - 43-101 years behind the Hammer</title>
+<head>
+
+<!-- COMMENT =    CHANGE AND PUT IN YOUR OWN NAME AND WEBPAGE TITLE--> 
+
+  <title>YOUR NAME - WEBPAGE TITLE</title>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
     <style>
@@ -62,21 +64,25 @@
     <script>
 
 var map;
-var Rhodesia = {lat: -17.1049, lng: 144.1863};
 
+// COMMENT =  CHANGE StartLocation COORDINATES
+
+var StartLocation = {lat: 144.49, lng: -16.98};
+ 
 function initMap() {
-  map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 7,
-    center: Rhodesia,
-  mapTypeId: 'terrain',
-  });
+map = new google.maps.Map(document.getElementById('map'), {
+  zoom: 6,
+  center: StartLocation,
+mapTypeId: 'terrain',
+});
 
-  // Load GeoJSON.
-  map.data.loadGeoJson('cv-job.json');
-  
-  // Add some style.
-  map.data.setStyle(function(feature) {
-  var icon=null;
+// COMMENT  =  IF NECESSARY CHANGE GeoJSON FILE-NAME
+
+map.data.loadGeoJson('cv-job.json');
+
+// CUSTOMISE GEOLOGY MINERAL SYMBOLS.
+map.data.setStyle(function(feature) {
+var icon=null;
   if (feature.getProperty('icon')) {
     icon = feature.getProperty('icon');
   }
@@ -87,7 +93,7 @@ function initMap() {
     });
   });
   
-  // Set mouseover event for each feature.
+// SET mouseover event [LAPTOP] or click event [TABLET] for each feature.
   map.data.addListener('click', function(event) {
     document.getElementById('info').textContent = event.feature.getProperty('commodity')+' in   '+event.feature.getProperty('country');
     }); 
@@ -105,7 +111,7 @@ function initMap() {
 }
     </script>
 
-
+<!-- COMMENT = SUBSTITUTE YOUR OWN API KEY after initMap&&key=  --> 
     <script async defer
         src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
   </body>
