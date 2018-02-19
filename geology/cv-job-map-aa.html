@@ -93,7 +93,8 @@ var icon=null;
     });
   });
   
-// SET mouseover event [LAPTOP] or click event [TABLET] for each feature.
+// SET mouseover event [LAPTOP] or click event [TABLET] for each feature
+	
   map.data.addListener('click', function(event) {
     document.getElementById('info').textContent = event.feature.getProperty('commodity')+' in   '+event.feature.getProperty('country');
     }); 
