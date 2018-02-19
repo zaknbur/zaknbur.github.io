@@ -90,10 +90,9 @@ if (feature.getProperty('icon')) {
   icon: icon
   });
 });
-
-// SET mouseover event [TABLET] or click event [LAPTOP] for each feature.
+	// SET mouseover event [TABLET] or click event [LAPTOP] for each feature
 	
-map.data.addListener('click', function(event) {
+	map.data.addListener('click', function(event) {
   document.getElementById('info').textContent = event.feature.getProperty('commodity')+' in   '+event.feature.getProperty('country');
   }); 
 
