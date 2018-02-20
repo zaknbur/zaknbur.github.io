@@ -7,7 +7,7 @@ We will be working with three sets of files - which are located here in the geol
  *. **[zaknbur.github.io/geology/cv-job-map.html](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job-map.html)**
   
 
-So now without further ado lets get to work !
+
 
 1.  We are now ready to put together the three different components of your of your geological career, which are
     1. Your geocoded work locations in GeoJSON format (done previously by you)
