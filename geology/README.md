@@ -7,8 +7,6 @@ We will be working with three sets of files - which are located here in the geol
  *. **[zaknbur.github.io/geology/cv-job-map.html](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job-map.html)**
   
 
-
-
 1.  We are now ready to put together the three different components of your of your geological career, which are
     1. Your geocoded work locations in GeoJSON format (done previously by you)
     1. The 'HTML' code needed to display your data as an interactive webpage with a Google Maps background
@@ -17,7 +15,7 @@ We will be working with three sets of files - which are located here in the geol
 
 2.  All of the code that you will need to produce has to be done using a simple text editor (such as Notepad in Windows, TextEdit for Apple, Gedit for Linux) as wordprocessors tend to put in all sorts of hidden formatting stuff that JavaScript does not  like.
 
-3.  Anyway once you have downloaded your GeoJSON file from **[the Google Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geojson/)**, it should look something like this (here for example representing two individual reference points, one traverse line, and a concession area) 
+3.  Once you have downloaded your GeoJSON file from **[the Google Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geojson/)**, it should look something like this (here for example representing two individual reference points, one traverse line, and a concession area) 
 
 
 ```JSON:.geojson
