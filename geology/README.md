@@ -7,7 +7,7 @@ We will be working with three sets of files - which are here in the geology sub-
  *. **[zaknbur.github.io/geology/cv-job-map.html](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job-map.html)**
   
 
-So now without further ado lets Geo-code !
+So now without further ado lets get to work !
 
 1.  We are now ready to put together the three different components of your of your geological career, which are
     1. Your geocoded work locations in GeoJSON format (done previously by you)
@@ -80,7 +80,7 @@ You now need to save it as a JSON file and call it something like **cv-job.json*
       1. The geocoder gives results as Longitude, Lattitude not the usual way round for a Geologist !
 
       1. If you are geocoding a polygon, the first and last set of coordinates have to be identical in order to close it off correctly
-      1. Check and then double-check that you have got your lat/long coordinates the right way round, as Google Maps get very confused if you tell it that your lattitude has a value that is greater than 90 degrees. In fact it adopts the pose of a **[Norwegian Blue Parrot](https://en.wikipedia.org/wiki/Dead_Parrot_sketch)** and lies on it's back with it's legs in the air. 
+      1. Check and then double-check that you have got your lat/long coordinates the right way round, as Google Maps get very confused if you tell it that your lattitude has a value that is greater than 90 degrees (it has no lattitude for this sort of behaviour). In fact it adopts the pose of a **[Norwegian Blue Parrot](https://en.wikipedia.org/wiki/Dead_Parrot_sketch)** and lies on it's back with it's legs in the air and pines for the fjords. 
 
 5.  You will then have to open your saved file using a text editor and fill out and edit the **properties** part yourself, much like this -
 
@@ -246,3 +246,6 @@ function initMap() {
   </body>
 </html>
   ```
+10. Finally once you have got all of the three components sorted out you then have to load them into either your own website, or into your own Github account.The best approach is to ust put all the files into the same directory then you don't have to fiddle with trying to work out how to get sub-directories to work correctly.
+
+If you have any questions just send me an email [mailto](mailto:micky-github@salamander.co.uk)
