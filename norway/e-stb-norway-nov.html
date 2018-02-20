@@ -125,16 +125,16 @@ function initMap() {
 // [END streetview]
 
   // [START snippet]
-  // Set mouseover event for each feature.
-  map.data.addListener('mouseover', function(event) {
+  // Set mouseover event for each feature changed to click for tablets.
+  map.data.addListener('click', function(event) {
     document.getElementById('info-box').textContent = event.feature.getProperty('name')+',  '+event.feature.getProperty('commodity');
     }); 
 
-    map.data.addListener('mouseover', function(event) {
+    map.data.addListener('click', function(event) {
     document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+'"target="_blank">Site factsheet</a>'+','+event.feature.getProperty('UTM coords');      
    }); 
 
-    map.data.addListener('mouseover', function(event) {
+    map.data.addListener('click', function(event) {
     document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'"target="_blank">Geology</a>';      
    });
 
