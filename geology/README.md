@@ -1,4 +1,4 @@
-We will be working with three sets of files - which are located **[here](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/)** in the geology sub-directory 
+We will be working with these three different sets of files - which are located **[here](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/)** in the geology sub-directory 
 
  *. **[zaknbur.github.io/geology/cv-job.json](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job.json)**
 
