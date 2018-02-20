@@ -1,9 +1,19 @@
+We will be working with three sets of files - which are here in the geology sub-directory  **[zaknbur.github.io/geology](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/)**
 
-1.  We are now ready to put together the three different components of the map displaying your geological career, which are
+ *. **[zaknbur.github.io/geology/cv-job.json](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job.json)**
+
+ *. **[zaknbur.github.io/geology/geology/au.svg](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/au.svg)**
+
+ *. **[zaknbur.github.io/geology/cv-job-map.html](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job-map.html)**
+  
+
+So now without further ado lets Geo-code !
+
+1.  We are now ready to put together the three different components of your of your geological career, which are
     1. Your geocoded work locations in GeoJSON format (done previously by you)
     1. The 'HTML' code needed to display your data as an interactive webpage with a Google Maps background
     1. The geological symbols that will replace the default 'red teardrop' Google Map point symbol
-
+>
 
 2.  All of the code that you will need to produce has to be done using a simple text editor (such as Notepad in Windows, TextEdit for Apple, Gedit for Linux) as wordprocessors tend to put in all sorts of hidden formatting stuff that JavaScript does not  like.
 
@@ -70,6 +80,7 @@ You now need to save it as a JSON file and call it something like **cv-job.json*
       1. The geocoder gives results as Longitude, Lattitude not the usual way round for a Geologist !
 
       1. If you are geocoding a polygon, the first and last set of coordinates have to be identical in order to close it off correctly
+      1. Check and then double-check that you have got your lat/long coordinates the right way round, as Google Maps get very confused if you tell it that your lattitude has a value that is greater than 90 degrees. In fact it adopts the pose of a **[Norwegian Blue Parrot](https://en.wikipedia.org/wiki/Dead_Parrot_sketch)** and lies on it's back with it's legs in the air. 
 
 5.  You will then have to open your saved file using a text editor and fill out and edit the **properties** part yourself, much like this -
 
@@ -118,7 +129,7 @@ So for example if you had been exploring for Copper, you would change the chemic
    - your Google API key
  
 The places where you need to change the 'HTML code are shown in the comments lines which are shown as 
-     `<!-- COMMENT --> ` and  `// COMMENT // `
+     `<!--COMMENT--> ` and  `//COMMENT// `
 
   ```
 <!DOCTYPE html>
