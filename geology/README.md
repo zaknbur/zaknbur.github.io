@@ -1,4 +1,4 @@
-We will be working with three sets of files - which are here in the geology sub-directory  **[zaknbur.github.io/geology](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/)**
+We will be working with three sets of files - which are located here in the geology sub-directory  **[zaknbur.github.io/geology](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/)**
 
  *. **[zaknbur.github.io/geology/cv-job.json](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job.json)**
 
@@ -248,4 +248,4 @@ function initMap() {
   ```
 10. Finally once you have got all of the three components sorted out you then have to load them into either your own website, or into your own Github account.The best approach is to ust put all the files into the same directory then you don't have to fiddle with trying to work out how to get sub-directories to work correctly.
 
-If you have any questions just send me an email [mailto](mailto:micky-github@salamander.co.uk)
+If you have any questions just send me an email via [micky-github@salamander.co.uk](mailto:micky-github@salamander.co.uk)
