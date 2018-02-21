@@ -11,7 +11,7 @@ We will be working with these three different sets of files - which are located 
     1. Your geocoded work locations in GeoJSON format (done previously by you)
     1. The 'HTML' code needed to display your data as an interactive webpage with a Google Maps background
     1. The geological symbols that will replace the default 'red teardrop' Google Map point symbol
->
+> 
 
 2.  All of the code that you will need to produce has to be done using a simple text editor (such as Notepad in Windows, TextEdit for Apple, Gedit for Linux) as wordprocessors tend to put in all sorts of hidden formatting stuff that JavaScript does not  like.
 
