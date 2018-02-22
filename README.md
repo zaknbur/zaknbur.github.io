@@ -7,7 +7,9 @@ zaknbur.github.io
 
 3. [Google Map from HTML page, Geo-coding, SVG Icons](/geology/README.md)
 
-3. [main menu](./.)
+3. [main menu](https://github.com/zaknbur/zaknbur.github.io/tree/master)
+
+https://github.com/zaknbur/zaknbur.github.io/edit/master/README.md
 
 
 
