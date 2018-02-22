@@ -9,7 +9,9 @@ zaknbur.github.io
 
 3. [main menu](https://github.com/zaknbur/zaknbur.github.io/tree/master)
 
-https://github.com/zaknbur/zaknbur.github.io/edit/master/README.md
+[main menu a](/master/)
+
+[main menu b](:/./)
 
 
 
