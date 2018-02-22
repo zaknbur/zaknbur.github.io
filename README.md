@@ -11,7 +11,7 @@ zaknbur.github.io
 
 [main menu a](../master/)
 
-[main menu b](.././)
+[main menu b](../../)
 
 
 
