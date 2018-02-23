@@ -9,9 +9,7 @@ zaknbur.github.io
 
 3. [main menu](https://github.com/zaknbur/zaknbur.github.io/tree/master)
 
-[main menu a](../master/)
-
-[main menu b](../../)
+4. [back to main menu](../../)
 
 
 
