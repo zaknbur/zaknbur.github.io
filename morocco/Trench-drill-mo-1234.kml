@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+<!-- updated 5th Jul 2012 by Micky Allen-->
+
+<Document>
+  <name>Tasdremt and Aoufour Concessions</name>
+  <description><![CDATA[Sampling locations (trenching and drilling)]]></description>
+
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/lightblue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ 
+  <Style id="style4">
+    <LineStyle>
+      <color>40000000</color>
+      <width>2</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7333FFFF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <Style id="style23">
+    <LineStyle>
+      <color>26000000</color>
+      <width>2</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>A66666FF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+
+<Style id="style111">
+    <LineStyle>
+      <color>40000000</color>
+      <width>2</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7333FFFF</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <Placemark>
+    <name>htd 01</name>
+    <description><![CDATA[<div dir="ltr">Tighanimine (North) - Hole htd 01<div></p><img src="http://www.contaminatedland.co.uk/htd-01.svg"style="width:550px"></p>
+</p>
+17 holes - 51 samples from  3 intervals (0-25cm / 25-50cm / 50-70cm) 
+
+
+</div></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-8.16717,30.71358,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>htd 05</name>
+    <description><![CDATA[<div dir="ltr">Tasdremt (West) - Hole htd 05<div></p><img src="http://www.contaminatedland.co.uk/htd-05.svg"style="width:550px"></p>
+</p>
+
+13 holes - 44 samples from  3 intervals (0-25cm / 25-50cm / 50-70cm) 
+
+
+</div></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-8.1332,30.70737,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>htd 15</name>
+    <description><![CDATA[<div dir="ltr">Tasdremt (East - southern part) - Hole htd 15<div></p><img src="http://www.contaminatedland.co.uk/htd-15.svg"style="width:550px"></p>
+</p>
+
+12 holes - 36 samples from  3 intervals (0-25cm / 25-50cm / 50-70cm) 
+
+
+</div></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-8.12613,30.7047,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>htd 17</name>
+    <description><![CDATA[<div dir="ltr">Aoufour (West) - Hole htd 17<div></p><img src="http://www.contaminatedland.co.uk/htd-17.svg"style="width:550px"></p>
+</p>
+
+12 holes - 36 samples from  3 intervals (0-25cm / 25-50cm / 50-70cm) 
+
+
+</div></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-8.08081,30.72186,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>htd 21</name>
+    <description><![CDATA[<div dir="ltr">Aoufour (West) - Hole htd 21<div></p><img src="http://www.contaminatedland.co.uk/htd-21.svg"style="width:550px"></p>
+</p>
+
+17 holes - 51 samples from  3 intervals (0-25cm / 25-50cm / 50-70cm) 
+
+
+</div></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-8.08156,30.72082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>tr 09</name>
+    <description><![CDATA[<div dir="ltr">Tasdremt (East - northern part) - Trench 9<div></p><img src="http://www.contaminatedland.co.uk/Tr-09.svg"style="width:350px"></p>
+</p>
+
+
+<ul>
+<li>9 samples taken every metre</li>
+</ul>
+
+</div></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-8.12588,30.7105,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>tr 12</name>
+    <description><![CDATA[<div dir="ltr">Tasdremt (East - northern part)  - Trench 12<div></p><img src="http://www.contaminatedland.co.uk/Tr-12.svg"style="width:350px"></p>
+
+</p>
+
+<ul>
+<li>16 samples taken every metre</li>
+</ul>
+
+</div></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-8.12592,30.70793,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>tr 13</name>
+    <description><![CDATA[<div dir="ltr">Tasdremt (East - southern part)  - Trench 13<div></p><img src="http://www.contaminatedland.co.uk/Tr-13.svg"style="width:350px"></p>
+</p>
+
+<ul>
+<li>13 samples taken every metre</li>
+</ul>
+
+</div></div>]]></description>
+
+
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-8.12588,30.70817,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>tr 14</name>
+    <description><![CDATA[<div dir="ltr">Tasdremt (East - southern part)  - Trench 14<div></p><img src="http://www.contaminatedland.co.uk/Tr-14.svg"style="width:350px"></p>
+</p>
+
+
+<ul>
+<li>14 samples taken every metre</li>
+</ul>
+
+</div></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-8.1255,30.70848,0.000000</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>concession 2339124</name>
+    <description><![CDATA[Tasdremt
+<div>
+<br>&nbsp;<img src="http://www.contaminatedland.co.uk/Tr-14.svg">
+</p>
+<a href="http://www.google.co.uk" target="_blank">search google</a>
+<div><br>&nbsp;</div>
+<div><a href="http://www.google.co.uk" target="_blank"></a>
+
+<div><br>&nbsp;</div>
+<div>
+
+<ul>
+
+<li>Concession 2339124</li>
+<li><br></li>
+
+</ul>
+
+</div>
+</div>
+]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+   -8.142018  	,30.736813  		 
+   -8.141027  	,30.700733  		 
+   -8.182777  	,30.699871  		 
+   -8.183783  	,30.735951  		 
+   -8.142018  	,30.73681  
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <Placemark>
+    <name>concession 2339125</name>
+    <description><![CDATA[Tasdremt<div><br>&nbsp;</div><div><a href="http://www.google.co.uk" target="_blank">google uk</a></div><div><br>&nbsp;</div><div>
+
+<ul>
+<li>Concession 2339125</li>
+<li><br></li>
+
+<li><br></li>
+
+</ul>
+</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+ -8.100886  	,30.761078  		 
+ -8.099911  	,30.724998  		 
+ -8.141670	,30.724149  		 
+ -8.142661	,30.760229  		 
+ -8.100886	,30.761078  
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+
+  <Placemark>
+    <name>concession area 2339126</name>
+    <description><![CDATA[Tasdremt<div><br>&nbsp;</div><div><a href="http://www.google.co.uk" target="_blank">google uk</a></div><div><br>&nbsp;</div><div>
+
+<ul>
+<li>Concession 2339126</li>
+<li><br></li>
+
+<li>trench Tr-09</li>
+<li>trench Tr-12</li>
+<li>trench Tr-13</li>
+<li>trench Tr-14</li>
+<li><br></li>
+
+</ul>
+</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>		
+ -8.099911 55555556	,30.724998  		 
+ -8.098936 55555556	,30.688918  		 
+ -8.140681 55555556	,30.688069  		 
+ -8.141670 27777778	,30.724149  		 
+ -8.099911 55555556	,30.724998  
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+
+  <Placemark>
+    <name>concession area 2339127</name>
+    <description><![CDATA[Tasdremt<div><br>&nbsp;</div><div><a href="http://www.google.co.uk" target="_blank">search google</a></div><div><br>&nbsp;</div><div>
+
+<ul>
+<li>Concession 2339127</li>
+<li><br></li>
+
+</ul></div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+ -8.059206  	,30.765522  		 
+ -8.058246  	,30.729442  		 
+ -8.100008  	,30.728606  		 
+ -8.100984  	,30.764686  		 
+ -8.059206  	,30.765522  
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <Placemark>
+    <name>concession area 2339128</name>
+    <description><![CDATA[Tasdremt<div><br>&nbsp;</div>
+<div><br>&nbsp;</div><div>
+
+<ul>
+<li>Concession 2339128</li>
+<li><br></li>
+
+</ul></div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+ -8.058246  	,30.729442  		 
+ -8.057286  	,30.693362  		 
+ -8.099033  	,30.692526  		 
+ -8.100008  	,30.728606  		 
+ -8.058246  	,30.729442  
+
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+  <Placemark>
+    <name>concession area 2339129</name>
+    <description><![CDATA[Aoufour
+<div><br>&nbsp;</div><div>
+
+<ul>
+<li>Concession 2339129</li>
+<li><br></li>
+</ul>
+
+
+</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+ -8.017145  	,30.755521  		 
+ -8.016200  	,30.719441  		 
+ -8.057958  	,30.718618  		 
+ -8.058918  	,30.754698  		 
+ -8.017145  	,30.755521  
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+
+</Document>
+</kml>
+
+
+

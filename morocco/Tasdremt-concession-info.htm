@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<META NAME="robots" CONTENT="noindex">
+  <head>
+
+<!-- updated 12th Jan 2014 by Micky Allen-->
+ 
+  	<title>Element Commodities</title>
+
+
+  	<style type="text/css">
+		#map { width:500px; height:500px;}
+		body { font-family:"Trebuchet MS", verdana,arial,sans-serif; 
+				font-size:100%;
+				}
+				
+		ul { list-style-type:none;
+		}
+		
+		ul li a { margin-left:30px;}
+		
+		#view-gm { background-image:url(google.gif); background-repeat:no-repeat;
+		}
+		
+		#download-kml {background-image:url(kml.png); background-repeat:no-repeat;
+		}
+		
+		#map div { font-weight:bold;}
+		#map #iwsw p { font-weight:normal !important;}
+	
+		
+		
+	</style>
+  
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+	<script type="text/javascript">
+		function showMap() {
+			
+			var geocoder = new GClientGeocoder();
+			geocoder.setCache=null;
+	
+			// Google Maps caches KML files -- use a random query string parameter set to Date.
+			var url_end = "?nocache=" + (new Date()).valueOf();
+			var server_root = "http://www.contaminatedland.co.uk/maps/";
+			var kmlFile = server_root + "russian-drilling-final-may.kml" + url_end;
+				
+			var map = new GMap2(document.getElementById("map"));
+			// Add controls
+			map.addControl(new GLargeMapControl());
+			map.addControl(new GMapTypeControl());
+			geoxml = new GGeoXml(kmlFile);
+			map.addOverlay(geoxml);
+				
+			
+			
+			// Default zoom level
+			var zl = 10;
+			map.setCenter(new GLatLng(30.70,-8.12),zl);
+			
+			
+		}
+
+		window.onload = showMap;
+	
+	</script>
+
+
+
+  </head>
+
+  <body>
+  
+  	<h1>Element Commodities</h1>
+
+
+<h2><a href="http://www.contaminatedland.co.uk/maps/summary-sheets.htm" TARGET="_blank">Moroccan Concessions Summary Sheet</a>  </h2>
+<h3> Name -  <a href="http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm" TARGET="_blank">Tasdremt</a>
+
+</h3>
+</p>
+<h3>Concession numbers - 2339124,  2339125,  2339126,  2339127,  2339128</h3>
+</p>
+<h3>Concession size</h3>
+ <ol>
+<li>4 km (North / South)</li>
+<li>4 km (East / West)</li>
+<li>Total area= 5 x 16 sq km</li>
+</ol>
+<p>&nbsp</p>
+<h3>Mineralisation</h3>
+<ol>
+<li>Manganese</li>
+<li>Lead and Barite (minor)</li>
+</ol>
+<p>&nbsp</p>
+ 
+ <h3>Location</h3>
+<p></p>
+<ol>
+<li>
+<id="view-gm"><a href="http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;q=http://www.contaminatedland.co.uk/maps/russian-report-final-may.kml&amp;ie=UTF8&amp;ll=30.73632,-8.15596&amp;spn=0.004931,0.014591&amp;z=12&amp;om=1" TARGET="_blank"> in Google (Maps / Satellite / Earth)</a></id></li>
+<li>Topographical Map name - Tizi n Test (1: 100,000)</li>
+
+<li>Coordinates for Concession No 2339124</li>
+<ol type="a">
+ <li>Lambert Maroc Sud  (X) : (Y) = 237483.40 : 418005.80 / 237483.40 : 414005.80 / 233483.40 : 414005.80 / 233483.40 : 418005.80</li>
+ <li>Latitude (North) : Longitude (West) = 30.736813 : 8.142018 / 30.700733 : 8.141028 / 30.699871 : 8.182777 / 30.735951 : 8.183783</li>
+</ol>
+
+<li>Coordinates for Concession No 2339125</li>
+<ol type="a">
+ <li>Lambert Maroc Sud  (X) : (Y) = 241483.40 : 420601.80 /  241483.40 : 416601.80 / 237483.40 : 420601.80 / 237483.40 : 420601.80</li>
+ <li>Latitude (North) : Longitude (West) = 30.761078 : 8.100886 / 30.724998 : 8.099911 / 30.724149 : 8.141670 / 30.760228 : 8.1426608</li>
+</ol>
+
+<li>Coordinates for Concession No 2339126</li>
+<ol type="a">
+ <li>Lambert Maroc Sud  (X) : (Y) =  241483.40 : 416601.80 / 241483.40 : 412601.80 / 237483.40 : 412601.80 / 237483.40	416601.80</li>
+ <li>Latitude (North) : Longitude (West) = 30.724998 : 8.099911 / 30.688918 : 8.098936 / 30.688069 : 8.140681 / 30.724149 : 8.141670</li>
+</ol>
+
+<li>Coordinates for Concession No 2339127</li>
+<ol type="a">
+ <li>Lambert Maroc Sud  (X) : (Y) = 245483.40 : 421001.80 / 245483.40 : 417001.80 / 241483.40 : 417001.80 / 241483.40 : 421001.80</li>
+ <li>Latitude (North) : Longitude (West) = 30.765522 : 8.059206 / 30.729442 : 8.058246 / 30.728606 : 8.100008 / 30.764686 : 8.100984</li>
+</ol>
+
+<li>Coordinates for Concession No 2339128</li>
+<ol type="a">
+ <li>Lambert Maroc Sud  (X) :  (Y) = 245483.40 : 417001.80 / 245483.40 : 413001.80 / 241483.40 : 413001.80 / 241483.40 : 417001.80 </li>
+ <li>Latitude (North) : Longitude (West) = 30.729442 : 8.058246 / 30.693362 : 8.057286 / 30.692526 : 8.099033 / 30.728606 : 8.100008</li>
+</ol>
+ 
+</ol>
+
+<p>&nbsp</p>
+<h3>Reports provided by the ONHYM</h3>
+<ol>
+<li>Le gisement de Tasdremt (Haut Sous) : Un gite sedimentaire de manganese plombifere dans la Mesocretace transgressif  <i>J. Bouladon et M. Meune</i></li>
+<li>Gisement de manganese de Tasdremt - Aufour, 1974 , <i>S.A.C.E.M. ref 630124</i></li>
+<li>Note sur le gisement de Tasdremt et les gisements annexes, Mars 1954,  <i>C. Colson, ref 630206</i></li>
+<li>Notes + M Serv geol Maroc no 276 (1)  Chapitre 3, p 122-124, Manganese, 1980,  <i>G. Pouit</i></li> 
+<li>V/O Technoexport - Resultats de l etude geologique et recommandation sur l orientation des travaux de rechercheres sur les possibilities en Manganese du Maroc, 1977, r 5-18, <i>V. Rakhmanov,  V. Chenguelia</i></li>
+
+</ol>
+<p>&nbsp</p>
+<h3>Current Status of area</h3>
+<ul> 
+<li>Mined out / abandoned</li> 
+</ul>
+<p>&nbsp</p>
+<h3>Reconnaisance</h3>
+<ol>
+<li>Date visited  - 25th October 2011 <i>Paul Barty, Gerry Vega and Zardane Abdul Aziz</i></li>
+<li>Ranking - [25 /30]</li>	
+<ol type="a">
+<li>Open-pit potential  (9 / 10)</li> 
+<li>Mineralisation  (7 / 10)</li> 
+<li>Road Access  (9 / 10)</li>
+</ol>
+
+</ol>
+</ol>
+<p>&nbsp</p>
+<h3>Detailed Follow-up</h3>
+<ol>
+<li>Date visited  - February to May 2012 <i>Paul Barty / Gerry Vega, and Said Kabba</i></li>
+<li>Ground truthing data seen in ONHYM reports</li>
+<li>Field mapping to search for extentions to mineralisation</li>
+<li>Assessed current geological model (Mn mineralisation at boundary of unconformity with dolomite)</li>
+<li>Trenched to re-open old trenches with JCB digger, cut new exposures into old abandoned road side cuttings</li>  
+<li>Drilled shallow holes into areas of hard ground that could be trenched, using Jack Hammer</li>
+<li>Sampled vertical and horizontal cross-sections exposed in trenches and drill holes</li> 
+<li>
+<id="view-gm"><a href="http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;q=http://www.contaminatedland.co.uk/maps/russian-stacked-test-66666.kml&amp;ie=UTF8&amp;ll=30.73632,-8.15596&amp;spn=0.004931,0.014591&amp;z=12&amp;om=1" TARGET="_blank">Russian report on drilling and adits</a></id></li>
+</ol>
+<p>&nbsp</p>
+<h3>Future Work Planned</h3>	
+<ul>
+<li>Drilling - twin drill selected historical holes to confirm presence and grade of mineralisation</li>	
+<li>Drill out potential resource identified at the old Tadremt processing site, outlined in the 1977 V/O Technoexport report</li>
+</ul>
+<p>&nbsp</p>
+<h3> ONHYM  summary of Manganese potential (2011)</h3>
+ <ul>
+<p> The district of Taroudant is located in the headwaters of the plain of Souss, some 70 km east of Taroudant. It is separated from the mine at Imini by the gentle dome of Sirwa, around which are outcropping strips of Cretaceous which in turn encase the manganese mineralization present in the district.
+</p>
+<p>
+The district consists of two small Cretaceous basins, firstly the basin of Tasdremt to the west which is some 11 sq km in area, and secondly the basin of Aoufour in the east which is slightly larger with an area of 14 sq km. These basins were forned by the Cenomanian transgression onto the primary land surface at Sirwa. 
+</p>
+<p>
+The Cenomanian sequence which encases the manganese mineralisation has the following sequence going from the base upwards:
+</p>
+<p>
+
+<ol type="a">
+<li>A lower detrital series formed of alternating sandstone and red clay which increases in thickness as one goes from west to east, which is just a few meters thick at Tasdremt and goes to up to a thickness of 30 m at Aoufour.
+</li>
+<li> 
+A dolomitic series consisting of banks of white to beige dolomites, once again the sequence thickens from 5 to 10 m at Tasdremt in the west, being upto 20 to 25 m thick at Aoufour in the east
+</li>
+<li> 
+An upper detrital sequence consisting of alternating sandstones and conglomerates.
+</li>
+</ol> 
+</p>
+<p>The horizons that contain manganese mineralisation are associated with the dolomite series, the basal manganese horizon (layer No. 1) has an irregular base at Tasdremt, with a maximum thickness of 20 cm. The middle mineralised horizon (layer No. 2) is several times thicker, averaging 60 cm at Tasdremt and 50 cm at Aoufour. Layer No. 3 occurs at irregular levels at Tasdremt and is related to the upper dolomitic episode in the series, which itself lies some ten meters or so above the principal layer.
+</p>
+<p>
+The mineralization is related to the principal dolomitic episode of the middle detrital Cenomanian. The manganese mineralization in the three sedimentary layers is similar to that observed at the Imini mine, but with smaller reserves, a relatively lower manganese content and a higher lead content. 
+</p>
+<p>
+The mineralization consists of lead bearing psilomelane (barium manganese oxide) with needles of coronadite (lead manganese oxide). The ore has an earthy texture with associated manganese wad and concretions containing lead bearing psilomelane, however pyrolusite is only rarely observed.
+</p>
+<p> 
+Tasdremt mine, which is in the west of the area, has high grades of manganese reaching upto 72.6% MnO in places.
+</p>
+<p>The considerable extent of the Tasdremt Aoufour manganese district indicates the potential for the presence of larger irregular manganese and lead mineralisation. Exploration carried out by SACEM in the Tasdremt district, between 1974 and 1976, produced an estimated historical resource of 270,000 tonnes of material, grading at an average of 43% Mn and 6% Pb.
+</p>
+</ul>
+ 
+<p>&nbsp</p>
+<h3>ONHYM summary of Manganese resource and grade</h3> 
+<ol>
+<li>Manganese : 43%</li> 
+<li>Silica : 3.4-26.3%</li>
+<li>Alumina : 1.47%</li> 
+<li>Ferrous Iron : 0.44-1.59%</li>
+<li>Phosphorous : 0.035-0.105%</li>
+<li>Historical resource - 270,000 tonnes</li>
+</ol>
+	
+<p>&nbsp</p>
+
+<p>&nbsp</p>
+
+<a href="http://www.contaminatedland.co.uk/maps/summary-sheets.htm" TARGET="_blank">Copyright Layla Resources Ltd &copy; 2012</a>
+<p>&nbsp</p>
+
+	<div id="map"></div>
+  	
+  </body>
+</html>
+

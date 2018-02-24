@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<META NAME="robots" CONTENT="noindex">
+  <head>
+
+<!-- updated 12th Jan 2014 by Micky Allen-->
+ 
+  	<title>Element Commodities</title>
+
+<!-- updated 9th Jul 2012 by Micky Allen-->
+
+  	<style type="text/css">
+		#map { width:500px; height:500px;}
+		body { font-family:"Trebuchet MS", verdana,arial,sans-serif; 
+				font-size:100%;
+				}
+				
+		ul { list-style-type:none;
+		}
+		
+		ul li a { margin-left:30px;}
+		
+		#view-gm { background-image:url(google.gif); background-repeat:no-repeat;
+		}
+		
+		#download-kml {background-image:url(kml.png); background-repeat:no-repeat;
+		}
+		
+		#map div { font-weight:bold;}
+		#map #iwsw p { font-weight:normal !important;}
+	
+		
+		
+	</style>
+  
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+	<script type="text/javascript">
+		function showMap() {
+			
+			var geocoder = new GClientGeocoder();
+			geocoder.setCache=null;
+	
+			// Google Maps caches KML files -- use a random query string parameter set to Date.
+			var url_end = "?nocache=" + (new Date()).valueOf();
+			var server_root = "http://www.contaminatedland.co.uk/maps/";
+			var kmlFile = server_root + "Guercif-concessions-mo-1.kml" + url_end;
+				
+			var map = new GMap2(document.getElementById("map"));
+			// Add controls
+			map.addControl(new GLargeMapControl());
+			map.addControl(new GMapTypeControl());
+			geoxml = new GGeoXml(kmlFile);
+			map.addOverlay(geoxml);
+				
+			
+			
+			// Default zoom level
+			var zl = 10;
+			map.setCenter(new GLatLng(34.45,-2.38),zl);
+			
+			
+		}
+
+		window.onload = showMap;
+	
+	</script>
+
+
+
+  </head>
+
+  <body>
+  
+  	<h1>Element Commodities</h1>
+
+
+<h2>Moroccan Concessions Summary Sheet</h2>
+<h3>Name - Bourdine</h3>
+</p>
+<h3>Concession numbers - 220459</h3>
+</p>
+<h3>Concession size</h3>
+ <ol>
+<li>4 km (North / South)</li>
+<li>4 km (East / West)</li>
+<li>Total area = 16 sq km</li>
+</ol>
+<p>&nbsp</p>
+<h3>Mineralisation</h3>
+<ol>
+<li>Manganese</li>
+<li>Lead and Barite (minor)</li>
+</ol>
+<p>&nbsp</p>
+
+ <h3>Location</h3>
+<p></p>
+<ol>
+<li>
+<id="view-gm"><a href="http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;q=http://www.contaminatedland.co.uk/maps/Guercif-concessions-mo-1.kml&amp;ie=UTF8&amp;ll=34.4832,-2.3896&amp;spn=0.004931,0.014591&amp;z=12&amp;om=1" TARGET="_blank"> in Google (Maps / Satellite / Earth)</a></id></li>
+ 
+<li>Topographical Map name -  Ain Bni Mathar (1: 100,000)</li>
+  
+
+<li>Coordinates for Concession No 220459</li>
+<ol type="a">
+ <li>Lambert Maroc Nord  (X) : (Y) = 780502.72 : 436996.84 / 780502.72 : 432996.84 / 776502.72 : 432996.84 / 776502.72 : 436996.84</li>
+ <li>Latitude (North) : Longitude (West) = 34.498483 : 2.344996 / 34.4624325 : 2.346271 / 34.463480 : 2.389793 / 34.499531 : 2.388537</li>
+
+ 
+</ol>
+</ol>
+
+<p>&nbsp</p>
+<h3>Reports provided by the ONHYM</h3>
+<ol>
+
+
+<li>Geologie des gites et indices de manganese dans le Maroc oriental (pays des Horsts), Notes Serv geol Maroc t 27 no 198, 1966 <i>Ch Bauchau, G Jouravsky, G Pouit, J-P Snoep</i></li> 
+
+<li> SAGEM - Les Gisements de Manganese de la region de Taourirt-El Aioun (Maroc Oriental) , 1977 <i>Abdellatif Belmezouar, ref 630032</i> </li> 
+
+<li>Notes + M Serv geol Maroc no 276 (1)  Chapitre 3, p 122-124, Manganese, 1980,  <i>G. Pouit</i></li>  
+
+<li>V/O Technoexport - Resultats de l'etude geologique et recommandation sur l'orientation des travaux de rechercheres sur les possibilities en Manganese du Maroc, 1977, r 5-18, <i>V. Rakhmanov,  V. Chenguelia</i></li>  
+
+<li>Bureau de Recherches et de Participations Minieres, Etude Geologique de la mine de Manganese de Bourdine, 1961 <i>J-P Snoep</i></li>  
+ 
+
+<li>Geologie et Paragenese des Gisements de Manganese de Bourdine, 1955 <i>D, Den Baars</i></li>  
+
+<li>Notes sur les Gites de Manganese du Maroc N.E., 1960 <i>B.R.P.M</i></li> 
+
+ 
+</ol>
+<p>&nbsp</p>
+<h3>Current Status of area</h3>
+<ul> 
+<li>Mined out / abandoned</li> 
+</ul>
+<p>&nbsp</p>
+<h3>Reconnaisance</h3>
+<ol>
+<li>Date visited  - 28th October 2011 <i>Paul Barty, Gerry Vega and Zardane Abdul Aziz</i></li>
+<li>Ranking - [23 /30]</li>	
+<ol type="a">
+<li>Open-pit potential  (8 / 10)</li> 
+<li>Mineralisation  (6 / 10)</li> 
+<li>Road Access  (9 / 10)</li>
+
+</ol>
+ 
+</ol>
+</ol>
+<p>&nbsp</p>
+<h3>Future Work Planned</h3>
+<ol> 
+<li>Ground truthing data seen in ONHYM reports</li>
+<li>Field mapping to search for extentions to mineralisation</li>
+<li>Assessing geological model</li> 
+</ol>
+<p>&nbsp</p> 
+<h3> ONHYM  summary of Manganese potential (2011)</h3>
+ <ul>
+<p> 
+Bourdine is located approximately 16 km SE of El Aioun and ten miles from the east-west Moroccan railway line. The deposit has been known since 1914 and had a total production of around 7,000 tonnes grading at 52% Mn.  
+</p>  
+<p> 
+Four types of mineralisation are known in this area:
+</p>
+<p>
+
+<ol type="a">
+<li>Veins of manganese with an average thickness of one metre, lying at the top of the Hercynian granodiorite basement in the vicinity of the unconformable contact with the Permo-Trias;
+ </li>
+<li>A stockwork of small veins of manganese at the top of the basement;
+ </li>
+<li>Stratiform beds directly overlying the manganese veins and stockwork found at the base of Permo-Trias;
+ </li>
+<li>Layers of manganese oxide found at the base of the Triassic basalts.
+</li>
+</ol> 
+</p>  
+<p> 
+The first three types of mineralization are epigenetic and have same mineral paragenesis, consisting of braunite, hausmannite, pyrolusite and psilomelane. In contrast the last type of mineralisation observed is syngenetic but still has the same paragenesis as the first three types of mineralisation observed.
+</p>  
+<p> 
+The ONHYM feels that a systematic exploration program of short drill-holes, 10 to 20 metres in depth, beneath the stratiform manganese horizon (which is related to the Triassic basalts), should be sufficient to detect the presence of hidden veins of Mn in the basement rocks. Their presence, if found, would result in an increase in known manganese resources and and corresponding economic opportunities for the Bourdine region.
+</p>
+
+</ul>
+
+<p>&nbsp</p>
+<h3>ONHYM  summary of Manganese resource and grade</h3> 
+<ol>
+<li>Manganese : 52%</li> 
+<li>Silica : 8.9%</li>
+<li>Ferrous Iron : 2.1%</li> 
+<li>Historical resource - 7,000 tonnes</li>
+</ol>
+	  
+
+<p>&nbsp</p>
+
+<a href="http://www.contaminatedland.co.uk/maps/summary-sheets.htm" TARGET="_blank">Copyright Layla Resources Ltd &copy; 2012</a>
+<p>&nbsp</p>
+
+	<div id="map"></div>
+  	
+  </body>
+</html>
+

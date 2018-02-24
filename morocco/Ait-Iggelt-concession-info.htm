@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<META NAME="robots" CONTENT="noindex">
+  <head>
+
+<!-- updated 12th Jan 2014 by Micky Allen-->
+ 
+  	<title>Element Commodities</title>
+
+<!-- updated 9th Jul 2012 by Micky Allen-->
+
+  	<style type="text/css">
+		#map { width:500px; height:500px;}
+		body { font-family:"Trebuchet MS", verdana,arial,sans-serif; 
+				font-size:100%;
+				}
+				
+		ul { list-style-type:none;
+		}
+		
+		ul li a { margin-left:30px;}
+		
+		#view-gm { background-image:url(google.gif); background-repeat:no-repeat;
+		}
+		
+		#download-kml {background-image:url(kml.png); background-repeat:no-repeat;
+		}
+		
+		#map div { font-weight:bold;}
+		#map #iwsw p { font-weight:normal !important;}
+	
+		
+		
+	</style>
+  
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+	<script type="text/javascript">
+		function showMap() {
+			
+			var geocoder = new GClientGeocoder();
+			geocoder.setCache=null;
+	
+			// Google Maps caches KML files -- use a random query string parameter set to Date.
+			var url_end = "?nocache=" + (new Date()).valueOf();
+			var server_root = "http://www.contaminatedland.co.uk/maps/";
+			var kmlFile = server_root + "Ait-Iggelt-mo.kml" + url_end;
+				
+			var map = new GMap2(document.getElementById("map"));
+			// Add controls
+			map.addControl(new GLargeMapControl());
+			map.addControl(new GMapTypeControl());
+			geoxml = new GGeoXml(kmlFile);
+			map.addOverlay(geoxml);
+				
+			
+			
+			// Default zoom level
+			var zl = 10;
+			map.setCenter(new GLatLng(30.60,-7.90),zl);
+			
+			
+		}
+
+		window.onload = showMap;
+	
+	</script>
+
+
+
+  </head>
+
+  <body>
+  
+  	<h1>Element Commodities</h1>
+
+<h2>Moroccan Concessions Summary Sheet</h2>
+<h3>Name -  Ait Iggelt </h3>
+</p>
+<h3>Concession number - 2338310</h3>
+</p>
+<h3>Concession size</h3>
+ <ol>
+<li>4 km (North / South)</li>
+<li>4 km (East / West)</li>
+<li>Total area = 16 sq km</li>
+</ol>
+<p>&nbsp</p>
+<h3>Mineralisation</h3> 
+<ol>
+<li>Manganese</li>
+<li>Lead and Barite (minor)</li>
+</ol>
+<p>&nbsp</p>
+ <h3>Location</h3>
+<p></p>
+<ol>
+<li>
+<id="view-gm"><a href="http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;q=http://www.contaminatedland.co.uk/maps/Ait-Iggelt-mo.kml&amp;ie=UTF8&amp;ll=30.632,-7.90596&amp;spn=0.004931,0.014591&amp;z=10&amp;om=1" TARGET="_blank"> in Google (Maps / Satellite / Earth)</a></id></li>
+<li>Topographical Map name - Taliwine (1: 100,000)</li>
+<li>Coordinates for Concession No 2338310</li>
+
+<ol type="a">
+ <li>Lambert  Maroc Sud  (X) : (Y) = 260058.62 : 406742.00 / 260058.62 : 402742.00 / 256058.62 : 402742.00 / 256058.62 : 406742.00</li>
+ <li>Latitude (North) : Longitude (West) = 30.639830 : 7.903748 / 30.603746 : 7.902844 / 30.602959 : 7.944555 / 30.639042 : 7.945473</li>
+
+</ol>
+</ol>
+<p>&nbsp</p>
+<h3>Reports provided by the ONHYM</h3>
+<ul>
+<li>Notes + M Serv geol Maroc no 276 (1)  Chapitre 3, p 122-124, Manganese,, 1980,  <i>G. Pouit</i> </li>
+</ul>
+<p>&nbsp</p>
+<h3>Current Status of area</h3>
+<ul> 
+<li>Mined out / abandoned</li> 
+</ul>
+<p>&nbsp</p>
+<h3>Reconnaisance</h3>
+<ol>
+<li>Date visited  - 26th October 2011 <i>Paul Barty, Gerry Vega, and Zardane Abdul Aziz</i></li>
+<li>Ranking - [11 /30]</li>	
+<ol type="a">
+<li>Open-pit potential  (5 / 10)</li> 
+<li>Mineralisation  (4 / 10)</li> 
+<li>Road Access  (2 / 10)</li>
+</ol>
+</ol>
+<p>&nbsp</p>
+<h3>Detailed Follow-up</h3>
+<ol>
+<li>Date visited  - February to May 2012 <i>Paul Barty / Gerry Vega, and Said Kabba</i></li>
+<li>Ground truthing data seen in ONHYM reports</li>
+<li>Field mapping to search for extentions to mineralisation</li>
+<li>Assessing current geological model (Mn mineralisation at boundary of unconformity with andesites)</li> 
+</ol>
+<p>&nbsp</p>
+<h3>Future Work Planned</h3>	
+<ul>
+<li>None - as access very challenging via steep mountain track with rock-fall debris on approach road</li>
+</ul>
+<p>&nbsp</p>
+<h3> ONHYM  summary of Manganese potential (2011)</h3>
+
+<p>The deposit of Ait Iggelt is located in the SW of the Sirwa massif, lying a dozen miles north of Taliwine. </p>
+
+<p>Geologically speaking the deposit lies in Precambrian terrain (PIII), consisting of conglomerates, tuffs and andesites at its base. These are overlain by a volcano-sedimentary complex composed of volcanics (andesites, breccias, tuffs and rhyolites) at the bottom, and by two levels of detrital conglomerates and sandstones above, these sedimentary beds themselves sandwich a bed of olivine andesites.</p>
+ 
+<p>The principal mineralisation is stratiform, located a few metres below the roof of the olivine andesites. The manganese occurs in the form of numerous small beds 10 to 20 cm thick. These beds appear to occur where there are intercalations of pelites or cement within the conglomerate.</p>
+ 
+<p>In addition to this mineralisation, there are many veins of manganese located below the andesite at the nodes of NE trending faults and associated EW fractures. They have a maximum thickness of around 50 cm however their extension at depth is poor. This indicates a gradual transition from vein-type hydrothermal mineralization at depth to the stratiform bodies found nearer to the surface.</p>
+ 
+<p>The manganese mineralization consists primarily of braunite, psilomelane and hausmannite with a gangue of quartz, barite and calcite.</p>
+ 
+<p>Artisanal miners produced 650 tonnes in 1962 at the Ait lggelt deposit, and there may still be a few extra  thousand tonnes or so present, based on the spatial connection between manganese mineralization and the large volumes of olivine andesites seen at the deposit. In addition, the geological environment of the deposit appears favourable for copper as well as for manganese, as a similar geological sequence (limestones and siltstones overlying the Precambrian PIII) is known to exist at the copper showings observed at Tizi N'Oukissane.</p>
+
+<p>&nbsp</p>
+<h3>ONHYM  summary of Manganese resource and grade</h3> 
+<ol>
+<li>Manganese - 45%</li> 
+<li>Silica - 8.4%</li>
+<li>Past production - 650 tonnes</li>
+<li>Historical resource - no details</li>
+</ol>
+	
+<p>&nbsp</p>
+
+<a href="http://www.contaminatedland.co.uk/maps/summary-sheets.htm" TARGET="_blank">Copyright Layla Resources Ltd &copy; 2012</a>
+<p>&nbsp</p>
+
+	<div id="map"></div>
+  	
+  </body>
+</html>
+

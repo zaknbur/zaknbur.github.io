@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<META NAME="robots" CONTENT="noindex">
+  <head>
+
+<!-- updated 12th Jan 2014 by Micky Allen-->
+ 
+  	<title>Element Commodities</title>
+
+<!-- updated 9th Jul 2012 by Micky Allen-->
+
+  	<style type="text/css">
+		#map { width:500px; height:500px;}
+		body { font-family:"Trebuchet MS", verdana,arial,sans-serif; 
+				font-size:100%;
+				}
+				
+		ul { list-style-type:none;
+		}
+		
+		ul li a { margin-left:30px;}
+		
+		#view-gm { background-image:url(google.gif); background-repeat:no-repeat;
+		}
+		
+		#download-kml {background-image:url(kml.png); background-repeat:no-repeat;
+		}
+		
+		#map div { font-weight:bold;}
+		#map #iwsw p { font-weight:normal !important;}
+	
+		
+		
+	</style>
+  
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+	<script type="text/javascript">
+		function showMap() {
+			
+			var geocoder = new GClientGeocoder();
+			geocoder.setCache=null;
+	
+			// Google Maps caches KML files -- use a random query string parameter set to Date.
+			var url_end = "?nocache=" + (new Date()).valueOf();
+			var server_root = "http://www.contaminatedland.co.uk/maps/";
+			var kmlFile = server_root + "Guercif-concessions-mo-1.kml" + url_end;
+				
+			var map = new GMap2(document.getElementById("map"));
+			// Add controls
+			map.addControl(new GLargeMapControl());
+			map.addControl(new GMapTypeControl());
+			geoxml = new GGeoXml(kmlFile);
+			map.addOverlay(geoxml);
+				
+			
+			
+			// Default zoom level
+			var zl = 10;
+			map.setCenter(new GLatLng(34.40,-2.56),zl);
+			
+			
+		}
+
+		window.onload = showMap;
+	
+	</script>
+
+
+
+  </head>
+
+  <body>
+  
+  	<h1>Element Commodities</h1>
+
+
+<h2>Moroccan Concessions Summary Sheet</h2>
+<h3>Name - Tanouralt</h3>
+</p>
+<h3>Concession numbers -  2238174, 2238175</h3>
+</p>
+<h3>Concession size</h3>
+ <ol>
+<li>4 km (North / South)</li>
+<li>4 km (East / West)</li>
+<li>Total area = 2 x 16 sq km</li>
+</ol>
+<p>&nbsp</p>
+<h3>Mineralisation</h3>
+<ol>
+<li>Manganese</li>
+<li>Lead and Barite (minor)</li>
+</ol>
+<p>&nbsp</p>
+
+ <h3>Location</h3>
+<p></p>
+<ol>
+<li>
+
+ 
+ 
+<id="view-gm"><a href="http://maps.google.co.uk/maps?f=q&amp;hl=en&amp;q=http://www.contaminatedland.co.uk/maps/Guercif-concessions-mo-1.kml&amp;ie=UTF8&amp;ll=34.363,-2.556&amp;spn=0.004931,0.014591&amp;z=12&amp;om=1" TARGET="_blank"> in Google (Maps / Satellite / Earth)</a></id></li>
+
+<li>Topographical Map name - Taourirt  (1:100,000)</li>
+  
+<li>Coordinates for Concession No 2238174</li>
+<ol type="a">
+ <li>Lambert Maroc Nord  (X) : (Y) =761604.50 : 425800.00 / 761604.50 : 421800.00 / 757604.50 : 421800.00 / 757604.50 : 425800.00</li>
+ <li>Latitude (North) : Longitude (West) = 34.402383 : 2.554039 / 34.366328 : 2.555225 / 34.367304 : 2.598701 / 34.403359 : 2.597533</li>
+</ol>
+
+ <li>Coordinates for Concession No 2238175</li>
+<ol type="a">
+ <li>Lambert Maroc Nord  (X) : (Y) = 757704.50 : 426700.00 / 757704.50 : 422700.00 / 753704.50 : 422700.00 / 753704.50 : 426700.00</li>
+ <li>Latitude (North) : Longitude (West) = 34.411447 : 2.596183 / 34.375393 : 2.597351 / 34.376353 : 2.640833 / 34.412408 : 2.639683</li>
+</ol>
+ 
+</ol>
+
+<p>&nbsp</p>
+<h3>Reports provided by the ONHYM</h3>
+<ol>
+
+
+<li>Geologie des gites et indices de manganese dans le Maroc oriental (pays des Horsts), Notes Serv geol Maroc t 27 no 198, 1966 <i>Ch Bauchau, G Jouravsky, G Pouit, J-P Snoep</i></li> 
+
+<li> SAGEM - Les Gisements de Manganese de la region de Taourirt-El Aioun (Maroc Oriental) , 1977 <i>Abdellatif Belmezouar, ref 630032</i> </li>  
+
+<li>Notes + M Serv geol Maroc no 276 (1)  Chapitre 3, p 122-124, Manganese, 1980,  <i>G. Pouit</i></li> 
+
+<li>V/O Technoexport - Resultats de l'etude geologique et recommandation sur l'orientation des travaux de rechercheres sur les possibilities en Manganese du Maroc, 1977, r 5-18, <i>V. Rakhmanov,  V. Chenguelia</i></li>  
+
+
+<li> Stratigraphie detaille et Mineralisation de la Serie Permo-Triasique de la mine de Manganese de Tanourat, 1959 <i>G. Jourarsky</i>
+
+<li>Notes sur les Gites de Manganese du Maroc N.E., 1960 <i>B.R.P.M</i></li>
+
+</ol>
+<p>&nbsp</p>
+<h3>Current Status of area</h3>
+<ul> 
+<li>Mined out / abandoned</li> 
+</ul>
+<p>&nbsp</p>
+<h3>Reconnaisance</h3>
+<ol>
+<li>Date visited  - 29th October 2011 <i>Paul Barty, Gerry Vega and Zardane Abdul Aziz</i></li>
+<li>Ranking - [10 /30]</li>	
+<ol type="a">
+<li>Open-pit potential  (3 / 10)</li> 
+<li>Mineralisation  (3 / 10)</li> 
+<li>Road Access  (4 / 10)</li>
+
+</ol>
+ 
+</ol>
+</ol>
+<p>&nbsp</p>
+<h3>Future Work Planned</h3>
+<ol> 				
+<li>Ground truthing data seen in ONHYM reports</li>
+<li>Field mapping to search for extentions to mineralisation</li>
+<li>Assessing geological model</li> 
+</ol>
+<p>&nbsp</p> 
+<h3> ONHYM  summary of Manganese potential (2011)</h3>
+ <ul>
+<p> 
+ The Tanncherfi inlier is located 60 km to the east of the town of Taourirt. It contains several showings and deposits of manganese at Tanouralt and Boukouali.
+</p>  
+<p>
+<ol type="a">
+<li>
+Two types of mineralization are present:
+</li><li>
+ veins of manganese mineralization at the base of the Triassic, 
+</li><li>
+ stratiform beds, hosted within the clay and red sandstone of the upper Trias and the upper Triassic basalts. 
+</li>
+</ol> 
+<p></p>
+A gradual transition between these two types of mineralisation was identified at the occurence at Boukouali. 
+</p>  
+<p> 
+The stratiform mineralization consists of manganite which has suffered some alteration to pyrolusite. In contrast the vein mineralization consists of psilomelane, hausmannite and braunite.
+</p>  
+<p>   
+The old mines in this region operated during the 1960's and produced about 50,000 tonnes of ore grading at 48% Mn. As the mineralised layers were only 10 to 15 cm thick, their exploitation was only possible by the use of artisinal mining methods which have now exhausted the small deposits. The possibility of increasing the resource associated with these worked-out deposits appears to be somewhat limited.
+</p>
+ 
+
+
+</ul>
+
+<p>&nbsp</p>
+<h3>ONHYM summary of Manganese resource and grade</h3> 
+<ol>
+<li>Manganese : 48%</li>  
+<li>Silica : 2.75%</li>
+<li>Historical resource - 28,000 tonnes</li>
+</ol>
+	  
+<p>&nbsp</p>
+
+<a href="http://www.contaminatedland.co.uk/maps/summary-sheets.htm" TARGET="_blank">Copyright Layla Resources Ltd &copy; 2012</a>
+<p>&nbsp</p>
+
+	<div id="map"></div>
+  	
+  </body>
+</html>
+
