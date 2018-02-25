@@ -1,3 +1,4 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"> 
 	<head> 
@@ -48,10 +49,12 @@
 		
 		<script type="text/javascript"> 
 			// If you put this map on another Web site, you must include your API key or nothing will work!
-			var google_api_key = 'AIzaSyCJ2KM9fPuRBp5MhDYMMQ8vgF8bU4VyXawABQIAAAAuey2CRqb227kWuKDottOLhT6HxjwXkuRDtLCWmtMlQ5JUEMZlxQHsNyH1CfpyiCWLY-HMLNMZvgs5w';
-			if (window.location.host == 'www.gpsvisualizer.com') { google_api_key = 'ABQIAAAAaG9JDbCe6Ra1Og0hKCn2LRRokW_ItEImBo7ewbVEJAzstSsRWhRJ3RMDAWpL55QacGZ2zQF2kLC_eA'; }
-			document.writeln('<script src="http://maps.google.com/maps?file=api&v=2&sensor=false&key='+google_api_key+'" type="text/javascript"><'+'/'+'script>');
-		</script> 
+
+
+var google_api_key = 'AIzaSyCJ2KM9fPuRBp5MhDYMMQ8vgF8bU4VyXawABQIAAAAuey2CRqb227kWuKDottOLhT6HxjwXkuRDtLCWmtMlQ5JUEMZlxQHsNyH1CfpyiCWLY'; // Your project's Google Maps API key
+document.writeln('<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?v=3&libraries=geometry&sensor=false'+((self.google_api_key&&document.location.toString().indexOf('file://')!=0)?'&key='+google_api_key:'')+'"><'+'/script>');
+
+</script> 
 		<!-- end Google Maps script; begin GPS Visualizer setup script (they must be separate) --> 
 		<script type="text/javascript"> 
 			/* Global variables used by the GPS Visualizer functions (1280094766): */
@@ -141,7 +144,7 @@
 				
 			
 			// Load GPS Visualizer's Google Maps functions (this must be loaded AFTER gv_options are set):
-			document.writeln('<script src="http://maps.gpsvisualizer.com/google_maps/functions.js?1280094766" type="text/javascript"><'+'/'+'script>');
+			document.writeln('<script src="http://maps.gpsvisualizer.com/google_maps/functions3.js?1280094766" type="text/javascript"><'+'/'+'script>');
 		</script> 
 		
 		<style type="text/css"> 
