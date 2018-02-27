@@ -1,5 +1,8 @@
 
+{
 
+  "type": "FeatureCollection",
+  "features": [
  {
       "type": "Feature",
       "geometry": {  "type": "Polygon",
@@ -295,4 +298,13 @@
     "commodity": "Manganese",
     "reference": "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
    }
-},
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Concession Area": "Central"
+      }
+    }  
+  ]
+}
