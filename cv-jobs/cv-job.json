@@ -706,7 +706,7 @@
 		"icon" : "au-a.svg",
                    "country":"Ghana",
                  "location":"Bonte",
-                "employer" : " Layla Resources ",
+                "employer" : " Gilban Ltd ",
                 "work":"Project Assessment of ",   
                 "commodity":"Gold"
       },
@@ -1026,303 +1026,517 @@
     },
 
 {
-
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-             [ 2.554039 	,34.402383 ],
-            [ 2.585059 	,34.366328 ],
-            [ 2.598701 	,34.367304 ],
-            [ 2.597533	,34.403359 ],
-            [ 2.554039 	,34.402383 ] 
-
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Tanouralt ",
-    "employer": " Element Commodities",
-    "work": "Grassroots exploration  in Concession 2238174 for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"   }
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-2.552437,
+34.399673
+],
+[
+-2.553624,
+34.363621
+],
+[
+-2.5971,
+34.364597
+],
+[
+-2.595931,
+34.40065
+],
+[
+-2.552437,
+34.399673
+]
+]
+]
 },
- {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-             [ 2.596183 	,34.411447 ],
-            [ 2.597351 	,34.375393 ],
-            [ 2.640833 	,34.376353 ],
-            [ 2.639683	,34.412408 ],
-            [ 2.596183 	,34.411447 ] 
-
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Tanouralt ",
-    "employer": " Element Commodities",
-    "work": "Grassroots exploration  in Concession 2238175 for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"   }
-},
-
-
- {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-            [ 1.951176 	,34.566825 ],
-            [ 1.952616 	,34.530780 ],
-            [ 1.996168 	,34.531964 ],
-            [ 1.994746	,34.568009 ],
-            [ 1.951176 	,34.566825 ] 
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Jbel Metsila",
-    "employer": " element Commodities",
-    "work": "Grassroots exploration  in Concession 220471 for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Jbel-Metsila-concession-info.htm"   }
-},
-{
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-             [ 2.583887 	,34.355913 ],
-            [ 2.585059 	,34.319858 ],
-            [ 2.628513 	,34.320824 ],
-            [ 2.627358    	,34.356879 ],
-            [ 2.583887 	,34.355913 ] 
-
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Boukouali ",
-    "employer": " Element Commodities",
-    "work": "Grassroots exploration  in Concession 2238176  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Boukouali-concession-info.htm"   }
-},
-{
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-              [ 2.344996 	,34.498483 ],
-            [ 2.346271 	,34.4624325 ],
-            [ 2.389793 	,34.463480 ],
-            [ 2.388537    	,34.499531 ],
-            [ 2.344996 	,34.498483 ] 
-
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Bourdine ",
-    "employer": " Element Commodities",
-    "work": "Grassroots exploration  in Concession 220459  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Bourdine-concession-info.htm"   }
-},
-    {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-            [ -8.017145 	,30.755521 ],
-            [ -8.016200 	,30.719441 ],
-            [ -8.057958 	,30.718618 ],
-            [ -8.058918	,30.754698 ],
-            [ -8.017145 	,30.755521 ] 
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Aoufour",
-    "employer": " element Commodities",
-    "work": "Grassroots exploration  in Concession 2339129  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Aoufour-concession-info.htm"   }
-},
-    {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-            [ -7.903748 	,30.639830 ],
-            [ -7.902844 	,30.603746 ],
-            [ -7.944555 	,30.602959 ],
-            [ -7.945473	,30.639042 ],
-            [ -7.903748 	,30.639830 ] 
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Ait Iggelt",
-    "employer": " Element Commodities",
-    "work": "Grassroots exploration  in Concession 2338310  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Ait-Iggelt-concession-info.htm"}
-    },
-
-    {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-            [ -8.142018  	,30.736813  ],
-            [ -8.141027  	,30.700733  ],
-            [ -8.182777  	,30.699871  ],
-            [ -8.183783  	,30.735951  ],
-            [ -8.142018  	,30.736813  ] 
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Tasdremt ",
-    "employer": " Element Commodities",
-    "work": "Grassroots exploration  in Concession 2339124  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
-},
-    {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-            [ -8.100886  	,30.761078  ],
-            [ -8.099911  	,30.724998  ],
-            [ -8.141670	,30.724149  ],
-            [ -8.142661	,30.760229  ],
-            [ -8.100886  	,30.761078  ] 
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Tasdremt ",
-    "employer": " element Commodities",
-    "work": "Grassroots exploration  in Concession 2339125  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
-},
-    {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-            [ -8.099911 	,30.724998  ],
-            [ -8.098936 	,30.688918  ],
-            [ -8.140681 	,30.688069  ],
-            [ -8.141670 	,30.724149  ],
-            [ -8.099911 	,30.724998  ] 
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Tasdremt ",
-    "employer": " Element Commodities",
-    "work": "Grassroots exploration  in Concession 2339126  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
-},
-    {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-            [ -8.059206  	,30.765522  ],
-            [ -8.058246  	,30.729442  ],
-            [ -8.100008  	,30.728606  ],
-            [ -8.100984  	,30.764686  ],
-            [ -8.059206  	,30.765522  ] 
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Tasdremt ",
-    "employer": " Element Commodities",
-    "work": "Grassroots exploration  in Concession 2339127  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
-},
-    {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-            [  -8.058246  	,30.729442  ],
-            [ -8.057286  	,30.693362  ],
-            [ -8.099033  	,30.692526  ],
-            [ -8.100008  	,30.728606  ],
-            [ -8.058246  	,30.729442  ] 
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Tasdremt ",
-    "employer": " element Commodities",
-    "work": "Grassroots exploration  in Concession 2339128  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
-},
-
-    {
-      "type": "Feature",
-      "geometry": {  "type": "Polygon",
-        "coordinates": [
-          [
-            [ -8.017145  	,30.755521  ],
-            [ -8.016200  	,30.719441  ],
-            [ -8.057958  	,30.718618  ],
-            [ -8.058918  	,30.754698 ],
-            [ -8.017145  	,30.755521 ] 
-          ]
-        ]
-      },
-      "properties":    {
-    "icon": "mn-a.svg",
-    "country": "Morocco",
-    "location": "Aoufour",
-    "employer": " Element Commodities",
-    "work": "Grassroots exploration  in Concession 2339129  for",
-    "commodity": "Manganese",
-    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
-   }
-    } 
-  ]
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Tanouralt ",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2238174 for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"
 }
-
-
-
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-2.596183,
+34.411447
+],
+[
+-2.597351,
+34.375393
+],
+[
+-2.640833,
+34.376353
+],
+[
+-2.639683,
+34.412408
+],
+[
+-2.596183,
+34.411447
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Tanouralt ",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2238175 for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-1.951176,
+34.566825
+],
+[
+-1.952616,
+34.53078
+],
+[
+-1.996168,
+34.531964
+],
+[
+-1.994746,
+34.568009
+],
+[
+-1.951176,
+34.566825
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Jbel Metsila",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 220471 for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Jbel-Metsila-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-2.583887,
+34.355913
+],
+[
+-2.585059,
+34.319858
+],
+[
+-2.628513,
+34.320824
+],
+[
+-2.627358,
+34.356879
+],
+[
+-2.583887,
+34.355913
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Boukouali ",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2238176  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Boukouali-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-2.344996,
+34.498483
+],
+[
+-2.346271,
+34.4624325
+],
+[
+-2.389793,
+34.46348
+],
+[
+-2.388537,
+34.499531
+],
+[
+-2.344996,
+34.498483
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Bourdine ",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 220459  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Bourdine-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-8.017145,
+30.755521
+],
+[
+-8.0162,
+30.719441
+],
+[
+-8.057958,
+30.718618
+],
+[
+-8.058918,
+30.754698
+],
+[
+-8.017145,
+30.755521
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Aoufour",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2339129  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Aoufour-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-7.903748,
+30.63983
+],
+[
+-7.902844,
+30.603746
+],
+[
+-7.944555,
+30.602959
+],
+[
+-7.945473,
+30.639042
+],
+[
+-7.903748,
+30.63983
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Ait Iggelt",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2338310  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Ait-Iggelt-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-8.142018,
+30.736813
+],
+[
+-8.141027,
+30.700733
+],
+[
+-8.182777,
+30.699871
+],
+[
+-8.183783,
+30.735951
+],
+[
+-8.142018,
+30.736813
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Tasdremt ",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2339124  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-8.100886,
+30.761078
+],
+[
+-8.099911,
+30.724998
+],
+[
+-8.14167,
+30.724149
+],
+[
+-8.142661,
+30.760229
+],
+[
+-8.100886,
+30.761078
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Tasdremt ",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2339125  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-8.099911,
+30.724998
+],
+[
+-8.098936,
+30.688918
+],
+[
+-8.140681,
+30.688069
+],
+[
+-8.14167,
+30.724149
+],
+[
+-8.099911,
+30.724998
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Tasdremt ",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2339126  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-8.059206,
+30.765522
+],
+[
+-8.058246,
+30.729442
+],
+[
+-8.100008,
+30.728606
+],
+[
+-8.100984,
+30.764686
+],
+[
+-8.059206,
+30.765522
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Tasdremt ",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2339127  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-8.058246,
+30.729442
+],
+[
+-8.057286,
+30.693362
+],
+[
+-8.099033,
+30.692526
+],
+[
+-8.100008,
+30.728606
+],
+[
+-8.058246,
+30.729442
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Tasdremt ",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2339128  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
+}
+},
+{
+type: "Feature",
+geometry: {
+type: "Polygon",
+coordinates: [
+[
+[
+-8.017145,
+30.755521
+],
+[
+-8.0162,
+30.719441
+],
+[
+-8.057958,
+30.718618
+],
+[
+-8.058918,
+30.754698
+],
+[
+-8.017145,
+30.755521
+]
+]
+]
+},
+properties: {
+icon: "au.svg",
+country: "Morocco",
+location: "Aoufour",
+employer: " element Commodities",
+work: "Grassroots exploration  in Concession 2339129  for",
+commodity: "Manganese",
+reference: "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
+}
+},
+{
+type: "Feature",
+properties: {
+Concession Area: "Central"
+}
+}
+]
+} 
