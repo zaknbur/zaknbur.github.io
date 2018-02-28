@@ -751,7 +751,7 @@
       "properties": {
 		"icon" : "mn-a.svg",  
                    "country":"Morocco",
-                 "location":"Tasdremt",
+                 "location":"Southwest",
                 "employer" : " Element Commodities ",
                 "work":"Exploration at ",   
                 "commodity":"Manganese"
@@ -759,6 +759,23 @@
      "geometry": {
        "type":"Point",
        "coordinates": [	-8.1690, 30.6646]  
+      }
+  },
+	  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "mn-a.svg",  
+                   "country":"Morocco",
+                 "location":"Northeast",
+                "employer" : " Element Commodities ",
+                "work":"Exploration at ",   
+                "commodity":"Manganese"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-2.597100 ,34.364597]  
+	     
+	      
       }
   },
 {
@@ -800,7 +817,7 @@
 		"icon" : "col-a.svg",  
                    "country":"Somaliland",
                  "location":"Hargesa",
-                "employer" : " Layla Reources",
+                "employer" : " Layla Resources",
                 "work":"Project Assessment near ",   
                 "commodity":"Coltan"
       },
@@ -1069,7 +1086,7 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2238175 for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"   }
+    "reference": "www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"   }
 },
 
 
@@ -1116,7 +1133,7 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2238176  for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Boukouali-concession-info.htm"   }
+    "reference": "www.contaminatedland.co.uk/maps/Boukouali-concession-info.htm"   }
 },
 {
       "type": "Feature",
@@ -1139,7 +1156,7 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 220459  for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Bourdine-concession-info.htm"   }
+    "reference": "www.contaminatedland.co.uk/maps/Bourdine-concession-info.htm"   }
 },
     {
       "type": "Feature",
@@ -1183,7 +1200,7 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2338310  for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Ait-Iggelt-concession-info.htm"}
+    "reference": "www.contaminatedland.co.uk/maps/Ait-Iggelt-concession-info.htm"}
     },
 
     {
@@ -1206,7 +1223,7 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339124  for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
+    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
     {
       "type": "Feature",
@@ -1250,7 +1267,7 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339126  for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
+    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
     {
       "type": "Feature",
@@ -1272,7 +1289,7 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339127  for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
+    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
     {
       "type": "Feature",
@@ -1294,7 +1311,7 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339128  for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
+    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
 
     {
@@ -1317,7 +1334,7 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339129  for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
+    "reference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
    }
     },
 
