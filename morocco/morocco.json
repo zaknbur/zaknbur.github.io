@@ -1,6 +1,4 @@
-
 {
-
   "type": "FeatureCollection",
   "features": [
  {
@@ -161,9 +159,9 @@
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2338310  for",
     "commodity": "Manganese",
-    "reference": "http://www.contaminatedland.co.uk/maps/Ait-Iggelt-concession-info.htm
-"   }
-},
+    "reference": "http://www.contaminatedland.co.uk/maps/Ait-Iggelt-concession-info.htm"}
+    },
+
     {
       "type": "Feature",
       "geometry": {  "type": "Polygon",
@@ -186,7 +184,6 @@
     "commodity": "Manganese",
     "reference": "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
-
     {
       "type": "Feature",
       "geometry": {  "type": "Polygon",
