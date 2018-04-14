@@ -14,16 +14,6 @@
         height: 100%;
       }
 
-      #geolmap {
-        background-color: white;
-        border: 1px solid red;
-        bottom: 10px;
-        height: 20px;
-        padding: 5px;
-        position: absolute;
-        left: 60px;
-  	opacity: 0.6;
-      }
 
     </style> 
   </head>
@@ -51,12 +41,6 @@
             'birin-gwari.png',
             imageBounds);
         historicalOverlay.setMap(map);
-        let marker = new google.maps.Marker({
-          position: kusheriki,
-          map: map,
-          title: 'Birin Gwari (Kusheriki geology)'
-        });
-
       }
     </script>
 
