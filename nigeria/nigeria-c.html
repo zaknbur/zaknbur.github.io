@@ -33,21 +33,20 @@
     <div id="map"></div>
  
     <script>
-//
+
       // This example uses the Google Maps JavaScript API's Data layer
       // to create a rectangular polygon with 2 holes in it.
 
       function initMap() {
         let map = new google.maps.Map(document.getElementById('map'), {
           zoom: 12,
-          center: kusheriki,
-          mapTypeId: 'terrain'
+          center: {lat: 10.75, lng: 6.65},
         });
 
 
 
         // Define the LatLng coordinates for 1st concession.
-        var concession1 = [
+        let concession1 = [
           {lat: 10.78750000, lng: 6.60833333},
           {lat: 10.83333333, lng: 6.60833333},
           {lat: 10.83333333, lng: 6.68333333},
@@ -55,7 +54,7 @@
         ];
 
         // Define the LatLng coordinates for 2nd concession.
-        var concession2 = [
+        let concession2 = [
           {lat: 10.8330000, lng: 6.633333},
           {lat: 10.89583333, lng: 6.633333},
           {lat: 10.89583333, lng: 6.6583333},
