@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Data Layer: Polygon</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+
+      // This example uses the Google Maps JavaScript API's Data layer
+      // to create a rectangular polygon with 2 holes in it.
+
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 6,
+          center: {lat: 10.5, lng: 6.6},
+        });
+
+        // Define the LatLng coordinates for the outer path.
+        var concession1 = [
+          {lat: 10.78750000, lng: 6.60833333},
+          {lat: 10.83333333, lng: 6.60833333},
+          {lat: 10.83333333, lng: 6.68333333},
+          {lat: 10.78750000, lng: 6.68333333}
+        ];
+
+        // Define the LatLng coordinates for 2nd concession.
+        var concession2 = [
+          {lat: 10.8330000, lng: 6.633333},
+          {lat: 10.89583333, lng: 6.633333},
+          {lat: 10.89583333, lng: 6.6583333},
+          {lat: 10.8330000, lng: 6.6583333}
+        ];
+
+        map.data.add({geometry: new google.maps.Data.Polygon([innerCoords1,
+                                                              innerCoords2])})
+      }
+    </script>
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
+  </body>
+</html>
