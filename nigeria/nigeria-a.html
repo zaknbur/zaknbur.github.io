@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nigerian Gold</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+
+      #geolmap {
+        background-color: white;
+        border: 1px solid red;
+        bottom: 10px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 60px;
+  	opacity: 0.6;
+      }
+
+    </style> 
+  </head>
+  <body>
+
+    
+    <div id="map"></div>
+ 
+    <script>
+//
+      // This example uses the Google Maps JavaScript API's Data layer
+      // to create a rectangular polygon with 2 holes in it.
+
+      function initMap() {
+        let map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: kusheriki,
+          mapTypeId: 'terrain'
+        });
+
+
+
+        // Define the LatLng coordinates for 1st concession.
+        var concession1 = [
+          {lat: 10.78750000, lng: 6.60833333},
+          {lat: 10.83333333, lng: 6.60833333},
+          {lat: 10.83333333, lng: 6.68333333},
+          {lat: 10.78750000, lng: 6.68333333}
+        ];
+
+        // Define the LatLng coordinates for 2nd concession.
+        var concession2 = [
+          {lat: 10.8330000, lng: 6.633333},
+          {lat: 10.89583333, lng: 6.633333},
+          {lat: 10.89583333, lng: 6.6583333},
+          {lat: 10.8330000, lng: 6.6583333}
+        ];
+
+        map.data.add({geometry: new google.maps.Data.Polygon([concession1,
+                                                              concession2])})
+      }
+    </script>
+
+
+<script>
+
+      let geolmap;
+      function initMap() {
+        let kusheriki = {lat: 10.50, lng: 6.63};
+
+        let imageBounds = {
+          north: 11,
+          south: 10.75,
+          east: 6.75,
+          west: 6.5
+        };
+        geolmap = new google.maps.GroundOverlay(
+            'birin-gwari.png',
+            imageBounds);
+        geolmap.setMap(map);
+        let marker = new google.maps.Marker({
+          position: kusheriki,
+          map: map,
+          title: 'Birin Gwari (Kusheriki geology)'
+        });
+
+      }
+    </script>
+
+
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
+  </body>
+</html>
+
+
+
