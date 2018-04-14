@@ -47,6 +47,15 @@
             'birin-gwari.png',
             imageBounds);
         historicalOverlay.setMap(map);
+
+        let marker = new google.maps.Marker({
+          position: kusheriki,
+          map: map,
+          title: 'Birin Gwari (Kusheriki geology sheet 31, bull 29)'
+        });
+        marker.addListener('click', function() {
+          infowindow.open(map, marker);
+        });
       }
     </script>
     <script async defer
@@ -54,6 +63,3 @@
     </script>
   </body>
 </html>
-
-
-
