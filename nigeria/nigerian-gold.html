@@ -13,26 +13,7 @@
       #map {
         height: 100%;
       }
-      #info-box {
-        background-color: white;
-        border: 1px solid black;
-        bottom: 70px;
-        height: 20px;
-        padding: 5px;
-        position: absolute;
-        left: 20px;
-  	opacity: 0.6;
-     }
-      #fieldview {
-        background-color: white;
-        border: 1px solid blue;
-        bottom: 40px;
-        height: 20px;
-        padding: 5px;
-        position: absolute;
-        left: 40px;
-  	opacity: 0.6;
-      }
+
       #geolmap {
         background-color: white;
         border: 1px solid red;
@@ -58,17 +39,9 @@
     </style> 
   </head>
   <body>
- <center><b style="font-size:20px"><a href="http://geo.ngu.no/kart/mineralressurser/?Box=114117:6597635:158956:6645539" target="_blank">Norwegian - Concessions (NGU website)</a></b> </center> 
+
     
     <div id="map"></div>
-    <div id="info-box">location details</div>
-    <div id="fieldview">data sheets</div>
-    <div id="geolmap">concession geology map</div>
-    <div id="text"><center><b style="font-size:12px">
-<a href="/bomlo-250-metals.png" target="_blank">[250k Geology of Bomlo]</a> - <a href="/namaskogan-250-metals.png" target="_blank">[250k Geology of Lillefjeld]</a> - <a href="/seljord-250-metals.png" target="_blank">[250k Geology of Bleka]</a> - <a href="/tordal-250-industrials.png" target="_blank">[250k Geology of Tordal]</a></center>
-<center><b style="font-size:12px"><br/>
-<a href="/bomlo-metals-50.png" target="_blank">[50k Geology of Bomlo]</a> - <a href="/namaskogan-50-metals.png" target="_blank">[50k Geology of Lillefjeld]</a> - <a href="/seljord-50-metals.png" target="_blank">[50k Geology of Bleka]</a> - <a href="/tordal-250-metals.png" target="_blank">[250k Metals of Tordal]</a></center></div>
-
  
     <script>
 
@@ -105,9 +78,7 @@
           map: map,
           title: 'Birin Gwari (Kusheriki geology)'
         });
-        marker.addListener('click', function() {
-          infowindow.open(map, marker);
-        });
+
       }
     </script>
 
