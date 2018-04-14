@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nigerian Gold</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+      #info-box {
+        background-color: white;
+        border: 1px solid black;
+        bottom: 70px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 20px;
+  	opacity: 0.6;
+     }
+      #fieldview {
+        background-color: white;
+        border: 1px solid blue;
+        bottom: 40px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 40px;
+  	opacity: 0.6;
+      }
+      #geolmap {
+        background-color: white;
+        border: 1px solid red;
+        bottom: 10px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 60px;
+  	opacity: 0.6;
+      }
+      #text {
+        background-color: #ffffff;
+        border: 1px solid red;
+        top: 45px;
+        height: 25px;
+        padding: 1px;
+        position: absolute;
+        left: 15%;
+  	opacity: 0.75;
+  	filter: alpha(opacity=60); /* For IE8 and earlier */
+  
+      }
+    </style> 
+  </head>
+  <body>
+ <center><b style="font-size:20px"><a href="http://geo.ngu.no/kart/mineralressurser/?Box=114117:6597635:158956:6645539" target="_blank">Norwegian - Concessions (NGU website)</a></b> </center> 
+    
+    <div id="map"></div>
+    <div id="info-box">location details</div>
+    <div id="fieldview">data sheets</div>
+    <div id="geolmap">concession geology map</div>
+    <div id="text"><center><b style="font-size:12px">
+<a href="/bomlo-250-metals.png" target="_blank">[250k Geology of Bomlo]</a> - <a href="/namaskogan-250-metals.png" target="_blank">[250k Geology of Lillefjeld]</a> - <a href="/seljord-250-metals.png" target="_blank">[250k Geology of Bleka]</a> - <a href="/tordal-250-industrials.png" target="_blank">[250k Geology of Tordal]</a></center>
+<center><b style="font-size:12px"><br/>
+<a href="/bomlo-metals-50.png" target="_blank">[50k Geology of Bomlo]</a> - <a href="/namaskogan-50-metals.png" target="_blank">[50k Geology of Lillefjeld]</a> - <a href="/seljord-50-metals.png" target="_blank">[50k Geology of Bleka]</a> - <a href="/tordal-250-metals.png" target="_blank">[250k Metals of Tordal]</a></center></div>
+
+ 
+    <script>
+
+
+  // Load GeoJSON.
+  map.data.loadGeoJson('birin-gwari.json')
+
+
+}
+    </script>
+
+<script>
+
+      var historicalOverlay;
+      function initMap() {
+        var kusheriki = {lat: 10.50, lng: 6.63};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: kusheriki,
+          mapTypeId: 'terrain'
+        });
+        var imageBounds = {
+          north: 11,
+          south: 10.75,
+          east: 6.75,
+          west: 6.5
+        };
+        historicalOverlay = new google.maps.GroundOverlay(
+            'birin-gwari.png',
+            imageBounds);
+        historicalOverlay.setMap(map);
+        var marker = new google.maps.Marker({
+          position: kusheriki,
+          map: map,
+          title: 'Birin Gwari (Kusheriki geology)'
+        });
+        marker.addListener('click', function() {
+          infowindow.open(map, marker);
+        });
+      }
+    </script>
+
+
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
+  </body>
+</html>
+
+
