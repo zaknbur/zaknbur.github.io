@@ -46,22 +46,12 @@
             'birin-gwari.png',
             imageBounds);
         historicalOverlay.setMap(map);
-
-        let marker = new google.maps.Marker({
-          position: kusheriki,
-          map: map,
-          title: 'Birin Gwari (Kusheriki geology)'
-        });
-        marker.addListener('click', function() {
-          infowindow.open(map, marker);
-        });
       }
     </script>
 
 
     <script>
 // Concession boundaries
-      function initMap() {
         let map = new google.maps.Map(document.getElementById('map'), {
           zoom: 12,
           center: {lat: 10.75, lng: 6.65},
@@ -85,7 +75,7 @@
         ];
 
         map.data.add({geometry: new google.maps.Data.Polygon([concession1,concession2])})
-      }
+      
     </script>
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&callback=initMap">
