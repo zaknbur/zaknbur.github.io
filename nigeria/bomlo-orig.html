@@ -28,30 +28,30 @@
 
       function initMap() {
 
-        let kusheriki = {lat: 10.50, lng: 6.63};
-        let map = new google.maps.Map(document.getElementById('map'), {
+        var bomlo = {lat: 59.75, lng: 5.25};
+        var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 12,
-          center: kusheriki,
+          center: bomlo,
           mapTypeId: 'terrain'
         });
 
 
         var imageBounds = {
-          north: 11.0,
-          south: 10.75,
-          east: 6.75,
-          west: 6.5
+          north: 59.82338528,
+          south: 59.72357010,
+          east: 5.33259665,
+          west: 5.19567273
         };
 
         historicalOverlay = new google.maps.GroundOverlay(
-            'birin-gwari.png',
+            'bomlo-geol.png',
             imageBounds);
         historicalOverlay.setMap(map);
 
-        let marker = new google.maps.Marker({
-          position: kusheriki,
+        var marker = new google.maps.Marker({
+          position: bomlo,
           map: map,
-          title: 'Birin Gwari (Kusheriki geology)'
+          title: 'bomlo (Bomlo geology)'
         });
         marker.addListener('click', function() {
           infowindow.open(map, marker);
