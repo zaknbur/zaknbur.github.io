@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Concession boundaries and underlying geology</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0; 
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      // Geological map overlay to place as image on the map
+
+      var historicalOverlay;
+
+      function initMap() {
+
+        let kusheriki = {lat: 10.80, lng: 6.63};
+        let map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: kusheriki,
+          mapTypeId: 'terrain'
+        });
+   
+
+        let imageBounds = {
+          north: 11.0,
+          south: 10.75,
+          east: 6.75,
+          west: 6.5
+        };
+ 
+        historicalOverlay = new google.maps.GroundOverlay(
+            'birin-gwari.png',
+            imageBounds);
+        historicalOverlay.setMap(map);
+    
+
+        // Define the LatLng coordinates for 1st concession.
+        let concession1 = [
+          {lat: 10.78750000, lng: 6.60833333},
+          {lat: 10.83333333, lng: 6.60833333},
+          {lat: 10.83333333, lng: 6.68333333},
+          {lat: 10.78750000, lng: 6.68333333}
+        ]
+
+        // Define the LatLng coordinates for 2nd concession.
+        let concession2 = [
+          {lat: 10.83333333, lng: 6.6333333},
+          {lat: 10.89583333, lng: 6.6333333},
+          {lat: 10.89583333, lng: 6.6583333},
+          {lat: 10.83333333, lng: 6.6583333}
+        ];
+
+        map.data.add({geometry: new google.maps.Data.Polygon([concession1,concession2])})
+
+        map.data.setStyle({
+          fillColor: 'red',
+          strokeWeight: 1
+        });
+      }
+    </script>
+
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&callback=initMap">
+    </script>
+  </body>
+</html>
