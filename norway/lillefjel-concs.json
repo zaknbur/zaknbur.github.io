@@ -7,7 +7,7 @@
       "type": "Feature",
       "properties": {
         "fill": "yellow",
-        "fill-opacity": 0.25,
+        "fill-opacity": 0.15,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-4",
         "geology": "lillefjeld-c-4.png",
@@ -32,7 +32,7 @@
       "type": "Feature",
       "properties": {
         "fill": "yellow",
-        "fill-opacity": 0.25,
+        "fill-opacity": 0.15,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-5",
         "geology": "lillefjeld-c-5.png",
@@ -57,7 +57,7 @@
       "type": "Feature",
       "properties": {
         "fill": "yellow",
-        "fill-opacity": 0.25,
+        "fill-opacity": 0.15,
         "year mapped 1-50k" : " 1982"   ,
         "name": "Lillefjel-6",
         "geology": "lillefjeld-c-6.png",
