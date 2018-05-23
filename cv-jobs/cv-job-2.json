@@ -1,0 +1,1411 @@
+{
+
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        	"fill": "red",
+        	"fill-opacity": 0.25,
+                   "country":"Zambia",
+                 "location":"Chingola",
+                "employer" : " Nchanga Consolidated Copper Mines ",
+                "work":"Mine Geologist - Open-pit at",   
+                 "reference" : "CV_ref",  
+		"commodity":"Copper", 
+                 "location":"Chingola Open-pit"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+ 
+		 [ 27.8915405, -12.5123357	] ,
+		 [ 27.886734, -12.5071406	] ,
+		 [ 27.8748894, -12.5036212	] ,
+		 [ 27.865963, -12.5024481	] ,
+		 [ 27.853775, -12.5046267	] ,
+		 [ 27.8433037, -12.5104923	] ,
+		 [ 27.8331757, -12.5173632	] ,
+		 [ 27.8290558, -12.5240664	] ,
+		 [ 27.8273392, -12.5297639	] ,
+		 [ 27.8239059, -12.5374722	] ,
+		 [ 27.8211594, -12.5408235	] ,
+		 [ 27.8166962, -12.5428343	] ,
+		 [ 27.8103447, -12.5414938	] ,
+		 [ 27.8036499, -12.5483639	] ,
+		 [ 27.8050232, -12.5584173	] ,
+		 [ 27.8086281, -12.5659571	] ,
+		 [ 27.8142929, -12.5713187	] ,
+		 [ 27.8199577, -12.5709836	] ,
+		 [ 27.8204727, -12.5636114	] ,
+		 [ 27.8249359, -12.5587524	] ,
+		 [ 27.8307724, -12.5513799	] ,
+		 [ 27.8355789, -12.542164	] ,
+		 [ 27.8417587, -12.5351262	] ,
+		 [ 27.8462219, -12.5295963	] ,
+		 [ 27.8513718, -12.5235636	] ,
+		 [ 27.8597832, -12.5183687	] ,
+		 [ 27.8673363, -12.5156874	] ,
+		 [ 27.8738594, -12.5143467	] ,
+		 [ 27.8812408, -12.5141792	] ,
+		 [ 27.8874207, -12.5150171	] ,
+		 [ 27.8910255, -12.5140116	] ,
+		 [ 27.8915405, -12.5123357	] 
+          ]
+        ]
+      }
+    }, 
+  
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "cu-a.svg",  
+                   "country":"Zambia",
+                 "location":"Chingola",
+                "employer" : " Nchanga Consolidated Copper Mines ",
+                "work":"Mine Geologist - Underground at",   
+                "reference" : "CV_ref",  
+		"commodity":"Copper" 
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": 		[27.8456, -12.5456]   
+      }
+  }, 
+
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "co-a.svg",  
+                   "country":"Zambia",
+                 "location":"Mimbula-Fitula",
+                "employer" : " Nchanga Consolidated Copper Mines ",
+                "work":"Exploration at",   
+                "reference" : "CV_ref",  
+		"commodity":"Cobalt"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": 		[27.8656, -12.6456]   
+      }
+  }, 
+
+
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "oil-a.svg",         
+                   "country":"Kenya",
+                 "location":"Lamu",
+                "employer" : " Summer vacation work",
+                "work":"shadowing Mudlogger near ",   
+                "reference" : "CV_ref",  
+		"commodity":"Oil"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [40.6631,-2.3106]
+
+      }
+  },
+
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "agg-a.svg",         
+                   "country":"Kenya",
+                 "location":"Nanyuki",
+                "employer" : " Summer vacation work",
+                "work":"shadowing engineering geologist near ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gravels"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [37.1005,-0.0556]
+      }
+  },
+
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "vol-a.svg",         
+                   "country":"Kenya",
+                 "location":"Hell's Gate",
+                "employer" : " Keele University",
+                "work":"Undergraduate mapping",   
+                "reference" : "CV_ref",  
+		"commodity":"Pyroclastic volcanics"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [36.3374,-0.8836] 
+      }
+  },
+
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "dia-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Mwadui",
+                "employer" : " Geosurvey GmbH",
+                "work":"Exploration at",   
+                "reference" : "CV_ref",  
+		"commodity":"Diamonds"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [33.6335,-3.5218] 
+
+      }
+  }, 
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "peg-a.svg",  
+                   "country":"Tanzania",
+                 "location":"Uluguru Mountains",
+                "employer" : " Geosurvey GmbH",
+                "work":"Exploring for Pegmatites in the" ,   
+                "reference" : "CV_ref",  
+		"commodity":"Uranium"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [38.1863,-7.1049] 
+      }  
+
+  },  
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Nzega",
+                "employer" : " Geosurvey GmbH",
+                "work":"Exploration at",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	32.8987	,-4.3921] 
+      }
+  }, 
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "cu-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Lufusi",
+                "employer" : " Geosurvey GmbH",
+                "work":"Exploration at",   
+                "reference" : "CV_ref",  
+		"commodity":"Copper"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [37.9017,	-6.1729]
+
+      }
+  }, 
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Geita",
+                "employer" : " Geosurvey GmbH",
+                "work":"Exploration at",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	32.2314	,-2.8850]
+      }
+  }, 
+ 
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "bau-a.svg",  
+                   "country":"Australia",
+                 "location":"Weipa",
+                "employer" : " Riofinex ",
+                "work":"Site visit to ",   
+                "reference" : "CV_ref",  
+		"commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	141.9649, -12.6351] 
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "bau-a.svg",  
+                   "country":"Australia",
+                 "location":"Gove",
+                "employer" : " Riofinex ",
+                "work":"Site visit to ",   
+                "reference" : "CV_ref",  
+		"commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	136.8142, -12.2514] 
+
+
+      }
+  },
+
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "bau-a.svg",  
+                   "country":"Australia",
+                 "location":"Pinjara",
+                "employer" : " Riofinex ",
+                "work":"Site visit to ",   
+                "reference" : "CV_ref",  
+		"commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	116.1184, -32.6156] 
+
+
+      }
+  },
+
+
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "bau-a.svg",  
+                   "country":"Saudi Arabia",
+                 "location":"Az Zabira",
+                "employer" : " Riofinex ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	45.4737, 27.4831]
+
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "cu-a.svg",  
+                   "country":"Saudi Arabia",
+                 "location":"Tayma",
+                "employer" : " Riofinex ",
+                "work":"Exploration at ",   
+                 "reference" : "CV_ref",  
+		"commodity":"Base Metals"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	42.4562, 29.1318]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "coal-a.svg",  
+                   "country":"Saudi Arabia",
+                 "location":"Layla",
+                "employer" : " Riofinex ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Coal"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	47.1998, 24.4500] 
+
+      }   
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "pot-a.svg",  
+                   "country":"Germany",
+                 "location":"West Germany",
+                "employer" : " Kali und Salz ",
+                "work":"JV Project Assessment in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Potash"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [9.4797	, 51.3127]  
+      }
+  },
+
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "pot-a.svg",  
+                   "country":"Canada",
+                 "location":"Saskatchewan",
+                "employer" : " Kali und Salz ",
+                "work":"JV Project Assessment in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Potash"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-105.0799, 51.8365] 
+
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "oil-a.svg",  
+                   "country":"Greece",
+                 "location":"Prinos field off-shore oil",
+                "employer" : " Wintershall ",
+                "work":"JV Project Assessment of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Oil"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	24.7351, 40.9249]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "gas-a.svg",  
+                   "country":"Qatar",
+                 "location":"North field off-shore gas",
+                "employer" : " Wintershall ",
+                "work":"JV Project Assessment of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gas"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	52.4365, 26.0439] 
+
+      }
+  },
+ {
+
+     "type":"Feature",
+      "properties": {
+		"icon" : "cu-a.svg",  
+                   "country":"USA",
+                 "location":"Arizona",
+                "employer" : " Banque de la Societe Finaciere Europeen ",
+                "work":"Project Evaluation in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Copper"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-110.9999, 33.2871] 
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "coa-a.svg",  
+                   "country":"China",
+                 "location":"Antaibao",
+                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "work":"Project Evaluation of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Coal"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [112.4901, 39.3515]  
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "vms-a.svg",  
+                   "country":"Canada",
+                 "location":"Mobrun",
+                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "work":"Project Evaluation of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Copper / Zinc"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-78.9094, 48.3791]  
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Chile",
+                 "location":"El Indio",
+                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "work":"Project Evaluation of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [-69.8003,-29.7521]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Canada",
+                 "location":"Colomac",
+                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "work":"Project Evaluation of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [-115.1247 , 64.3850]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "fe-a.svg",  
+                   "country":"USA",
+                 "location":"Minnesota",
+                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "work":"Project Evaluation in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Iron Ore"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-87.6463, 46.4916]  
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "pot-a.svg",  
+                   "country":"Thailand",
+                 "location":"Udon Thani",
+                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "work":"Project Evaluation of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Potash"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	103.0579, 17.4133] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "pgm-a.svg",  
+                   "country":"Germany",
+                 "location":"Wolfsburg",
+                "employer" : " Kali Chemie AG ",
+                "work":"catalytic convertor recycling in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Platinum"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	11.1889,52.4055 ]
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "pgm-a.svg",   
+                   "country":"Canada",
+                 "location":"Mississauga",
+                "employer" : " Platinum Lake Technology ",
+                "work":"catalytic convertor recycling in ",  
+                "reference" : "CV_ref",  
+                "reference" : "CV_ref",  
+		"commodity": "Platinum"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-78.4969, 43.6569] 
+      }
+  },
+
+
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "ww2-a.svg",  
+                   "country":"Former East Germany",
+                 "location":"Ergethan",
+                "employer" : " Trischler und Partner ",
+                "work":"Contaminated Land assessment of ",   
+                "reference" : "CV_ref",  
+		"commodity":"WW2 Mustard Gas factory",
+                "georeference" :"www.contaminatedland.co.uk/case-stu/erg-finy.htm"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	11.5891, 51.9329] 
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "mar-a.svg",  
+                   "country":"Hungary",
+                 "location":"Tardos",
+                "employer" : " Centurion East European Mining",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Travertine"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [18.4515,47.6621] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "mar-a.svg",  
+                   "country":"Hungary",
+                 "location":"Sutto",
+                "employer" : " Centurion East European Mining ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Marble"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [18.4476,47.7572]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "dol-a.svg",  
+                   "country":"Czechoslovakia",
+                 "location":"Slovakia",
+                "employer" : " Centurion East European Mining ",
+                "work":"Exploration in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Dolomite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	18.0764	,48.3061] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"USA",
+                 "location":"Alaska",
+                "employer" : " Mayfair Partners ",
+                "work":"Project Assessment in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-150.2358, 67.4933]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Zimbabwe",
+                 "location":"Bulawayo",
+                "employer" : " St Barbara ",
+                "work":"Project Assessment near ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	29.1640, -20.4490] 
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "dia-a.svg",  
+                   "country":"Brazil",
+                 "location":"Minas Gerais",
+                "employer" : " Layla Resources",
+                "work":"Project Assessment in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Diamonds"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-45.4514, -18.5779]  
+
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "mn-a.svg",  
+                   "country":"Burkina Faso",
+                 "location":"Kiere",
+                "employer" : " Africa China Mining ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Manganese"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-2.5027, 11.5515]
+
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Burkina Faso",
+                 "location":"Kiere",
+                "employer" : " Africa China Mining ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-2.5460, 11.5782]
+
+      }
+  },
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "agg-a.svg",  
+                   "country":"Former East Germany",
+                 "location":"Sachsen Anhalt",
+                "employer" : " Bardon Aggregates ",
+                "work":"Exploration in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Aggregates"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	12.91861, 51.8246]  
+      }
+  },
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "pgm-a.svg",  
+                   "country":"Former West Germany",
+                 "location":"Hessen",
+                "employer" : " Layla Resources",
+                "work":"Exploration in ",   
+                "reference" : "CV_ref",  
+		"commodity":"PGM"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	10.8955, 52.1635]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",
+                   "country":"Ghana",
+                 "location":"Bonte",
+                "employer" : " Gilban Ltd ",
+                "work":"Project Assessment of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-1.9080, 6.3771]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Mali",
+                 "location":"Ansongo",
+                "employer" : " Africa China Mining ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	0.7103, 15.4469]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "mn-a.svg",  
+                   "country":"Mali",
+                 "location":"Ansongo",
+                "employer" : " Africa China Mining ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Manganese"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	0.7451, 15.5158] 
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "mn-a.svg",  
+                   "country":"Morocco",
+                 "location":"Southwest",
+                "employer" : " Element Commodities ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Manganese"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-8.1690, 30.6646]  
+      }
+  },
+	  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "mn-a.svg",  
+                   "country":"Morocco",
+                 "location":"Northeast",
+                "employer" : " Element Commodities ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Manganese"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-2.597100 ,34.364597]  
+	}
+  },
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "ree-a.svg",  
+                   "country":"Norway",
+                 "location":"Telemark",
+                "employer" : " St Barbara ",
+                "work":"Project Evaluation in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Rare Earth Elements"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	8.75974	,	59.1831]
+      }
+   },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Norway",
+                 "location":"Telemark",
+                "employer" : " St Barbara ",
+                "work":"Project Evaluation in",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	8.6528, 59.6470]    
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "col-a.svg",  
+                   "country":"Somaliland",
+                 "location":"Hargesa",
+                "employer" : " Layla Resources",
+                "work":"Project Assessment near ",   
+                "reference" : "CV_ref",  
+		"commodity":"Coltan"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	43.7278, 10.6629]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "bau-a.svg",  
+                   "country":"Sierra Leone",
+                 "location":"Central",
+                "employer" : " Swanshire Minerals ",
+                "work":"Project Assessment in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Bauxite"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-10.9990, 7.5570]   
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Sudan",
+                 "location":"East",
+                "employer" : " Layla Reources",
+                "work":"Project Assessment in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	37.6617, 18.8598]   
+      }
+  }, {
+     "type":"Feature",
+      "properties": {
+		"icon" : "fe-a.svg",  
+                   "country":"Mauretania",
+                 "location":"North",
+                "employer" : " Layla Resources",
+                "work":"Project Assessment in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Iron Ore"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	-12.1483, 19.7233]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Kremnica",
+                "employer" : " Anglo-Slovak ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [18.9176,48.7030]
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "ur-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Jahodná",
+                "employer" : " Anglo-Slovak ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Uranium"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	21.1997, 48.7677]  
+      }
+  }, 
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "ni-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Dobsina",
+                "employer" : " Anglo-Slovak ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Nickel"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	20.3775, 48.7959] 
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "cu-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Eastern",
+                "employer" : " Anglo-Slovak ",
+                "work":"Exploration in  ",   
+                "reference" : "CV_ref",  
+		"commodity":"Copper"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	22.0199, 48.5420]  
+      }
+  },
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "sb-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Smolnik",
+                "employer" : " Anglo-Slovak ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Antimony"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	20.9939, 48.6700]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "ag-a.svg",  
+                   "country":"Slovakia",
+                 "location":"Strieborna",
+                "employer" : " Global Minerals ",
+                "work":"Competent Persons Report for ",   
+                "reference" : "CV_ref",  
+		"commodity":"Silver"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	20.5324, 48.6561] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",         
+                   "country":"Tanzania",
+                 "location":"Lake Victoria greenstone belt",
+                "employer" : " Montrose Gold ",
+                "work":"Exploration in ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	34.1532, -3.3695] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Turkey",
+                 "location":"Tethys belt",
+                "employer" : " BHP ",
+                "work":"Desktop study of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	35.1777, 39.0876] 
+      }
+  },
+  {
+     "type":"Feature",
+      "properties": {
+		"icon" : "pb-zn-a.svg",  
+                   "country":"Tunisia",
+                 "location":"Dougga",
+                "employer" : " Maghreb Minerals ",
+                "work":"Exploration at ",   
+                "reference" : "CV_ref",  
+		"commodity":"Lead, Zinc"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [9.2193,36.4229] 
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "oil-a.svg",  
+                   "country":"Mali",
+                 "location":"Gao graben",
+                "employer" : " Compass Oil ",
+                "work":"Desktop study of",   
+                "reference" : "CV_ref",  
+		"commodity":"Oil / Gas"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	0.0280, 16.2640] 
+      }
+  }, 
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
+                   "country":"Indonesia",
+                 "location":"Kalimantan",
+                "employer" : " Mayfair Associates ",
+                "work":"Desktop study of ",   
+                "reference" : "CV_ref",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	112.6476, 0.1479]
+      }
+    },
+ {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+                        
+[ -2.552437 ,34.399673],
+[ -2.553624 ,34.363621],
+[ -2.597100 ,34.364597],
+[ -2.595931 ,34.400650],
+[ -2.552437 ,34.399673]
+
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Tanouralt ",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2238174 for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "http://www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"   }
+},
+ {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -2.596183 	,34.411447 ],
+            [ -2.597351 	,34.375393 ],
+            [ -2.640833 	,34.376353 ],
+            [ -2.639683	,34.412408 ],
+            [ -2.596183 	,34.411447 ] 
+
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Tanouralt ",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2238175 for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"   }
+},
+ {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -1.951176 	,34.566825 ],
+            [ -1.952616 	,34.530780 ],
+            [ -1.996168 	,34.531964 ],
+            [ -1.994746	  ,34.568009 ],
+            [ -1.951176 	,34.566825 ] 
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Jbel Metsila",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 220471 for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "http://www.contaminatedland.co.uk/maps/Jbel-Metsila-concession-info.htm"   }
+},
+{
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -2.583887 	,34.355913 ],
+            [ -2.585059 	,34.319858 ],
+            [ -2.628513 	,34.320824 ],
+            [ -2.627358  	,34.356879 ],
+            [ -2.583887 	,34.355913 ] 
+
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Boukouali ",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2238176  for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "www.contaminatedland.co.uk/maps/Boukouali-concession-info.htm"   }
+},
+{
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -2.344996 	,34.498483 ],
+            [ -2.346271 	,34.4624325 ],
+            [ -2.389793 	,34.463480 ],
+            [ -2.388537    	,34.499531 ],
+            [ -2.344996 	,34.498483 ] 
+
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Bourdine ",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 220459  for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "www.contaminatedland.co.uk/maps/Bourdine-concession-info.htm"   }
+},
+    {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -8.017145 	,30.755521 ],
+            [ -8.016200 	,30.719441 ],
+            [ -8.057958 	,30.718618 ],
+            [ -8.058918 	,30.754698 ],
+            [ -8.017145 	,30.755521 ] 
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Aoufour",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2339129  for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "http://www.contaminatedland.co.uk/maps/Aoufour-concession-info.htm"   }
+},
+    {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -7.903748 	,30.639830 ],
+            [ -7.902844 	,30.603746 ],
+            [ -7.944555 	,30.602959 ],
+            [ -7.945473	,30.639042 ],
+            [ -7.903748 	,30.639830 ] 
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Ait Iggelt",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2338310  for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "www.contaminatedland.co.uk/maps/Ait-Iggelt-concession-info.htm"}
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -8.142018  	,30.736813  ],
+            [ -8.141027  	,30.700733  ],
+            [ -8.182777  	,30.699871  ],
+            [ -8.183783  	,30.735951  ],
+            [ -8.142018  	,30.736813  ] 
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Tasdremt ",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2339124  for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
+},
+    {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -8.100886  	,30.761078  ],
+            [ -8.099911  	,30.724998  ],
+            [ -8.141670	,30.724149  ],
+            [ -8.142661	,30.760229  ],
+            [ -8.100886  	,30.761078  ] 
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Tasdremt ",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2339125  for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
+},
+    {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -8.099911 	,30.724998  ],
+            [ -8.098936 	,30.688918  ],
+            [ -8.140681 	,30.688069  ],
+            [ -8.141670 	,30.724149  ],
+            [ -8.099911 	,30.724998  ] 
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Tasdremt ",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2339126  for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
+},
+    {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -8.059206  	,30.765522  ],
+            [ -8.058246  	,30.729442  ],
+            [ -8.100008  	,30.728606  ],
+            [ -8.100984  	,30.764686  ],
+            [ -8.059206  	,30.765522  ] 
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Tasdremt ",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2339127  for",
+                "reference" : "CV_ref",  
+		"commodity":"Manganese",
+    "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
+},
+    {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [  -8.058246  	,30.729442  ],
+            [ -8.057286  	,30.693362  ],
+            [ -8.099033  	,30.692526  ],
+            [ -8.100008  	,30.728606  ],
+            [ -8.058246  	,30.729442  ] 
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Tasdremt ",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2339128  for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
+},
+
+    {
+      "type": "Feature",
+      "geometry": {  "type": "Polygon",
+        "coordinates": [
+          [
+            [ -8.017145  	,30.755521  ],
+            [ -8.016200  	,30.719441  ],
+            [ -8.057958  	,30.718618  ],
+            [ -8.058918  	,30.754698 ],
+            [ -8.017145  	,30.755521 ] 
+          ]
+        ]
+      },
+      "properties":    {
+    "icon": "mn-a.svg",
+    "country": "Morocco",
+    "location": "Aoufour",
+    "employer": " element Commodities",
+    "work": "Grassroots exploration  in Concession 2339129  for",
+                "reference" : "CV_ref",  
+		"commodity": "Manganese",
+    "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
+   }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Concession Area": "Central"
+      }
+    }  
+  ]
+}
+
+	
+	
+	
+	
+
