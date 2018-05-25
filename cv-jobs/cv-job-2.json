@@ -11,7 +11,7 @@
                  "location":"Chingola",
                 "employer" : " Nchanga Consolidated Copper Mines ",
                 "work":"Mine Geologist - Open-pit at",   
-                 "reference" : "CV_ref",  
+                 "reference" : "Nchanga",  
 		"commodity":"Copper", 
                  "location":"Chingola Open-pit"
       },
@@ -65,7 +65,7 @@
                  "location":"Chingola",
                 "employer" : " Nchanga Consolidated Copper Mines ",
                 "work":"Mine Geologist - Underground at",   
-                "reference" : "CV_ref",  
+                "reference" : "Nchanga",  
 		"commodity":"Copper" 
       },
      "geometry": {
@@ -82,7 +82,7 @@
                  "location":"Mimbula-Fitula",
                 "employer" : " Nchanga Consolidated Copper Mines ",
                 "work":"Exploration at",   
-                "reference" : "CV_ref",  
+                "reference" : "Nchanga",  
 		"commodity":"Cobalt"
       },
      "geometry": {
@@ -90,8 +90,6 @@
        "coordinates": 		[27.8656, -12.6456]   
       }
   }, 
-
-
   {
      "type":"Feature",
       "properties": {
@@ -100,16 +98,14 @@
                  "location":"Lamu",
                 "employer" : " Summer vacation work",
                 "work":"shadowing Mudlogger near ",   
-                "reference" : "CV_ref",  
+                "reference" : "Lamu",  
 		"commodity":"Oil"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [40.6631,-2.3106]
-
       }
   },
-
   {
      "type":"Feature",
       "properties": {
@@ -118,7 +114,7 @@
                  "location":"Nanyuki",
                 "employer" : " Summer vacation work",
                 "work":"shadowing engineering geologist near ",   
-                "reference" : "CV_ref",  
+                "reference" : "Naivasha",  
 		"commodity":"Gravels"
       },
      "geometry": {
@@ -126,7 +122,6 @@
        "coordinates": [37.1005,-0.0556]
       }
   },
-
   {
      "type":"Feature",
       "properties": {
@@ -135,7 +130,7 @@
                  "location":"Hell's Gate",
                 "employer" : " Keele University",
                 "work":"Undergraduate mapping",   
-                "reference" : "CV_ref",  
+                "reference" : "Hells_Gate",  
 		"commodity":"Pyroclastic volcanics"
       },
      "geometry": {
@@ -143,7 +138,6 @@
        "coordinates": [36.3374,-0.8836] 
       }
   },
-
   {
      "type":"Feature",
       "properties": {
@@ -152,13 +146,12 @@
                  "location":"Mwadui",
                 "employer" : " Geosurvey GmbH",
                 "work":"Exploration at",   
-                "reference" : "CV_ref",  
+                "reference" : "Geosurvey",  
 		"commodity":"Diamonds"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [33.6335,-3.5218] 
-
       }
   }, 
   {
@@ -169,14 +162,13 @@
                  "location":"Uluguru Mountains",
                 "employer" : " Geosurvey GmbH",
                 "work":"Exploring for Pegmatites in the" ,   
-                "reference" : "CV_ref",  
+                "reference" : "Geosurvey",  
 		"commodity":"Uranium"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [38.1863,-7.1049] 
       }  
-
   },  
  {
      "type":"Feature",
@@ -186,7 +178,7 @@
                  "location":"Nzega",
                 "employer" : " Geosurvey GmbH",
                 "work":"Exploration at",   
-                "reference" : "CV_ref",  
+                "reference" : "Geosurvey",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -202,13 +194,12 @@
                  "location":"Lufusi",
                 "employer" : " Geosurvey GmbH",
                 "work":"Exploration at",   
-                "reference" : "CV_ref",  
+                "reference" : "Geosurvey",  
 		"commodity":"Copper"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [37.9017,	-6.1729]
-
       }
   }, 
  {
@@ -219,7 +210,7 @@
                  "location":"Geita",
                 "employer" : " Geosurvey GmbH",
                 "work":"Exploration at",   
-                "reference" : "CV_ref",  
+                "reference" : "Geosurvey",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -227,8 +218,7 @@
        "coordinates": [	32.2314	,-2.8850]
       }
   }, 
- 
- {
+  {
      "type":"Feature",
       "properties": {
 		"icon" : "bau-a.svg",  
@@ -236,13 +226,12 @@
                  "location":"Weipa",
                 "employer" : " Riofinex ",
                 "work":"Site visit to ",   
-                "reference" : "CV_ref",  
+                "reference" : "Riofinex",  
 		"commodity":"Bauxite"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	141.9649, -12.6351] 
-
       }
   },
  {
@@ -253,17 +242,14 @@
                  "location":"Gove",
                 "employer" : " Riofinex ",
                 "work":"Site visit to ",   
-                "reference" : "CV_ref",  
+                "reference" : "Riofinex",  
 		"commodity":"Bauxite"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	136.8142, -12.2514] 
-
-
       }
   },
-
 {
      "type":"Feature",
       "properties": {
@@ -272,18 +258,14 @@
                  "location":"Pinjara",
                 "employer" : " Riofinex ",
                 "work":"Site visit to ",   
-                "reference" : "CV_ref",  
+                "reference" : "Riofinex",  
 		"commodity":"Bauxite"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	116.1184, -32.6156] 
-
-
       }
   },
-
-
  {
      "type":"Feature",
       "properties": {
@@ -292,13 +274,12 @@
                  "location":"Az Zabira",
                 "employer" : " Riofinex ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Riofinex",  
 		"commodity":"Bauxite"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	45.4737, 27.4831]
-
       }
   },
 {
@@ -309,7 +290,7 @@
                  "location":"Tayma",
                 "employer" : " Riofinex ",
                 "work":"Exploration at ",   
-                 "reference" : "CV_ref",  
+                 "reference" : "Riofinex",  
 		"commodity":"Base Metals"
       },
      "geometry": {
@@ -325,13 +306,12 @@
                  "location":"Layla",
                 "employer" : " Riofinex ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Riofinex",  
 		"commodity":"Coal"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	47.1998, 24.4500] 
-
       }   
   },
  {
@@ -342,7 +322,7 @@
                  "location":"West Germany",
                 "employer" : " Kali und Salz ",
                 "work":"JV Project Assessment in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Kali",  
 		"commodity":"Potash"
       },
      "geometry": {
@@ -350,7 +330,6 @@
        "coordinates": [9.4797	, 51.3127]  
       }
   },
-
  {
      "type":"Feature",
       "properties": {
@@ -359,13 +338,12 @@
                  "location":"Saskatchewan",
                 "employer" : " Kali und Salz ",
                 "work":"JV Project Assessment in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Kali",  
 		"commodity":"Potash"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	-105.0799, 51.8365] 
-
       }
   },
 {
@@ -376,7 +354,7 @@
                  "location":"Prinos field off-shore oil",
                 "employer" : " Wintershall ",
                 "work":"JV Project Assessment of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Kali",  
 		"commodity":"Oil"
       },
      "geometry": {
@@ -392,17 +370,15 @@
                  "location":"North field off-shore gas",
                 "employer" : " Wintershall ",
                 "work":"JV Project Assessment of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Kali",  
 		"commodity":"Gas"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	52.4365, 26.0439] 
-
       }
   },
  {
-
      "type":"Feature",
       "properties": {
 		"icon" : "cu-a.svg",  
@@ -410,13 +386,12 @@
                  "location":"Arizona",
                 "employer" : " Banque de la Societe Finaciere Europeen ",
                 "work":"Project Evaluation in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Banque",  
 		"commodity":"Copper"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	-110.9999, 33.2871] 
-
       }
   },
  {
@@ -427,13 +402,12 @@
                  "location":"Antaibao",
                 "employer" : " Banque de la Societe Finaciere Europeen  ",
                 "work":"Project Evaluation of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Banque",  
 		"commodity":"Coal"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [112.4901, 39.3515]  
-
       }
   },
  {
@@ -444,13 +418,12 @@
                  "location":"Mobrun",
                 "employer" : " Banque de la Societe Finaciere Europeen  ",
                 "work":"Project Evaluation of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Banque",  
 		"commodity":"Copper / Zinc"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	-78.9094, 48.3791]  
-
       }
   },
  {
@@ -461,7 +434,7 @@
                  "location":"El Indio",
                 "employer" : " Banque de la Societe Finaciere Europeen  ",
                 "work":"Project Evaluation of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Banque",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -477,7 +450,7 @@
                  "location":"Colomac",
                 "employer" : " Banque de la Societe Finaciere Europeen  ",
                 "work":"Project Evaluation of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Banque",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -493,13 +466,12 @@
                  "location":"Minnesota",
                 "employer" : " Banque de la Societe Finaciere Europeen  ",
                 "work":"Project Evaluation in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Banque",  
 		"commodity":"Iron Ore"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	-87.6463, 46.4916]  
-
       }
   },
  {
@@ -510,7 +482,7 @@
                  "location":"Udon Thani",
                 "employer" : " Banque de la Societe Finaciere Europeen  ",
                 "work":"Project Evaluation of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Banque",  
 		"commodity":"Potash"
       },
      "geometry": {
@@ -526,13 +498,28 @@
                  "location":"Wolfsburg",
                 "employer" : " Kali Chemie AG ",
                 "work":"catalytic convertor recycling in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Platinum",  
 		"commodity":"Platinum"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	11.1889,52.4055 ]
-
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "pgm-a.svg",  
+                   "country":"Germany",
+                 "location":"Border with former East Germany",
+                "employer" : " Layla Resources ",
+                "work":"potential for PGM's in the Kupferschiefer on the",   
+                "reference" : "Platinum",  
+		"commodity":"Platinum"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	10.301,51.265 ]
       }
   },
  {
@@ -543,7 +530,7 @@
                  "location":"Mississauga",
                 "employer" : " Platinum Lake Technology ",
                 "work":"catalytic convertor recycling in ",  
-                "reference" : "CV_ref",  
+                "reference" : "Platinum",  
                 "reference" : "CV_ref",  
 		"commodity": "Platinum"
       },
@@ -552,8 +539,6 @@
        "coordinates": [	-78.4969, 43.6569] 
       }
   },
-
-
 {
      "type":"Feature",
       "properties": {
@@ -562,14 +547,31 @@
                  "location":"Ergethan",
                 "employer" : " Trischler und Partner ",
                 "work":"Contaminated Land assessment of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Trischler",  
 		"commodity":"WW2 Mustard Gas factory",
                 "georeference" :"www.contaminatedland.co.uk/case-stu/erg-finy.htm"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	11.5891, 51.9329] 
+      }
+  },
 
+{
+     "type":"Feature",
+      "properties": {
+		"icon" : "ww2-a.svg",  
+                   "country":"Former East Germany",
+                 "location":"Rostock",
+                "employer" : " Umweltamt Rostock",
+                "work":"Contaminated Land assessment of ",   
+                "reference" : "Umweltamt",  
+		"commodity":"Royal Air Force WW2 Bomb damage",
+                "georeference" :"www.contaminatedland.co.uk/case-stu/erg-finy.htm"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	12.4742, 54.1514] 
       }
   },
  {
@@ -580,7 +582,7 @@
                  "location":"Tardos",
                 "employer" : " Centurion East European Mining",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Centurion",  
 		"commodity":"Travertine"
       },
      "geometry": {
@@ -596,7 +598,7 @@
                  "location":"Sutto",
                 "employer" : " Centurion East European Mining ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Centurion",  
 		"commodity":"Marble"
       },
      "geometry": {
@@ -612,7 +614,7 @@
                  "location":"Slovakia",
                 "employer" : " Centurion East European Mining ",
                 "work":"Exploration in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Czechoslovakian",  
 		"commodity":"Dolomite"
       },
      "geometry": {
@@ -628,7 +630,7 @@
                  "location":"Alaska",
                 "employer" : " Mayfair Partners ",
                 "work":"Project Assessment in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Mayfair",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -640,17 +642,32 @@
      "type":"Feature",
       "properties": {
 		"icon" : "au-a.svg",  
+                   "country":"Nigeria",
+                 "location":"Kaduna",
+                "employer" : "Confidential ",
+                "work":"Project Assessment in ",   
+                "reference" : "Nigeria",  
+		"commodity":"Gold"
+      },
+     "geometry": {
+       "type":"Point",
+       "coordinates": [	10.5070, 7.8412]  
+      }
+  },
+ {
+     "type":"Feature",
+      "properties": {
+		"icon" : "au-a.svg",  
                    "country":"Zimbabwe",
                  "location":"Bulawayo",
                 "employer" : " St Barbara ",
                 "work":"Project Assessment near ",   
-                "reference" : "CV_ref",  
+                "reference" : "Zimbabwe",  
 		"commodity":"Gold"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	29.1640, -20.4490] 
-
       }
   },
  {
@@ -661,13 +678,12 @@
                  "location":"Minas Gerais",
                 "employer" : " Layla Resources",
                 "work":"Project Assessment in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Brazil",  
 		"commodity":"Diamonds"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	-45.4514, -18.5779]  
-
       }
   },
 {
@@ -678,13 +694,12 @@
                  "location":"Kiere",
                 "employer" : " Africa China Mining ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Kiere",  
 		"commodity":"Manganese"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	-2.5027, 11.5515]
-
       }
   },
  {
@@ -695,13 +710,12 @@
                  "location":"Kiere",
                 "employer" : " Africa China Mining ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Hounde",  
 		"commodity":"Gold"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	-2.5460, 11.5782]
-
       }
   },
   {
@@ -712,7 +726,7 @@
                  "location":"Sachsen Anhalt",
                 "employer" : " Bardon Aggregates ",
                 "work":"Exploration in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Bardon",  
 		"commodity":"Aggregates"
       },
      "geometry": {
@@ -728,7 +742,7 @@
                  "location":"Hessen",
                 "employer" : " Layla Resources",
                 "work":"Exploration in ",   
-                "reference" : "CV_ref",  
+                "reference" : "St_Joe",  
 		"commodity":"PGM"
       },
      "geometry": {
@@ -744,7 +758,7 @@
                  "location":"Bonte",
                 "employer" : " Gilban Ltd ",
                 "work":"Project Assessment of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Bonte",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -760,7 +774,7 @@
                  "location":"Ansongo",
                 "employer" : " Africa China Mining ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Ansongo",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -776,7 +790,7 @@
                  "location":"Ansongo",
                 "employer" : " Africa China Mining ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Ansongo",  
 		"commodity":"Manganese"
       },
      "geometry": {
@@ -792,7 +806,7 @@
                  "location":"Southwest",
                 "employer" : " Element Commodities ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity":"Manganese"
       },
      "geometry": {
@@ -808,7 +822,7 @@
                  "location":"Northeast",
                 "employer" : " Element Commodities ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity":"Manganese"
       },
      "geometry": {
@@ -824,7 +838,7 @@
                  "location":"Telemark",
                 "employer" : " St Barbara ",
                 "work":"Project Evaluation in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Norway",  
 		"commodity":"Rare Earth Elements"
       },
      "geometry": {
@@ -840,7 +854,7 @@
                  "location":"Telemark",
                 "employer" : " St Barbara ",
                 "work":"Project Evaluation in",   
-                "reference" : "CV_ref",  
+                "reference" : "Norway",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -856,7 +870,7 @@
                  "location":"Hargesa",
                 "employer" : " Layla Resources",
                 "work":"Project Assessment near ",   
-                "reference" : "CV_ref",  
+                "reference" : "Somaliland",  
 		"commodity":"Coltan"
       },
      "geometry": {
@@ -872,7 +886,7 @@
                  "location":"Central",
                 "employer" : " Swanshire Minerals ",
                 "work":"Project Assessment in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Sierra",  
 		"commodity":"Bauxite"
       },
      "geometry": {
@@ -888,14 +902,15 @@
                  "location":"East",
                 "employer" : " Layla Reources",
                 "work":"Project Assessment in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Sudan",  
 		"commodity":"Gold"
       },
      "geometry": {
        "type":"Point",
        "coordinates": [	37.6617, 18.8598]   
       }
-  }, {
+  }, 
+{
      "type":"Feature",
       "properties": {
 		"icon" : "fe-a.svg",  
@@ -903,7 +918,7 @@
                  "location":"North",
                 "employer" : " Layla Resources",
                 "work":"Project Assessment in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Sudan",  
 		"commodity":"Iron Ore"
       },
      "geometry": {
@@ -919,7 +934,7 @@
                  "location":"Kremnica",
                 "employer" : " Anglo-Slovak ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Anglo­Slovak",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -935,7 +950,7 @@
                  "location":"Jahodná",
                 "employer" : " Anglo-Slovak ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Anglo­Slovak",  
 		"commodity":"Uranium"
       },
      "geometry": {
@@ -951,7 +966,7 @@
                  "location":"Dobsina",
                 "employer" : " Anglo-Slovak ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Anglo­Slovak",  
 		"commodity":"Nickel"
       },
      "geometry": {
@@ -967,7 +982,7 @@
                  "location":"Eastern",
                 "employer" : " Anglo-Slovak ",
                 "work":"Exploration in  ",   
-                "reference" : "CV_ref",  
+                "reference" : "Anglo­Slovak",  
 		"commodity":"Copper"
       },
      "geometry": {
@@ -983,7 +998,7 @@
                  "location":"Smolnik",
                 "employer" : " Anglo-Slovak ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Anglo­Slovak",  
 		"commodity":"Antimony"
       },
      "geometry": {
@@ -999,7 +1014,7 @@
                  "location":"Strieborna",
                 "employer" : " Global Minerals ",
                 "work":"Competent Persons Report for ",   
-                "reference" : "CV_ref",  
+                "reference" : "Strieborna",  
 		"commodity":"Silver"
       },
      "geometry": {
@@ -1015,7 +1030,7 @@
                  "location":"Lake Victoria greenstone belt",
                 "employer" : " Montrose Gold ",
                 "work":"Exploration in ",   
-                "reference" : "CV_ref",  
+                "reference" : "Montrose",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -1031,7 +1046,7 @@
                  "location":"Tethys belt",
                 "employer" : " BHP ",
                 "work":"Desktop study of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Tethys",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -1047,7 +1062,7 @@
                  "location":"Dougga",
                 "employer" : " Maghreb Minerals ",
                 "work":"Exploration at ",   
-                "reference" : "CV_ref",  
+                "reference" : "Maghreb",  
 		"commodity":"Lead, Zinc"
       },
      "geometry": {
@@ -1063,7 +1078,7 @@
                  "location":"Gao graben",
                 "employer" : " Compass Oil ",
                 "work":"Desktop study of",   
-                "reference" : "CV_ref",  
+                "reference" : "Compass",  
 		"commodity":"Oil / Gas"
       },
      "geometry": {
@@ -1079,7 +1094,7 @@
                  "location":"Kalimantan",
                 "employer" : " Mayfair Associates ",
                 "work":"Desktop study of ",   
-                "reference" : "CV_ref",  
+                "reference" : "Mayfair",  
 		"commodity":"Gold"
       },
      "geometry": {
@@ -1093,11 +1108,11 @@
         "coordinates": [
           [
                         
-[ -2.552437 ,34.399673],
-[ -2.553624 ,34.363621],
-[ -2.597100 ,34.364597],
-[ -2.595931 ,34.400650],
-[ -2.552437 ,34.399673]
+	[ -2.552437 ,34.399673],
+	[ -2.553624 ,34.363621],
+	[ -2.597100 ,34.364597],
+	[ -2.595931 ,34.400650],
+	[ -2.552437 ,34.399673]
 
           ]
         ]
@@ -1108,7 +1123,7 @@
     "location": "Tanouralt ",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2238174 for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "http://www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"   }
 },
@@ -1120,7 +1135,7 @@
             [ -2.596183 	,34.411447 ],
             [ -2.597351 	,34.375393 ],
             [ -2.640833 	,34.376353 ],
-            [ -2.639683	,34.412408 ],
+            [ -2.639683		,34.412408 ],
             [ -2.596183 	,34.411447 ] 
 
           ]
@@ -1132,7 +1147,7 @@
     "location": "Tanouralt ",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2238175 for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "www.contaminatedland.co.uk/maps/Tanouralt-concession-info.htm"   }
 },
@@ -1144,7 +1159,7 @@
             [ -1.951176 	,34.566825 ],
             [ -1.952616 	,34.530780 ],
             [ -1.996168 	,34.531964 ],
-            [ -1.994746	  ,34.568009 ],
+            [ -1.994746	  	,34.568009 ],
             [ -1.951176 	,34.566825 ] 
           ]
         ]
@@ -1155,7 +1170,7 @@
     "location": "Jbel Metsila",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 220471 for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "http://www.contaminatedland.co.uk/maps/Jbel-Metsila-concession-info.htm"   }
 },
@@ -1179,7 +1194,7 @@
     "location": "Boukouali ",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2238176  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "www.contaminatedland.co.uk/maps/Boukouali-concession-info.htm"   }
 },
@@ -1203,7 +1218,7 @@
     "location": "Bourdine ",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 220459  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "www.contaminatedland.co.uk/maps/Bourdine-concession-info.htm"   }
 },
@@ -1226,7 +1241,7 @@
     "location": "Aoufour",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339129  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "http://www.contaminatedland.co.uk/maps/Aoufour-concession-info.htm"   }
 },
@@ -1249,7 +1264,7 @@
     "location": "Ait Iggelt",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2338310  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "www.contaminatedland.co.uk/maps/Ait-Iggelt-concession-info.htm"}
     },
@@ -1273,7 +1288,7 @@
     "location": "Tasdremt ",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339124  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
@@ -1296,7 +1311,7 @@
     "location": "Tasdremt ",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339125  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "http://www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
@@ -1319,7 +1334,7 @@
     "location": "Tasdremt ",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339126  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
@@ -1342,7 +1357,7 @@
     "location": "Tasdremt ",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339127  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity":"Manganese",
     "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
@@ -1365,7 +1380,7 @@
     "location": "Tasdremt ",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339128  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"   }
 },
@@ -1389,7 +1404,7 @@
     "location": "Aoufour",
     "employer": " element Commodities",
     "work": "Grassroots exploration  in Concession 2339129  for",
-                "reference" : "CV_ref",  
+                "reference" : "Morocco",  
 		"commodity": "Manganese",
     "georeference": "www.contaminatedland.co.uk/maps/Tasdremt-concession-info.htm"
    }
