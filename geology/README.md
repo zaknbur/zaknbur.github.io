@@ -255,6 +255,18 @@ One final touch is to incorporate your actual CV as a link, so the final few lin
 And then you need to alter your GeoJSON file so that ir reads like this
 
     ```
-    
+    "properties":
+   {
+    "icon": "bau-a.svg",
+    "country": "Saudi Arabia",
+    "location": "Az Zabira",
+    "employer": "Riofinex",
+    "work": "Exploration at",
+    "commodity": "Bauxite",
+    "reference": "Riofinex"
+   }
         ```
+	
+	And finally you need to have your CV uploaded into the same folder in your Github account to be able to link to it
 
+To see it in action go to this link  
