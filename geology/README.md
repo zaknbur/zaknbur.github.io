@@ -235,3 +235,13 @@ function initMap() {
 </html>
   ```
 
+One final touch is to incorporate your actual CV as a link, so the final few lines of code need to be changed from
+
+  ```
+    map.data.addListener('click', function(event) {
+    document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Geology</a>';      
+   });
+   
+     ```
+     
+     
