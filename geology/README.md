@@ -278,3 +278,9 @@ Pre­-feasability evaluation of the Cretaceous Az Zabira Bauxite deposit, monito
 ```
 
 To see it in action go to this link  
+
+http://zaknbur.github.io/cv-jobs/cv-job-map-1.html
+
+which should load this link
+
+http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#Geosurvey
