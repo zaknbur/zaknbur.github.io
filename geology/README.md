@@ -86,7 +86,7 @@ You now need to save it as a JSON file and call it something like **cv-job.json*
   ```  
 6.  If you look at this example as it appears in its final form **[on a Google Map](http://zaknbur.github.io/cv-jobs/cv-job-map-1.html)**  you will noticed that Google's default "red upside down tear-drop" point symbol has been converted into a more geologically significant symbol. The way this is done via the **"icon"** tag by creating an *SVG* image (in this case for **Gold**, called **au.svg**)  that looks like this.  
 
-  ```  
+```  
 <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44">
 <circle cx="22" cy="22" r="20" opacity="1.0" 
     style="  stroke: black;
@@ -101,7 +101,7 @@ You now need to save it as a JSON file and call it something like **cv-job.json*
     Au
   </text>
 </svg>
-  ```  
+```  
 7. The only bits you need to change (to indicate the particular metal / mineral you were looking for at that location) are 
   - firstly the colour which is on the fifth line after fill:  i.e. **gold** , and 
   - secondly the third line from the bottom i.e. **Au**
@@ -119,7 +119,7 @@ So for example if you had been exploring for Copper, you would change the chemic
 The places where you need to change the 'HTML code are shown in the comments lines which are shown as 
      `<!--COMMENT--> ` and  `//COMMENT// `
 
-  ```
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -233,28 +233,29 @@ function initMap() {
         src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
   </body>
 </html>
-  ```
+```
 
-One final touch is to incorporate your actual CV as a link, so the final few lines of code need to be changed from
+10. One final touch is to incorporate your actual CV as a link, so the final few lines of code need to be changed from
 
-  ```
+```
     map.data.addListener('click', function(event) {
     document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Geology</a>';      
    });
    
-     ```
+```
+
     to this 
     
-         ```
+```
         map.data.addListener('click', function(event) {
     document.getElementById('geolmap').innerHTML ='<a href="http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#'+event.feature.getProperty('reference')+'"target="_blank">Details</a>';      
    });
 
-          ```
+```
 	  
 And then you need to alter your GeoJSON file so that ir reads like this
 
-    ```
+```
     "properties":
    {
     "icon": "bau-a.svg",
@@ -265,8 +266,8 @@ And then you need to alter your GeoJSON file so that ir reads like this
     "commodity": "Bauxite",
     "reference": "Riofinex"
    }
-        ```
+```
 	
-	And finally you need to have your CV uploaded into the same folder in your Github account to be able to link to it
+And then all you need to do is have your CV uploaded into the same folder in your Github account to be able to link to it
 
 To see it in action go to this link  
