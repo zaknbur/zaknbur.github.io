@@ -243,5 +243,18 @@ One final touch is to incorporate your actual CV as a link, so the final few lin
    });
    
      ```
-     
-     
+    to this 
+    
+         ```
+        map.data.addListener('click', function(event) {
+    document.getElementById('geolmap').innerHTML ='<a href="http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#'+event.feature.getProperty('reference')+'"target="_blank">Details</a>';      
+   });
+
+          ```
+	  
+And then you need to alter your GeoJSON file so that ir reads like this
+
+    ```
+    
+        ```
+
