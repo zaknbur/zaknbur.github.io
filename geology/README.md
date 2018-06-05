@@ -268,6 +268,13 @@ And then you need to alter your GeoJSON file so that ir reads like this
    }
 ```
 	
-And then all you need to do is have your CV uploaded into the same folder in your Github account to be able to link to it
+And then all you need to do is have your CV uploaded into the same folder in your Github account to be able to link to it. You will need to internally tag it with so-called "relative links" like this
+
+```
+<A NAME="Riofinex">
+<b>1980 – 1983 : Riofinex Ltd, Saudi Arabia</b> – Exploration Geologist.</br> 
+Pre­-feasability evaluation of the Cretaceous Az Zabira Bauxite deposit, monitored and logged diamond drill core, field exploration (helicopter) for further similar occurences of bauxite. Grassroots exploration (fly­camp) for Base­metals in Ordovician sandstones and for coal in the sedimentary cover rocks of eastern Saudi Arabia. 2 weeks study tour in Australia examining RTZ bauxite mines and processing facilities with the aim of transfering know­-how to the Az Zabira deposit.<p>
+ <p>
+```
 
 To see it in action go to this link  
