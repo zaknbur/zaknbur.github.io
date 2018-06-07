@@ -1,12 +1,21 @@
+We will be working with these three different sets of files - which are located **[here](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/)** in the geology sub-directory 
+
+ *. **[zaknbur.github.io/geology/cv-job.json](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job.json)**
+
+ *. **[zaknbur.github.io/geology/geology/au.svg](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/au.svg)**
+
+ *. **[zaknbur.github.io/geology/cv-job-map.html](https://github.com/zaknbur/zaknbur.github.io/blob/master/geology/cv-job-map.html)**
+   
+
 1.  We are now ready to put together the three different components of your of your geological career, which are
     1. Your geocoded work locations in GeoJSON format (done previously by you)
     1. The 'HTML' code needed to display your data as an interactive webpage with a Google Maps background
     1. The geological symbols that will replace the default 'red teardrop' Google Map point symbol
->
+> 
 
 2.  All of the code that you will need to produce has to be done using a simple text editor (such as Notepad in Windows, TextEdit for Apple, Gedit for Linux) as wordprocessors tend to put in all sorts of hidden formatting stuff that JavaScript does not  like.
 
-3.  Anyway once you have downloaded your GeoJSON file from **[the Google Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geojson/)**, it should look something like this (here for example representing two individual reference points, one traverse line, and a concession area) 
+3.  Once you have downloaded your GeoJSON file from **[the Google Geocoder](https://google-developers.appspot.com/maps/documentation/utils/geojson/)**, it should look something like this (here for example representing two individual reference points, one traverse line, and a concession area) 
 
 
 ```JSON:.geojson
@@ -66,16 +75,17 @@ You now need to save it as a JSON file and call it something like **cv-job.json*
 
       1. Ridiculous levels of accuracy (15 places of decimals !),  but you only need to have a maximum of 5 places of decimals (as one degree equates to around 111 km, hence 5 places of decimals gives an accuracy of around 1 metre)
 
-      1. The geocoder gives results as Longitude, Lattitude not the usual way round for a Geologist !
+      1. The geocoder gives results as Longitude, Latitude not the usual way round for a Geologist !
 
       1. If you are geocoding a polygon, the first and last set of coordinates have to be identical in order to close it off correctly
+      1. Check and then double-check that you have got your lat/long coordinates the right way round, as Google Maps get very confused if you tell it that your latitude has a value that is greater than 90 degrees (it has no latitude for this sort of behaviour). In fact it adopts the pose of a **[Norwegian Blue Parrot](https://en.wikipedia.org/wiki/Dead_Parrot_sketch)** and lies on it's back with it's legs in the air and pines for the fjords. 
 
 5.  You will then have to open your saved file using a text editor and fill out and edit the **properties** part yourself, much like this -
 
 ```JSON:.geojson
     "properties":
    {
-    "icon": "au-a.svg",
+    "icon": "au.svg",
     "country": "Australia",
     "location": "Charters Towers",
     "employer": " Red Dome",
@@ -86,7 +96,7 @@ You now need to save it as a JSON file and call it something like **cv-job.json*
   ```  
 6.  If you look at this example as it appears in its final form **[on a Google Map](http://zaknbur.github.io/cv-jobs/cv-job-map-1.html)**  you will noticed that Google's default "red upside down tear-drop" point symbol has been converted into a more geologically significant symbol. The way this is done via the **"icon"** tag by creating an *SVG* image (in this case for **Gold**, called **au.svg**)  that looks like this.  
 
-```  
+  ```  
 <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44">
 <circle cx="22" cy="22" r="20" opacity="1.0" 
     style="  stroke: black;
@@ -101,7 +111,7 @@ You now need to save it as a JSON file and call it something like **cv-job.json*
     Au
   </text>
 </svg>
-```  
+  ```  
 7. The only bits you need to change (to indicate the particular metal / mineral you were looking for at that location) are 
   - firstly the colour which is on the fifth line after fill:  i.e. **gold** , and 
   - secondly the third line from the bottom i.e. **Au**
@@ -119,7 +129,7 @@ So for example if you had been exploring for Copper, you would change the chemic
 The places where you need to change the 'HTML code are shown in the comments lines which are shown as 
      `<!--COMMENT--> ` and  `//COMMENT// `
 
-```
+  ```
 <!DOCTYPE html>
 <html>
   <head>
@@ -253,7 +263,7 @@ function initMap() {
 
 ```
 	  
-And then you need to alter your GeoJSON file so that ir reads like this
+And then you need to alter your GeoJSON file so that ii reads like this
 
 ```
     "properties":
@@ -283,9 +293,9 @@ To see it in action go to this link
 
 which should load this link
 
-[http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#Geosurvey](http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#Geosurvey)
+[http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#Riofinex](http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#Riofinex)
 
 
-11. Once you have got all of the three components sorted out you then have to load them into either your own website, or into your own Github account.The best approach is to ust put all the files into the same directory then you don't have to fiddle with trying to work out how to get sub-directories to work correctly.
+11. Finally once you have got all of the three components sorted out you then have to load them into either your own website, or into your own Github account.The best approach is to ust put all the files into the same directory then you don't have to fiddle with trying to work out how to get sub-directories to work correctly.
 
 If you have any questions just send me an email via [micky-cv-g@salamander.co.uk](mailto:micky-github@salamander.co.uk) and if you want to have a far more detailed explanation of how to publish a webpage using Git (which is basically what this tutorial was all about) have a look at  **[Max Harlow's excellent tutorial](https://github.com/maxharlow/tutorials/tree/master/build-a-website-with-html-and-git)** on the subject. Another good site if you have GPS data and just want to build interactive maps using Google Maps is **[http://www.gpsvisualizer.com/](http://www.gpsvisualizer.com/)**
