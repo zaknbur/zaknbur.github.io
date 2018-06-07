@@ -75,10 +75,10 @@ You now need to save it as a JSON file and call it something like **cv-job.json*
 
       1. Ridiculous levels of accuracy (15 places of decimals !),  but you only need to have a maximum of 5 places of decimals (as one degree equates to around 111 km, hence 5 places of decimals gives an accuracy of around 1 metre)
 
-      1. The geocoder gives results as Longitude, Lattitude not the usual way round for a Geologist !
+      1. The geocoder gives results as Longitude, Latitude not the usual way round for a Geologist !
 
       1. If you are geocoding a polygon, the first and last set of coordinates have to be identical in order to close it off correctly
-      1. Check and then double-check that you have got your lat/long coordinates the right way round, as Google Maps get very confused if you tell it that your lattitude has a value that is greater than 90 degrees (it has no lattitude for this sort of behaviour). In fact it adopts the pose of a **[Norwegian Blue Parrot](https://en.wikipedia.org/wiki/Dead_Parrot_sketch)** and lies on it's back with it's legs in the air and pines for the fjords. 
+      1. Check and then double-check that you have got your lat/long coordinates the right way round, as Google Maps get very confused if you tell it that your latitude has a value that is greater than 90 degrees (it has no latitude for this sort of behaviour). In fact it adopts the pose of a **[Norwegian Blue Parrot](https://en.wikipedia.org/wiki/Dead_Parrot_sketch)** and lies on it's back with it's legs in the air and pines for the fjords. 
 
 5.  You will then have to open your saved file using a text editor and fill out and edit the **properties** part yourself, much like this -
 
@@ -243,7 +243,59 @@ function initMap() {
         src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
   </body>
 </html>
-  ```
-10. Finally once you have got all of the three components sorted out you then have to load them into either your own website, or into your own Github account.The best approach is to ust put all the files into the same directory then you don't have to fiddle with trying to work out how to get sub-directories to work correctly.
+```
 
-If you have any questions just send me an email via [micky-github@salamander.co.uk](mailto:micky-github@salamander.co.uk) and if you want to have a far more detailed explanation of how to publish a webpage using Git (which is basically what this tutorial was all about) have a look at  **[Max Harlow's excellent tutorial](https://github.com/maxharlow/tutorials/tree/master/build-a-website-with-html-and-git)** on the subject. Another good site if you have GPS data and just want to build interactive maps using Google Maps is **[http://www.gpsvisualizer.com/](http://www.gpsvisualizer.com/)**
+10. One final touch is to incorporate your actual CV as a link, so the final few lines of code need to be changed from
+
+```
+    map.data.addListener('click', function(event) {
+    document.getElementById('geolmap').innerHTML ='<a href="http://'+event.feature.getProperty('reference')+'"target="_blank">Geology</a>';      
+   });
+   
+```
+
+    to this 
+    
+```
+        map.data.addListener('click', function(event) {
+    document.getElementById('geolmap').innerHTML ='<a href="http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#'+event.feature.getProperty('reference')+'"target="_blank">Details</a>';      
+   });
+
+```
+	  
+And then you need to alter your GeoJSON file so that ii reads like this
+
+```
+    "properties":
+   {
+    "icon": "bau-a.svg",
+    "country": "Saudi Arabia",
+    "location": "Az Zabira",
+    "employer": "Riofinex",
+    "work": "Exploration at",
+    "commodity": "Bauxite",
+    "reference": "Riofinex"
+   }
+```
+	
+And then all you need to do is have your CV uploaded into the same folder in your Github account to be able to link to it. You will need to internally tag it with so-called "relative links" like this
+
+```
+<A NAME="Riofinex">
+<b>1980 – 1983 : Riofinex Ltd, Saudi Arabia</b> – Exploration Geologist.</br> 
+Pre­-feasability evaluation of the Cretaceous Az Zabira Bauxite deposit, monitored and logged diamond drill core, field exploration (helicopter) for further similar occurences of bauxite. Grassroots exploration (fly­camp) for Base­metals in Ordovician sandstones and for coal in the sedimentary cover rocks of eastern Saudi Arabia. 2 weeks study tour in Australia examining RTZ bauxite mines and processing facilities with the aim of transfering know­-how to the Az Zabira deposit.<p>
+ <p>
+```
+
+To see it in action go to this link  
+
+[http://zaknbur.github.io/cv-jobs/cv-job-map-1.html](http://zaknbur.github.io/cv-jobs/cv-job-map-1.html)
+
+which should load this link
+
+[http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#Riofinex](http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#Riofinex)
+
+
+11. Finally once you have got all of the three components sorted out you then have to load them into either your own website, or into your own Github account.The best approach is to ust put all the files into the same directory then you don't have to fiddle with trying to work out how to get sub-directories to work correctly.
+
+If you have any questions just send me an email via [micky-cv-g@salamander.co.uk](mailto:micky-github@salamander.co.uk) and if you want to have a far more detailed explanation of how to publish a webpage using Git (which is basically what this tutorial was all about) have a look at  **[Max Harlow's excellent tutorial](https://github.com/maxharlow/tutorials/tree/master/build-a-website-with-html-and-git)** on the subject. Another good site if you have GPS data and just want to build interactive maps using Google Maps is **[http://www.gpsvisualizer.com/](http://www.gpsvisualizer.com/)**
