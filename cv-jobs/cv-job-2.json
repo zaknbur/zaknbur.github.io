@@ -384,7 +384,7 @@
 		"icon" : "cu-a.svg",  
                    "country":"USA",
                  "location":"Arizona",
-                "employer" : " Banque de la Societe Finaciere Europeen ",
+                "employer" : " Banque de la Societe Financiere Europeen ",
                 "work":"Project Evaluation in ",   
                 "reference" : "Banque",  
 		"commodity":"Copper"
@@ -400,7 +400,7 @@
 		"icon" : "coa-a.svg",  
                    "country":"China",
                  "location":"Antaibao",
-                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "employer" : " Banque de la Societe Financiere Europeen  ",
                 "work":"Project Evaluation of ",   
                 "reference" : "Banque",  
 		"commodity":"Coal"
@@ -416,7 +416,7 @@
 		"icon" : "vms-a.svg",  
                    "country":"Canada",
                  "location":"Mobrun",
-                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "employer" : " Banque de la Societe Financiere Europeen  ",
                 "work":"Project Evaluation of ",   
                 "reference" : "Banque",  
 		"commodity":"Copper / Zinc"
@@ -432,7 +432,7 @@
 		"icon" : "au-a.svg",  
                    "country":"Chile",
                  "location":"El Indio",
-                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "employer" : " Banque de la Societe Financiere Europeen  ",
                 "work":"Project Evaluation of ",   
                 "reference" : "Banque",  
 		"commodity":"Gold"
@@ -448,7 +448,7 @@
 		"icon" : "au-a.svg",  
                    "country":"Canada",
                  "location":"Colomac",
-                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "employer" : " Banque de la Societe Financiere Europeen  ",
                 "work":"Project Evaluation of ",   
                 "reference" : "Banque",  
 		"commodity":"Gold"
@@ -464,7 +464,7 @@
 		"icon" : "fe-a.svg",  
                    "country":"USA",
                  "location":"Minnesota",
-                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "employer" : " Banque de la Societe Financiere Europeen  ",
                 "work":"Project Evaluation in ",   
                 "reference" : "Banque",  
 		"commodity":"Iron Ore"
@@ -480,7 +480,7 @@
 		"icon" : "pot-a.svg",  
                    "country":"Thailand",
                  "location":"Udon Thani",
-                "employer" : " Banque de la Societe Finaciere Europeen  ",
+                "employer" : " Banque de la Societe Financiere Europeen  ",
                 "work":"Project Evaluation of ",   
                 "reference" : "Banque",  
 		"commodity":"Potash"
