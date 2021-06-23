@@ -1,0 +1,153 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"fill": "yellow",
+"fill-opacity": 0.25,
+"year mapped 1-50k": " 1993 ",
+"name": "Bomlo-1",
+"geology": "bomlo-c-1.png",
+"map 50k": "Bomlo - (1114-1)",
+"UTM coords": "Zone 32 (287700/6633000)(289700/6628000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+        [8.017145,30.755521]
+,
+        [8.016200,30.719441]
+,
+        [8.057958,30.718618]
+,
+        [8.058918,30.754698]
+,
+        [8.017145,30.755521]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"year mapped 1-50k": " 1993 ",
+"name": "Bomlo-2",
+"geology": "bomlo-c-2.png",
+"map 50k": "Bomlo ( 1114-1 ) ",
+"UTM coords": "Zone 32 (284700/6633000)(287700/6629667)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+        [8.142018,30.736813]
+,
+        [8.141028,30.700733]
+,
+        [8.182777,30.699871]
+,
+        [8.183783,30.735951]
+,
+        [8.142018,30.736813]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"fill": "yellow",
+"fill-opacity": 0.25,
+"year mapped 1-50k": " 1993 ",
+"name": "Bomlo-3",
+"geology": "bomlo-c-3.png",
+"map 50k": "Bomlo  (1114-1) ",
+"UTM coords": "Zone 32 (289700/6633000)(291700/6628000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+        [8.100886,30.761078]
+,
+        [8.099911,30.724998]
+,
+        [8.141670,30.724149]
+,
+        [8.1426608,30.760228]
+,
+        [8.100886,30.761078]
+]
+]
+}
+},
+
+
+{
+"type": "Feature",
+"properties": {
+"fill": "yellow",
+"fill-opacity": 0.25,
+"year mapped 1-50k": " 1994",
+"name": "Tordal-3",
+"geology": "tordal-c-3.png",
+"map 50k": "Gjerstadt  (1612-3  ? as typo in (1613-3) Drangedal",
+"UTM coords": "Zone 32 (478980/6564320)(483980/6562320)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates": [
+[
+        [8.099911,30.724998]
+,
+        [8.098936,30.688918]
+,
+        [8.140681,30.688069]
+,
+        [8.141670,30.724149]
+,
+        [8.099911,30.724998]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"Concession Area": "SouthWest"
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#00FF00",
+"marker-size": "medium",
+"icon": "py-cu-1.svg",
+"commodity": "Copper - Pyrites Cu",
+"map 50k": "Gjerstad (1612-1)",
+"name": "Helldal - 0817.009",
+"reference": "5588&p_spraak=E",
+"UTM coords": "EU89 Zone 32 X-508999 Y-6535210"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+8.100984,30.764686
+]
+}
+},
+
+
+
+{
+"type": "Feature",
+"properties": {
+"Concession Area": "Central"
+}
+}
+]
+}
