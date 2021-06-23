@@ -27,7 +27,6 @@
 ]
 }
 },
-
 {
 "type": "Feature",
 "properties": {
@@ -54,7 +53,6 @@
 ]
 }
 },
-
 {
 "type": "Feature",
 "properties": {
@@ -81,7 +79,6 @@
 ]
 }
 },
-
 {
 "type": "Feature",
 "properties": {
@@ -108,7 +105,6 @@
 ]
 }
 },
-
 {
 "type": "Feature",
 "properties": {
@@ -135,7 +131,6 @@
 ]
 }
 },
-
 {
 "type": "Feature",
 "properties": {
@@ -304,7 +299,6 @@
 ]
 }
 },
-
 {
 "type": "Feature",
 "properties": {
@@ -324,7 +318,6 @@
 ]
 }
 },
-
 {
 "type": "Feature",
 "properties": {
@@ -339,7 +332,8 @@
 },
 "geometry": {
 "type": "Point",
-"coordinates":         [8.381038,
+"coordinates": [
+8.381038,
 59.642285
 ]
 }
