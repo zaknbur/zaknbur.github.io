@@ -296,6 +296,6 @@ which should load this link
 [http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#Riofinex](http://zaknbur.github.io/cv-jobs/micky-allen-cv.html#Riofinex)
 
 
-11. Finally once you have got all of the three components sorted out you then have to load them into either your own website, or into your own Github account.The best approach is to ust put all the files into the same directory then you don't have to fiddle with trying to work out how to get sub-directories to work correctly.
+11. Finally once you have got all of the three components sorted out you then have to load them into either your own website, or into your own Github account.The best approach is to just put all the files into the same directory then you don't have to fiddle with trying to work out how to get sub-directories to work correctly.
 
 If you have any questions just send me an email via [micky-cv-g@salamander.co.uk](mailto:micky-github@salamander.co.uk) and if you want to have a far more detailed explanation of how to publish a webpage using Git (which is basically what this tutorial was all about) have a look at  **[Max Harlow's excellent tutorial](https://github.com/maxharlow/tutorials/tree/master/build-a-website-with-html-and-git)** on the subject. Another good site if you have GPS data and just want to build interactive maps using Google Maps is **[http://www.gpsvisualizer.com/](http://www.gpsvisualizer.com/)**
