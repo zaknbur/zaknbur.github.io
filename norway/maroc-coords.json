@@ -1,0 +1,308 @@
+{
+"type": "FeatureCollection",
+"features":         [
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Aoufour",
+"concession": "2339129",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":                [
+        [
+        [-8.017145,30.755521]
+,
+        [-8.016200,30.719441]
+,
+        [-8.057958,30.718618]
+,
+        [-8.058918,30.754698]
+,
+        [-8.017145,30.755521]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Boukouali",
+"concession": "2238176",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":                       [
+        [
+        [2.583887,34.355913]
+,
+        [2.585059,34.319858]
+,
+        [2.628513,34.320824]
+,
+        [2.627358,34.356879]
+,
+        [2.583887,34.355913]
+]
+]
+}
+},
+
+
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Bourdine",
+"concession": "220459",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":         [
+                       [
+        [2.344996,34.498483]
+,
+        [2.346271,34.4624325]
+,
+        [2.389793,34.463480]
+,
+        [2.388537,34.499531]
+,
+        [2.344996,34.498483]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Jbel Metsilla",
+"concession": "220471",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":                [
+        [
+        [1.951176,34.566825]
+,
+        [1.952616,34.530780]
+,
+        [1.996168,34.531964]
+,
+        [1.994746,34.568009]
+,
+        [1.951176,34.566825]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Tanouralt",
+"concession": "2238174",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":                [
+        [
+        [2.596183,34.411447]
+,
+        [2.597351,34.375393]
+,
+        [2.640833,34.376353]
+,
+        [2.639683,34.412408]
+,
+        [2.596183,34.411447]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Tasdremt",
+"concession": "2339124",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":                [
+        [
+        [-8.142018,30.736813]
+,
+        [-8.141028,30.700733]
+,
+        [-8.182777,30.699871]
+,
+        [-8.183783,30.735951]
+,
+        [-8.142018,30.736813]
+]
+]
+}
+} ,
+
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Tasdremt",
+"concession": "2339125",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":                [
+        [
+        [-8.100886,30.761078]
+,
+        [-8.099911,30.724998]
+,
+        [-8.141670,30.724149]
+,
+        [-8.1426608,30.760228]
+,
+        [-8.100886,30.761078]
+]
+]
+}
+} ,
+
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Tasdremt",
+"concession": "2339126",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":                [
+        [
+        [-8.099911,30.724998]
+,
+        [-8.098936,30.688918]
+,
+        [-8.140681,30.688069]
+,
+        [-8.141670,30.724149]
+,
+        [-8.099911,30.724998]
+]
+]
+}
+} ,
+
+{
+"type": "Feature",
+"properties": {
+"Concession Area": "SouthWest"
+}
+},
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Tasdremt",
+"concession": "2339127",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":                [
+        [
+        [-8.059206,30.765522]
+,
+        [-8.058246,30.729442]
+,
+        [-8.100008,30.728606]
+,
+        [-8.100984,30.764686]
+,
+        [-8.059206,30.765522]
+]
+]
+}
+} ,
+
+{
+"type": "Feature",
+"properties": {
+"Concession Area": "SouthWest"
+}
+},
+{
+"type": "Feature",
+"properties": {
+"fill": "red",
+"fill-opacity": 0.25,
+"name": "Tasdremt",
+"concession": "2339128",
+"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+},
+"geometry": {
+"type": "Polygon",
+"coordinates":                [
+        [
+        [-8.058246,30.729442]
+,
+        [-8.057286,30.693362]
+,
+        [-8.099033,30.692526]
+,
+        [-8.100008,30.728606]
+,
+        [-8.058246,30.729442]
+]
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"marker-color": "#FFFF00",
+"icon": "au-bi-b-1.svg",
+"commodity": "Gold - Au Bi Cu",
+"map 50k": "Hjartdal (1614-3)",
+"name": "Bleka - 0828.001",
+"reference": "5433&p_spraak=E",
+"description": " The Bleka gold mine was worked between 1870 and 1900, and again test mined in the 1930s. The work was carried out in two stopes, which is reported to have grades of 25 g/t Au, 45 g/t Ag, 0.4 % Bi and 1.5 % Cu. Total production is believed to amount to c. 200 kg gold. Gold occurs in ankerite-tourmaline-quartz veins which crosscut the Bleka amphibolite complex, which is a 1-2 km wide and more than 15 km long gabbroic sill. Other deposit related to the same complex are Gjuv, Espelid, Svervelid, Nystul and Blengsdal. The Gjuv vein was mined for its 1-5 % content of bismuthinite, but were also fairly rich in gold. ",
+"UTM coords": "EU89 Zone 32 X-474920 Y-6606099"
+},
+"geometry": {
+"type": "Point",
+"coordinates":         [-8.555809,
+59.592373
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"Concession Area": "Central"
+}
+}
+]
+}
