@@ -8,7 +8,7 @@
 "fill-opacity": 0.25,
 "name": "Aoufour",
 "concession": "2339129",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"Lambert Maroc Sud": "249483.40 : 419801.80 / 249483.40 : 415801.80 / 245483.40 : 415801.80 / 245483.40 : 419801.80"
 },
 "geometry": {
 "type": "Polygon",
@@ -34,26 +34,25 @@
 "fill-opacity": 0.25,
 "name": "Boukouali",
 "concession": "2238176",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"Lambert Maroc nord": "759000.58 : 420573.85 / 759000.58 : 416573.85 / 755000.58 : 416573.85 / 755000.58 : 420573.85"
 },
 "geometry": {
 "type": "Polygon",
 "coordinates":                       [
         [
-        [-2.583887,34.355913]
+        [2.583887,34.355913]
 ,
-        [-2.585059,34.319858]
+        [2.585059,34.319858]
 ,
-        [-2.628513,34.320824]
+        [2.628513,34.320824]
 ,
-        [-2.627358,34.356879]
+        [2.627358,34.356879]
 ,
-        [-2.583887,34.355913]
+        [2.583887,34.355913]
 ]
 ]
 }
 },
-
 
 {
 "type": "Feature",
@@ -62,21 +61,21 @@
 "fill-opacity": 0.25,
 "name": "Bourdine",
 "concession": "220459",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"Lambert Maroc Nord": "Z780502.72 : 436996.84 / 780502.72 : 432996.84 / 776502.72 : 432996.84 / 776502.72 : 436996.84"
 },
 "geometry": {
 "type": "Polygon",
 "coordinates":         [
                        [
-        [-2.344996,34.498483]
+        [2.344996,34.498483]
 ,
-        [-2.346271,34.4624325]
+        [2.346271,34.4624325]
 ,
-        [-2.389793,34.463480]
+        [2.389793,34.463480]
 ,
-        [-2.388537,34.499531]
+        [2.388537,34.499531]
 ,
-        [-2.344996,34.498483]
+        [2.344996,34.498483]
 ]
 ]
 }
@@ -88,21 +87,21 @@
 "fill-opacity": 0.25,
 "name": "Jbel Metsilla",
 "concession": "220471",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"Lambert Maroc Nord": "816399.39 : 445699.40 / 816399.39 : 441699.40 / 812399.39 : 441699.40 / 812399.39 : 445699.40"
 },
 "geometry": {
 "type": "Polygon",
 "coordinates":                [
         [
-        [-1.951176,34.566825]
+        [1.951176,34.566825]
 ,
-        [-1.952616,34.530780]
+        [1.952616,34.530780]
 ,
-        [-1.996168,34.531964]
+        [1.996168,34.531964]
 ,
-        [-1.994746,34.568009]
+        [1.994746,34.568009]
 ,
-        [-1.951176,34.566825]
+        [1.951176,34.566825]
 ]
 ]
 }
@@ -113,22 +112,22 @@
 "fill": "red",
 "fill-opacity": 0.25,
 "name": "Tanouralt",
-"concession": "2238174",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"concession": "2238175",
+"Lambert Maroc Nord": "757704.50 : 426700.00 / 757704.50 : 422700.00 / 753704.50 : 422700.00 / 753704.50 : 426700.00"
 },
 "geometry": {
 "type": "Polygon",
 "coordinates":                [
         [
-        [-2.596183,34.411447]
+        [2.596183,34.411447]
 ,
-        [-2.597351,34.375393]
+        [2.597351,34.375393]
 ,
-        [-2.640833,34.376353]
+        [2.640833,34.376353]
 ,
-        [-2.639683,34.412408]
+        [2.639683,34.412408]
 ,
-        [-2.596183,34.411447]
+        [2.596183,34.411447]
 ]
 ]
 }
@@ -140,7 +139,7 @@
 "fill-opacity": 0.25,
 "name": "Tasdremt",
 "concession": "2339124",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"Lambert Maroc Sud": "Z237483.40 : 418005.80 / 237483.40 : 414005.80 / 233483.40 : 414005.80 / 233483.40 : 418005.80"
 },
 "geometry": {
 "type": "Polygon",
@@ -167,7 +166,7 @@
 "fill-opacity": 0.25,
 "name": "Tasdremt",
 "concession": "2339125",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"Lambert Maroc Sud": "Z241483.40 : 420601.80 /  241483.40 : 416601.80 / 237483.40 : 420601.80 / 237483.40"
 },
 "geometry": {
 "type": "Polygon",
@@ -194,7 +193,7 @@
 "fill-opacity": 0.25,
 "name": "Tasdremt",
 "concession": "2339126",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"Lambert Maroc Sud": "241483.40 : 416601.80 / 241483.40 : 412601.80 / 237483.40 : 412601.80 / 237483.40	416601.80"
 },
 "geometry": {
 "type": "Polygon",
@@ -227,7 +226,7 @@
 "fill-opacity": 0.25,
 "name": "Tasdremt",
 "concession": "2339127",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"Lambert Maroc Sud": "245483.40 : 421001.80 / 245483.40 : 417001.80 / 241483.40 : 417001.80 / 241483.40 : 421001.80"
 },
 "geometry": {
 "type": "Polygon",
@@ -260,7 +259,7 @@
 "fill-opacity": 0.25,
 "name": "Tasdremt",
 "concession": "2339128",
-"UTM coords": "Zone 33 (400850/7173500)(403600/7170000)"
+"Lambert Maroc Sud": "245483.40 : 417001.80 / 245483.40 : 413001.80 / 241483.40 : 413001.80 / 241483.40 : 417001.80"
 },
 "geometry": {
 "type": "Polygon",
@@ -289,11 +288,11 @@
 "name": "Bleka - 0828.001",
 "reference": "5433&p_spraak=E",
 "description": " The Bleka gold mine was worked between 1870 and 1900, and again test mined in the 1930s. The work was carried out in two stopes, which is reported to have grades of 25 g/t Au, 45 g/t Ag, 0.4 % Bi and 1.5 % Cu. Total production is believed to amount to c. 200 kg gold. Gold occurs in ankerite-tourmaline-quartz veins which crosscut the Bleka amphibolite complex, which is a 1-2 km wide and more than 15 km long gabbroic sill. Other deposit related to the same complex are Gjuv, Espelid, Svervelid, Nystul and Blengsdal. The Gjuv vein was mined for its 1-5 % content of bismuthinite, but were also fairly rich in gold. ",
-"UTM coords": "EU89 Zone 32 X-474920 Y-6606099"
+"UTM Zobe": "EU89 Zone 32 X-474920 Y-6606099"
 },
 "geometry": {
 "type": "Point",
-"coordinates":         [8.555809,
+"coordinates":         [-8.555809,
 59.592373
 ]
 }
