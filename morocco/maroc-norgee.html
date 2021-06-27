@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>St Barbara - Concessions Norway</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      #map {
+        height: 100%;
+      }
+      #info-box {
+        background-color: white;
+        border: 1px solid black;
+        bottom: 70px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 20px;
+  	opacity: 0.6;
+     }
+      #fieldview {
+        background-color: white;
+        border: 1px solid blue;
+        bottom: 40px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 40px;
+  	opacity: 0.6;
+      }
+      #geolmap {
+        background-color: white;
+        border: 1px solid red;
+        bottom: 10px;
+        height: 20px;
+        padding: 5px;
+        position: absolute;
+        left: 60px;
+  	opacity: 0.6;
+      }
+      #text {
+        background-color: #ffffff;
+        border: 1px solid red;
+        top: 45px;
+        height: 25px;
+        padding: 1px;
+        position: absolute;
+        left: 15%;
+  	opacity: 0.75;
+  	filter: alpha(opacity=60); /* For IE8 and earlier */
+  
+      }
+    </style> 
+  </head>
+<body>
+ <center><b style="font-size:20px"><a href="http://geo.ngu.no/kart/mineralressurser/?Box=114117:6597635:158956:6645539" target="_blank">Norwegian - Concessions (NGU website)</a></b> -  
+   <i><a href="http://www.norgeskart.no/#!?project=norgeskart&layers=1002&zoom=7&lat=7041543.63&lon=270409.26&sok=trond" target="_blank"> - Topo maps</a> - 
+     <a href="https://minit.dirmin.no/kart/" target="_blank"> - Mining maps</a></i> </center> 
+    <div id="map"></div>
+    <div id="info-box">location details</div>
+    <div id="fieldview">data sheets</div>
+    <div id="geolmap">concession geology map</div>
+    <div id="text"><center><b style="font-size:12px">
+<a href="/bomlo-250-metals.png" target="_blank">[250k Geology of Bomlo]</a> - <a href="/namaskogan-250-metals.png" target="_blank">[250k Geology of Lillefjeld]</a> - <a href="/seljord-250-metals.png" target="_blank">[250k Geology of Bleka]</a> - <a href="/tordal-250-industrials.png" target="_blank">[250k Geology of Tordal]</a></center>
+<center><b style="font-size:12px"><br/>
+<a href="/bomlo-metals-50.png" target="_blank">[50k Geology of Bomlo]</a> - <a href="/namaskogan-50-metals.png" target="_blank">[50k Geology of Lillefjeld]</a> - <a href="/seljord-50-metals.png" target="_blank">[50k Geology of Bleka]</a> - <a href="/tordal-250-metals.png" target="_blank">[250k Metals of Tordal]</a></center></div>
+
+ 
+    <script>
+
+var map;
+var auluz = {lat: 30.75, lng: -8.25};
+
+function initMap() {
+  map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 11,
+    center: auluz
+  });
+
+
+ // addEventListener(document, "touchstart", function(e) {
+ //   console.log(e.defaultPrevented);  // will be false
+ //   e.preventDefault();   // does nothing since the listener is passive
+ //   console.log(e.defaultPrevented);  // still false
+//  }, Modernizr.passiveeventlisteners ? {passive: true} : false);
+
+
+  // Load GeoJSON.
+// map.data.loadGeoJson('blue-badge-feb-16.json');
+  map.data.loadGeoJson('maroc-coords.json');
+ // map.data.loadGeoJson('{  );
+
+//map.data.setStyle(function(feature) {
+//  var icon=null;
+//  if (feature.getProperty('icon')) {
+//    icon = feature.getProperty('icon');
+//  }
+//  return /** @type {google.maps.Data.StyleOptions} */({
+//    icon: icon
+//  });
+//});
+  
+  // Add some style.
+  map.data.setStyle(function(feature) {
+  var icon=null;
+  if (feature.getProperty('icon')) {
+    icon = feature.getProperty('icon');
+  }
+    return /** @type {google.maps.Data.StyleOptions} */({
+      fillColor: feature.getProperty('fill'),
+      strokeWeight: 1,
+    icon: icon
+    });
+  });
+  
+ //[START streetview]
+  //cbll= Latitude,longitude for Street View
+//http://maps.google.com/maps?q=&layer=c&cbll=31.33519,-89.28720
+// http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid=5758&p_spraak=E
+//      "coordinates": [	-0.194	,	51.51]
+// [END streetview]
+
+  // [START snippet]
+  // Set mouseover event for each feature laptop, click for tablet.
+  map.data.addListener('click', function(event) {
+    document.getElementById('info-box').textContent = event.feature.getProperty('name')+',  '+event.feature.getProperty('commodity');
+    }); 
+
+    map.data.addListener('click', function(event) {
+    document.getElementById('fieldview').innerHTML ='<a href="http://aps.ngu.no/pls/oradb/minres_deposit_fakta.Main?p_objid='+event.feature.getProperty('reference')+'"target="_blank">Site factsheet</a>'+','+event.feature.getProperty('UTM coords');      
+   }); 
+
+    map.data.addListener('click', function(event) {
+    document.getElementById('geolmap').innerHTML ='<a href="/'+event.feature.getProperty('geology')+'"target="_blank">Geology</a>';      
+   });
+
+//  src="https://maps.googleapis.com/maps/api/js?callback=initMap&signed_in=true&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer>
+
+// <a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
+
+  // [END snippet]
+   //<a href="http://www.w3schools.com">Visit W3Schools.com!</a>
+//        out += '<a href="' + arr[i].url + '">' + arr[i].display + '</a><br>';
+ //           document.getElementById("results").innerHTML=str;
+
+// src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI&signed_in=true&callback=initMap">
+}
+    </script>
+
+
+
+    <script async defer
+        src="https://maps.googleapis.com/maps/api/js?callback=initMap&&key=AIzaSyBVe7eSqeJTEczY7ctqonFWW-iLomIVYYI" async defer></script>
+  </body>
+</html>
+
+
+
+
