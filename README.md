@@ -7,6 +7,9 @@ zaknbur.github.io
 
 3. [Google Map from HTML page, Geo-coding, SVG Icons](/geology/README.md)
 
+
+2. [Manganese concessions map for Morocco](/manganese/README.md)
+
 3. [main menu](https://github.com/zaknbur/zaknbur.github.io/tree/master)
 
 4. [back to main menu](../../)
