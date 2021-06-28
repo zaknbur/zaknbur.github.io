@@ -65,10 +65,7 @@
     <div id="info-box">location details</div>
     <div id="fieldview">data sheets</div>
     <div id="geolmap">concession geology map</div>
-    <div id="text"><center><b style="font-size:12px">
-<a href="/bomlo-250-metals.png" target="_blank">[250k Geology of Bomlo]</a> - <a href="/namaskogan-250-metals.png" target="_blank">[250k Geology of Lillefjeld]</a> - <a href="/seljord-250-metals.png" target="_blank">[250k Geology of Bleka]</a> - <a href="/tordal-250-industrials.png" target="_blank">[250k Geology of Tordal]</a></center>
-<center><b style="font-size:12px"><br/>
-<a href="/bomlo-metals-50.png" target="_blank">[50k Geology of Bomlo]</a> - <a href="/namaskogan-50-metals.png" target="_blank">[50k Geology of Lillefjeld]</a> - <a href="/seljord-50-metals.png" target="_blank">[50k Geology of Bleka]</a> - <a href="/tordal-250-metals.png" target="_blank">[250k Metals of Tordal]</a></center></div>
+    
 
  
     <script>
